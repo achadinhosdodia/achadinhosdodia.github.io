@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Achadinhos do Dia | Ofertas</title>
+<meta name="description" content="Achadinhos com desconto todo dia. Escolha o grupo de ofertas do seu interesse.">
+<style>
+  :root { --laranja:#ee4d2d; --laranja2:#ff8c42; --roxo:#7c4dff; --fundo:#fff7f2; --texto:#222; --cinza:#777; }
+  * { box-sizing: border-box; }
+  body { margin:0; font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; background:var(--fundo); color:var(--texto); }
+  header { background: linear-gradient(135deg, var(--laranja2), var(--laranja)); color:#fff; text-align:center; padding:28px 16px 22px; }
+  header img { width:86px; height:86px; border-radius:50%; border:3px solid #fff; box-shadow:0 4px 14px rgba(0,0,0,.2); }
+  header h1 { margin:10px 0 4px; font-size:1.45rem; }
+  header p { margin:0; opacity:.95; }
+  main { max-width:560px; margin:0 auto; padding:16px; }
+  .botoes { display:grid; gap:10px; margin:-6px 0 22px; }
+  .botao { display:flex; align-items:center; justify-content:center; gap:8px; padding:14px; border-radius:14px;
+           font-weight:700; font-size:1.02rem; text-decoration:none; color:#fff; box-shadow:0 3px 10px rgba(0,0,0,.12); }
+  .whats { background:#25d366; } .tele { background:#2aabee; }
+  .botao small { font-weight:600; opacity:.9; }
+  .filtros { flex-wrap:wrap; }
+  .filtros button { flex:1 1 auto; }
+  h2 { font-size:1.1rem; margin:8px 0 12px; }
+  .filtros { display:flex; gap:8px; margin-bottom:14px; }
+  .filtros button { flex:1; padding:9px; border-radius:999px; border:2px solid var(--laranja); background:#fff;
+                    color:var(--laranja); font-weight:700; cursor:pointer; }
+  .filtros button.ativo { background:var(--laranja); color:#fff; }
+  .lista { display:grid; grid-template-columns:1fr 1fr; gap:12px; }
+  .card { background:#fff; border-radius:14px; overflow:hidden; box-shadow:0 2px 10px rgba(0,0,0,.08); display:flex; flex-direction:column; }
+  .card .foto { aspect-ratio:1; background:#f2f2f2; display:flex; align-items:center; justify-content:center; font-size:2.4rem; }
+  .card img { width:100%; height:100%; object-fit:cover; }
+  .card .info { padding:10px; display:flex; flex-direction:column; gap:4px; flex:1; }
+  .nome { font-size:.86rem; line-height:1.25; display:-webkit-box; -webkit-line-clamp:3; -webkit-box-orient:vertical; overflow:hidden; }
+  .de { color:var(--cinza); text-decoration:line-through; font-size:.8rem; }
+  .por { font-weight:800; font-size:1.08rem; color:var(--laranja); }
+  .off { background:#ffd600; color:#222; font-size:.72rem; font-weight:800; padding:2px 6px; border-radius:6px; margin-left:4px; }
+  .nota { font-size:.76rem; color:var(--cinza); }
+  .comprar { margin-top:auto; text-align:center; background:var(--laranja); color:#fff; text-decoration:none;
+             padding:9px; border-radius:10px; font-weight:700; font-size:.88rem; }
+  .vazio { grid-column:1/-1; text-align:center; color:var(--cinza); padding:30px 0; }
+  footer { text-align:center; color:var(--cinza); font-size:.78rem; padding:24px 16px 36px; }
+</style>
+</head>
+<body>
+<header>
+  <img src="logo.png" alt="" onerror="this.style.display='none'">
+  <h1>Achadinhos do Dia</h1>
+  <p>🔥 Escolha o grupo de ofertas do seu interesse</p>
+</header>
+
+<main>
+  <div class="botoes" id="botoes"><p class="vazio">Carregando grupos...</p></div>
+
+  <h2>🛒 Últimas ofertas</h2>
+  <div class="filtros" id="filtros"></div>
+  <div class="lista" id="lista"><p class="vazio">Carregando ofertas...</p></div>
+</main>
+
+<footer>
+  #publi Links de afiliado: podemos ganhar uma comissão, sem custo extra pra você.
+  Ofertas da Shopee.
+  Preço e estoque podem mudar.<br>
+  <a href="privacidade.html">Privacidade</a>
+</footer>
+
+<script>
+  // Os botões dos grupos vêm de grupos.json, que o bot de controle atualiza sozinho
+  // (grupo novo vira botão novo; link de convite redefinido se corrige).
+  const MAXIMO = 30;  // quantas ofertas mostrar
+  let nomes = {};
+  const brl = v => v.toLocaleString("pt-BR", { style: "currency", currency: "BRL" });
+  const esc = s => String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+  let ofertas = [];
+
+  function mostrar(nicho) {
+    const lista = document.getElementById("lista");
+    const itens = ofertas.filter(o => !nicho || o.nicho === nicho).slice(0, MAXIMO);
+    if (!itens.length) { lista.innerHTML = '<p class="vazio">Nenhuma oferta agora. Volte daqui a pouco!</p>'; return; }
+    lista.innerHTML = itens.map(o => {
+      const d = o.desconto || 0;
+      const de = d > 0 && d < 100 ? o.preco / (1 - d / 100) : 0;
+      const foto = o.imagem ? `<img src="${esc(o.imagem)}" alt="" loading="lazy">` : ((nomes[o.nicho] || "🛍️").split(" ")[0]);
+      return `<div class="card">
+        <div class="foto">${foto}</div>
+        <div class="info">
+          <div class="nome">${esc(o.nome)}</div>
+          ${de ? `<div class="de">${brl(de)}</div>` : ""}
+          <div><span class="por">${brl(o.preco)}</span>${d ? `<span class="off">-${d}%</span>` : ""}</div>
+          <div class="nota">⭐ ${(o.nota || 0).toFixed(1).replace(".", ",")} · ${(o.vendas || 0).toLocaleString("pt-BR")} vendidos</div>
+          <a class="comprar" href="${esc(o.link)}" target="_blank" rel="noopener">Ver na Shopee</a>
+        </div></div>`;
+    }).join("");
+  }
+
+  function montarFiltros() {
+    const presentes = [...new Set(ofertas.map(o => o.nicho))];
+    const caixa = document.getElementById("filtros");
+    caixa.innerHTML = ['<button class="ativo" data-nicho="">Todas</button>']
+      .concat(presentes.map(n => `<button data-nicho="${esc(n)}">${esc(nomes[n] || n)}</button>`)).join("");
+    caixa.querySelectorAll("button").forEach(b => b.onclick = () => {
+      caixa.querySelectorAll("button").forEach(x => x.classList.remove("ativo"));
+      b.classList.add("ativo");
+      mostrar(b.dataset.nicho);
+    });
+  }
+
+  fetch("grupos.json?t=" + Date.now())
+    .then(r => r.json())
+    .then(dados => {
+      (dados.grupos || []).forEach(g => nomes[g.nicho] = g.nome);
+      const ativos = (dados.grupos || []).filter(g => g.ativo);
+      document.getElementById("botoes").innerHTML = ativos.map(g =>
+        `<a class="botao whats" href="${esc(g.link)}" target="_blank" rel="noopener">${esc(g.nome)} <small>· grupo no WhatsApp</small></a>`
+      ).join("") + (dados.telegram ? `<a class="botao tele" href="${esc(dados.telegram)}" target="_blank" rel="noopener">📢 Todas as ofertas no Telegram</a>` : "");
+      if (ofertas.length) montarFiltros();
+    })
+    .catch(() => {
+      document.getElementById("botoes").innerHTML = '<a class="botao tele" href="https://t.me/achadosShopee97">📢 Canal de ofertas no Telegram</a>';
+    });
+
+  fetch("whatsapp/fila.json?t=" + Date.now())
+    .then(r => r.json())
+    .then(dados => {
+      const vistos = new Set();
+      ofertas = dados.slice().reverse().filter(o => {  // mais novas primeiro, sem repetir produto
+        const chave = o.link;
+        if (vistos.has(chave)) return false;
+        vistos.add(chave); return true;
+      });
+      montarFiltros();
+      mostrar("");
+    })
+    .catch(() => { document.getElementById("lista").innerHTML = '<p class="vazio">Não deu pra carregar agora. Tente de novo em instantes.</p>'; });
+</script>
+</body>
+</html>
