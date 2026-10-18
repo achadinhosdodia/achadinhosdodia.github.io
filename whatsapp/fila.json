@@ -40,5 +40,47 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjfmlxjdwt1d0f",
   "destaque": true,
   "criado": 1792324920
+ },
+ {
+  "id": "22397922087-1792328504",
+  "nicho": "pet",
+  "titulo": "🐾 Achado Pet",
+  "nome": "Luva Escova Pet Nano Magnética – Remove Pelos de Gatos e Cachorros com Facilidade",
+  "preco": 11.88,
+  "desconto": 43,
+  "nota": 4.9,
+  "vendas": 1547,
+  "link": "https://s.shopee.com.br/W7WSGgiro",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdwn-m18q6a14c97ba2",
+  "destaque": true,
+  "criado": 1792328504
+ },
+ {
+  "id": "50063287642-1792328511",
+  "nicho": "eletronicos",
+  "titulo": "🎧 Achado Eletrônico",
+  "nome": "kit 1 a 5 Lampada Led Pera Smart Inteligente Wi Fi 10w 2700K/6500K Frio Quente E27 110v/220v Neo Avant",
+  "preco": 31.9,
+  "desconto": 72,
+  "nota": 4.9,
+  "vendas": 388,
+  "link": "https://s.shopee.com.br/W7WSH7BoT",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mts3rpztz5kz22",
+  "destaque": true,
+  "criado": 1792328511
+ },
+ {
+  "id": "58216648204-1792328517",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "Estante 6/5/4 Andares Com Rodinhas Prateleira Organizadora Carrinho Multiuso Quarto Cozinha",
+  "preco": 59.8,
+  "desconto": 63,
+  "nota": 4.6,
+  "vendas": 1063,
+  "link": "https://s.shopee.com.br/3Vl81nMASN",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-ms50cvatu32d4f",
+  "destaque": true,
+  "criado": 1792328517
  }
 ]
