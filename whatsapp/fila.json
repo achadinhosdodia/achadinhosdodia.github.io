@@ -166,5 +166,47 @@
   "imagem": "https://cf.shopee.com.br/file/sg-11134201-82605-ml1b0utpf7d31a",
   "destaque": true,
   "criado": 1792339321
+ },
+ {
+  "id": "23392956359-1792342905",
+  "nicho": "pet",
+  "titulo": "🐾 Achado Pet",
+  "nome": "Bebedouro Fonte de Água Com Fio Elevado Automático Com Filtro Para Pet Cachorro Gato 3 Litros",
+  "preco": 55.88,
+  "desconto": 73,
+  "nota": 4.9,
+  "vendas": 311,
+  "link": "https://s.shopee.com.br/80DXeX66xA",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-82625-mlhsb1og2gi757",
+  "destaque": true,
+  "criado": 1792342905
+ },
+ {
+  "id": "22894682170-1792342911",
+  "nicho": "eletronicos",
+  "titulo": "🎧 Achado Eletrônico",
+  "nome": "Ring Light Anel de Luz LED 10 Polegadas com Tripé 2,1m Suporte Celular Iluminador TikTok YouTube",
+  "preco": 44.99,
+  "desconto": 44,
+  "nota": 4.8,
+  "vendas": 2059,
+  "link": "https://s.shopee.com.br/1BG7q5Qsr",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lf-moy38cnzq0hv41",
+  "destaque": true,
+  "criado": 1792342911
+ },
+ {
+  "id": "19528551004-1792342918",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "Verde/Roxo/Branco Bomba Elétrica De Galão Universal Com Carregamento USB Para Galão Garrafão De Água Promoção",
+  "preco": 19.59,
+  "desconto": 54,
+  "nota": 4.8,
+  "vendas": 708,
+  "link": "https://s.shopee.com.br/5AtMHLCA7v",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lxj9w5pleqhe60",
+  "destaque": true,
+  "criado": 1792342918
  }
 ]
