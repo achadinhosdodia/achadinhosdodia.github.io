@@ -376,5 +376,47 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820m3-moeqdcre2osle7",
   "destaque": true,
   "criado": 1792360920
+ },
+ {
+  "id": "22198797147-1792364501",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "Prateleira para Banheiro de Metal Adesiva sem Furo, Rack de Parede Porta Shampoo e Sabonete, Organizador Box 1 a 4 Pçs",
+  "preco": 10.99,
+  "desconto": 63,
+  "nota": 4.8,
+  "vendas": 3154,
+  "link": "https://s.shopee.com.br/5VWD4em0VZ",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mn1uzb42hx4yd8",
+  "destaque": true,
+  "criado": 1792364501
+ },
+ {
+  "id": "48305929618-1792364507",
+  "nicho": "pet",
+  "titulo": "🐾 Achado Pet",
+  "nome": "Sanitário Canino Grande Lavável Com ou Sem Educador Adestrador Pet Xixi Pode e Não Pode Banheiro",
+  "preco": 13.92,
+  "desconto": 53,
+  "nota": 4.8,
+  "vendas": 4200,
+  "link": "https://s.shopee.com.br/9fLm2K0sGM",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-825a9-mtdzi2s9f4zqcf",
+  "destaque": true,
+  "criado": 1792364507
+ },
+ {
+  "id": "22693527309-1792364515",
+  "nicho": "eletronicos",
+  "titulo": "🎧 Achado Eletrônico",
+  "nome": "Capa De Suporte Para Samsung Tab S10FE/S10 Lite/A9+/S10FE+ Com Teclado Magnético Removível Bluetooth ABNT2 E Mouse",
+  "preco": 130.5,
+  "desconto": 26,
+  "nota": 4.9,
+  "vendas": 405,
+  "link": "https://s.shopee.com.br/9KivdiX51w",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ren9-m2eqc0mky6jna0",
+  "destaque": true,
+  "criado": 1792364515
  }
 ]
