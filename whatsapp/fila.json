@@ -292,5 +292,47 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134201-820ly-mqxpw73r55vr99",
   "destaque": true,
   "criado": 1792350119
+ },
+ {
+  "id": "47302258072-1792357311",
+  "nicho": "pet",
+  "titulo": "🐾 Achado Pet",
+  "nome": "20kg areia sanitaria higienica super premium natural argila absorvente para gatos ecologica",
+  "preco": 26.35,
+  "desconto": 27,
+  "nota": 4.9,
+  "vendas": 3200,
+  "link": "https://s.shopee.com.br/7Kxr7nVO0i",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mruhghd15m2ta2",
+  "destaque": true,
+  "criado": 1792357311
+ },
+ {
+  "id": "23398223779-1792357318",
+  "nicho": "eletronicos",
+  "titulo": "🎧 Achado Eletrônico",
+  "nome": "Câmera de segurança YOOSEE IP66 Wi-Fi com lente dupla e sensor de movimento 360° ANJGG",
+  "preco": 128.99,
+  "desconto": 36,
+  "nota": 4.9,
+  "vendas": 2397,
+  "link": "https://s.shopee.com.br/3B8IA9BiVp",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8262t-ml29qp3ousjk50",
+  "destaque": true,
+  "criado": 1792357318
+ },
+ {
+  "id": "42408188530-1792357325",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "Mini Processador E Triturador De Alimentos Manual 3 Laminas 400ML1UNI COR ALEATORIA",
+  "preco": 13.98,
+  "desconto": 53,
+  "nota": 4.9,
+  "vendas": 710,
+  "link": "https://s.shopee.com.br/5fpd8kWvbD",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdy4-mc279r4n5pvy81",
+  "destaque": true,
+  "criado": 1792357325
  }
 ]
