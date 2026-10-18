@@ -124,5 +124,47 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbpbyp2v5vtl23",
   "destaque": true,
   "criado": 1792335723
+ },
+ {
+  "id": "21299367155-1792339307",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "Conjunto 2/3/5/10 Potes 370/640/640ml Vidro Hermético Mantimentos Marmita Fitness",
+  "preco": 27.89,
+  "desconto": 57,
+  "nota": 4.9,
+  "vendas": 1391,
+  "link": "https://s.shopee.com.br/9KivArgqj1",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820md-mucaft9u86bmd5",
+  "destaque": true,
+  "criado": 1792339307
+ },
+ {
+  "id": "22193435436-1792339314",
+  "nicho": "pet",
+  "titulo": "🐾 Achado Pet",
+  "nome": "Escova Para Gatos E Cães A Vapor 3 Em 1 Pente Steam-Autolimpante Escova Vaporizador Pente de Remoção",
+  "preco": 10.88,
+  "desconto": 46,
+  "nota": 4.9,
+  "vendas": 1978,
+  "link": "https://s.shopee.com.br/7KxqnCNezo",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdwc-m18o6r5scnjy61",
+  "destaque": true,
+  "criado": 1792339314
+ },
+ {
+  "id": "19897991191-1792339321",
+  "nicho": "eletronicos",
+  "titulo": "🎧 Achado Eletrônico",
+  "nome": "Tablet 10.1” HD + Teclado Bluetooth Capa 2 em 1 WiFi Android Tela Grande Alta Performance",
+  "preco": 569.99,
+  "desconto": 19,
+  "nota": 4.8,
+  "vendas": 1084,
+  "link": "https://s.shopee.com.br/8KqNz2kBVs",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-82605-ml1b0utpf7d31a",
+  "destaque": true,
+  "criado": 1792339321
  }
 ]
