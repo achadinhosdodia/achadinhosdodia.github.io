@@ -250,5 +250,47 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134201-820m2-mubnzh2yx2bla0",
   "destaque": true,
   "criado": 1792346517
+ },
+ {
+  "id": "24740902631-1792350105",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "Cozedor de Ovos Elétrico 110V – Portátil a Vapor para Cozinha Envio Imediato",
+  "preco": 28.18,
+  "desconto": 47,
+  "nota": 4.9,
+  "vendas": 4470,
+  "link": "https://s.shopee.com.br/1LgdqWVzru",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdg66onj1vipad",
+  "destaque": true,
+  "criado": 1792350105
+ },
+ {
+  "id": "23498810233-1792350112",
+  "nicho": "pet",
+  "titulo": "🐾 Achado Pet",
+  "nome": "Kit Jornal Pet Higiênico 50/100/150/200 Folhas Biodegradável Atóxico Não Mancha",
+  "preco": 17.8,
+  "desconto": 57,
+  "nota": 4.8,
+  "vendas": 5219,
+  "link": "https://s.shopee.com.br/9V2LZXVV1W",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mddbabnmy2peb8",
+  "destaque": true,
+  "criado": 1792350112
+ },
+ {
+  "id": "22297168365-1792350119",
+  "nicho": "eletronicos",
+  "titulo": "🎧 Achado Eletrônico",
+  "nome": "Ring Light 10' Completo Portátil 26cm + Tripé + suporte p/ celular",
+  "preco": 40.89,
+  "desconto": 32,
+  "nota": 4.8,
+  "vendas": 1296,
+  "link": "https://s.shopee.com.br/9APVAvxNCJ",
+  "imagem": "https://cf.shopee.com.br/file/br-11134201-820ly-mqxpw73r55vr99",
+  "destaque": true,
+  "criado": 1792350119
  }
 ]
