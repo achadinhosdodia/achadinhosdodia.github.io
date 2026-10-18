@@ -82,5 +82,47 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-ms50cvatu32d4f",
   "destaque": true,
   "criado": 1792328517
+ },
+ {
+  "id": "23498676105-1792335710",
+  "nicho": "eletronicos",
+  "titulo": "🎧 Achado Eletrônico",
+  "nome": "Kit 10 Cabos USB Reforçados 1m V8 , Tipo C com Adaptador , IPhone Inova Pronta entrega",
+  "preco": 34.88,
+  "desconto": 42,
+  "nota": 4.6,
+  "vendas": 335,
+  "link": "https://s.shopee.com.br/5LCmLOgDsv",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ra2t-mbi9seohe6lx05",
+  "destaque": true,
+  "criado": 1792335710
+ },
+ {
+  "id": "53310729249-1792335716",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "10 Marmitas Potes 800ml Travas Laterais hermeticas - Livres de BPA Alimentos organiza congelador - KAZIVA",
+  "preco": 19.9,
+  "desconto": 50,
+  "nota": 4.8,
+  "vendas": 1358,
+  "link": "https://s.shopee.com.br/2VsayCHPKH",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-822x8-moe06m8c7nrj92",
+  "destaque": true,
+  "criado": 1792335716
+ },
+ {
+  "id": "17974136989-1792335723",
+  "nicho": "pet",
+  "titulo": "🐾 Achado Pet",
+  "nome": "Tapete para Comedouro Pet Antiderrapante - Ossinho - 29cm x 43cm",
+  "preco": 13.52,
+  "desconto": 24,
+  "nota": 4.8,
+  "vendas": 2990,
+  "link": "https://s.shopee.com.br/3Vl8A2iOs2",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbpbyp2v5vtl23",
+  "destaque": true,
+  "criado": 1792335723
  }
 ]
