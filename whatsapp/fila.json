@@ -586,5 +586,47 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7kuebzlo68k1f",
   "destaque": true,
   "criado": 1792425731
+ },
+ {
+  "id": "58200880530-1792429309",
+  "nicho": "moda",
+  "titulo": "👗 Achado de Moda",
+  "nome": "ROOGEN Relógio De Pulso Para masculino À Prova D'água De Moda De Lux",
+  "preco": 49.99,
+  "desconto": 64,
+  "nota": 4.9,
+  "vendas": 765,
+  "link": "https://s.shopee.com.br/6q1brHfn0p",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhd53ytwvimcd4",
+  "destaque": true,
+  "criado": 1792429309
+ },
+ {
+  "id": "58206431475-1792429315",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "Triturador Elétrico 4 em 1 USB Sem Fio Cortador de Alho e Legumes Mini Processador de Cozinha",
+  "preco": 28.88,
+  "desconto": 59,
+  "nota": 4.6,
+  "vendas": 830,
+  "link": "https://s.shopee.com.br/8pmgEy32eV",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-82601-mli1vmpcd2x4df",
+  "destaque": true,
+  "criado": 1792429315
+ },
+ {
+  "id": "19999543485-1792429322",
+  "nicho": "eletronicos",
+  "titulo": "🎧 Achado Eletrônico",
+  "nome": "Cabo Carregador Turbo Duplo Tipo-C para Usb-C 100w 20v 3a Nylon Reforçado Pd Hrebos Metal Waves",
+  "preco": 22.0,
+  "desconto": 50,
+  "nota": 4.9,
+  "vendas": 447,
+  "link": "https://s.shopee.com.br/2VschKrTzp",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1x89w46lo945f",
+  "destaque": true,
+  "criado": 1792429322
  }
 ]
