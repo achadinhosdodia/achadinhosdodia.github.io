@@ -544,5 +544,47 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-mqc7ovxtxaf52b",
   "destaque": true,
   "criado": 1792422117
+ },
+ {
+  "id": "58260430067-1792425718",
+  "nicho": "eletronicos",
+  "titulo": "🎧 Achado Eletrônico",
+  "nome": "Carregador 120W Completo Turbo Cabo USB + TIPO C    Xiaomi",
+  "preco": 28.99,
+  "desconto": 34,
+  "nota": 4.6,
+  "vendas": 1565,
+  "link": "https://s.shopee.com.br/2BFmEb8ATz",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mo2th5v357gk38",
+  "destaque": true,
+  "criado": 1792425718
+ },
+ {
+  "id": "20698436405-1792425725",
+  "nicho": "moda",
+  "titulo": "👗 Achado de Moda",
+  "nome": "Tênis feminino lançamento novidade leve confortável casual plataforma top!",
+  "preco": 49.9,
+  "desconto": 22,
+  "nota": 4.8,
+  "vendas": 2951,
+  "link": "https://s.shopee.com.br/6L5LCGN6UF",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-7qukw-lfxa7no9rsam46",
+  "destaque": true,
+  "criado": 1792425725
+ },
+ {
+  "id": "20699665137-1792425731",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "Fogão Elétrico Portátil 2 Bocas Ou 1 Boca Cooktop Mesa Inox com Controle de Temperatura 1000W/2000W",
+  "preco": 54.2,
+  "desconto": 52,
+  "nota": 4.9,
+  "vendas": 4994,
+  "link": "https://s.shopee.com.br/6AluzxsSyi",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7kuebzlo68k1f",
+  "destaque": true,
+  "criado": 1792425731
  }
 ]
