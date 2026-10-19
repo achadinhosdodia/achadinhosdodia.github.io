@@ -418,5 +418,47 @@
   "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ren9-m2eqc0mky6jna0",
   "destaque": true,
   "criado": 1792364515
+ },
+ {
+  "id": "22892660236-1792411307",
+  "nicho": "pet",
+  "titulo": "🐾 Achado Pet",
+  "nome": "Bebedouro Fonte de Água Automático Bivolt para Gato e Cachorro 1 ou 2L",
+  "preco": 33.0,
+  "desconto": 58,
+  "nota": 4.8,
+  "vendas": 486,
+  "link": "https://s.shopee.com.br/8AWz78BJsW",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820la-msbg5vcqdr0n7a",
+  "destaque": true,
+  "criado": 1792411307
+ },
+ {
+  "id": "23592385474-1792411315",
+  "nicho": "eletronicos",
+  "titulo": "🎧 Achado Eletrônico",
+  "nome": "Câmera Tomada Wi-Fi Yoosee Full HD Visão Noturna Áudio Bidirecional Detecção de Movimento Ambiente Interno",
+  "preco": 66.99,
+  "desconto": 44,
+  "nota": 4.9,
+  "vendas": 1674,
+  "link": "https://s.shopee.com.br/50ZxLJsF3n",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8wak11wlc76e9",
+  "destaque": true,
+  "criado": 1792411315
+ },
+ {
+  "id": "18897523848-1792411321",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "Kit 10 ou 5 Potes Vidro Hermético 370ml Retangular Premium Marmita Fitness",
+  "preco": 49.67,
+  "desconto": 88,
+  "nota": 4.9,
+  "vendas": 1319,
+  "link": "https://s.shopee.com.br/1BHO8bkJB",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk2brujkj5s213",
+  "destaque": true,
+  "criado": 1792411321
  }
 ]
