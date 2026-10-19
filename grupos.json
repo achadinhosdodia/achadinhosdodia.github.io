@@ -13,15 +13,15 @@
    "ativo": true
   },
   {
-   "nicho": "pet",
-   "nome": "🐾 Pet",
-   "link": "https://chat.whatsapp.com/IsuMiVq2BSWD5NauJis34c",
-   "ativo": false
-  },
-  {
    "nicho": "moda",
    "nome": "👗 Moda",
    "link": "https://chat.whatsapp.com/KptCBVpjGpVFtGkOSrbmda",
+   "ativo": true
+  },
+  {
+   "nicho": "pet",
+   "nome": "🐾 Pet",
+   "link": "https://chat.whatsapp.com/IsuMiVq2BSWD5NauJis34c",
    "ativo": false
   }
  ],
