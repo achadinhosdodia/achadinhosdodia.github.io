@@ -7,16 +7,16 @@
    "ativo": true
   },
   {
-   "nicho": "pet",
-   "nome": "🐾 Pet",
-   "link": "https://chat.whatsapp.com/IsuMiVq2BSWD5NauJis34c",
-   "ativo": true
-  },
-  {
    "nicho": "eletronicos",
    "nome": "🎧 Eletrônicos",
    "link": "https://chat.whatsapp.com/E6bj4cYKZasJ6V982s1ti2",
    "ativo": true
+  },
+  {
+   "nicho": "pet",
+   "nome": "🐾 Pet",
+   "link": "https://chat.whatsapp.com/IsuMiVq2BSWD5NauJis34c",
+   "ativo": false
   }
  ],
  "telegram": "https://t.me/achadosShopee97"
