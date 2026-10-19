@@ -796,5 +796,47 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mqhklo0catj7ba",
   "destaque": true,
   "criado": 1792447323
+ },
+ {
+  "id": "23899017576-1792450902",
+  "nicho": "eletronicos",
+  "titulo": "🎧 Achado Eletrônico",
+  "nome": "Carregador Portátil Indução para Sem fio Bateria Carga 3000/5000/10000mAh",
+  "preco": 28.98,
+  "desconto": 58,
+  "nota": 4.6,
+  "vendas": 8982,
+  "link": "https://s.shopee.com.br/7AeSebxdDm",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhpueqwbzs3me6",
+  "destaque": true,
+  "criado": 1792450902
+ },
+ {
+  "id": "22899036423-1792450909",
+  "nicho": "moda",
+  "titulo": "👗 Achado de Moda",
+  "nome": "TOMI MITO Bolsa de Ombro Acolchoada com Alça de Corrente Estilo Casual Elegante para Trabalho e Passeio T310 ",
+  "preco": 69.99,
+  "desconto": 56,
+  "nota": 4.9,
+  "vendas": 2969,
+  "link": "https://s.shopee.com.br/4LKHHPdHkH",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lp-mstpal90d8g683",
+  "destaque": true,
+  "criado": 1792450909
+ },
+ {
+  "id": "58217093698-1792450916",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "Losa Luminária Led 3D Desenho Acrílico Brilhante USB + 7 Canetas Escrever Lousa Desenho E Pintura",
+  "preco": 32.99,
+  "desconto": 45,
+  "nota": 4.7,
+  "vendas": 3172,
+  "link": "https://s.shopee.com.br/4LKHHQ85EH",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-mseghqdsh4at76",
+  "destaque": true,
+  "criado": 1792450916
  }
 ]
