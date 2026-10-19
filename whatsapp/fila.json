@@ -460,5 +460,47 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk2brujkj5s213",
   "destaque": true,
   "criado": 1792411321
+ },
+ {
+  "id": "20378587963-1792414905",
+  "nicho": "eletronicos",
+  "titulo": "🎧 Achado Eletrônico",
+  "nome": "Ring Light 18 polegadas Com Suporte 3 Celulares e Tripe 2,10 altura FANG",
+  "preco": 140.99,
+  "desconto": 57,
+  "nota": 4.9,
+  "vendas": 843,
+  "link": "https://s.shopee.com.br/2qVSpRlTkQ",
+  "imagem": "https://cf.shopee.com.br/file/1a3b538aa2099591454ca451ccd8a22c",
+  "destaque": true,
+  "criado": 1792414905
+ },
+ {
+  "id": "58201279644-1792414911",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "KIT 2  Luz Noturna com Sensor Movimento LED Lâmpada Magnética Recarregável-Parede/Cabeceira para Corredor/Quarto/Escadas",
+  "preco": 34.98,
+  "desconto": 51,
+  "nota": 4.8,
+  "vendas": 1687,
+  "link": "https://s.shopee.com.br/7VHIO1yRS7",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mnb9pd8so6pt53",
+  "destaque": true,
+  "criado": 1792414911
+ },
+ {
+  "id": "20999195430-1792414918",
+  "nicho": "pet",
+  "titulo": "🐾 Achado Pet",
+  "nome": "300 Pcs Refil Cata Coco Sacolas Saquinhos Biodegradável Prático Para Pet",
+  "preco": 25.99,
+  "desconto": 48,
+  "nota": 5.0,
+  "vendas": 2728,
+  "link": "https://s.shopee.com.br/4B0qPubfSN",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258u-mtxc6jxy2ih48f",
+  "destaque": true,
+  "criado": 1792414918
  }
 ]
