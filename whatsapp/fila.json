@@ -1,47 +1,5 @@
 [
  {
-  "id": "23498676105-1792335710",
-  "nicho": "eletronicos",
-  "titulo": "🎧 Achado Eletrônico",
-  "nome": "Kit 10 Cabos USB Reforçados 1m V8 , Tipo C com Adaptador , IPhone Inova Pronta entrega",
-  "preco": 34.88,
-  "desconto": 42,
-  "nota": 4.6,
-  "vendas": 335,
-  "link": "https://s.shopee.com.br/5LCmLOgDsv",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ra2t-mbi9seohe6lx05",
-  "destaque": true,
-  "criado": 1792335710
- },
- {
-  "id": "53310729249-1792335716",
-  "nicho": "casa",
-  "titulo": "🏠 Achado pra Casa",
-  "nome": "10 Marmitas Potes 800ml Travas Laterais hermeticas - Livres de BPA Alimentos organiza congelador - KAZIVA",
-  "preco": 19.9,
-  "desconto": 50,
-  "nota": 4.8,
-  "vendas": 1358,
-  "link": "https://s.shopee.com.br/2VsayCHPKH",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-822x8-moe06m8c7nrj92",
-  "destaque": true,
-  "criado": 1792335716
- },
- {
-  "id": "17974136989-1792335723",
-  "nicho": "pet",
-  "titulo": "🐾 Achado Pet",
-  "nome": "Tapete para Comedouro Pet Antiderrapante - Ossinho - 29cm x 43cm",
-  "preco": 13.52,
-  "desconto": 24,
-  "nota": 4.8,
-  "vendas": 2990,
-  "link": "https://s.shopee.com.br/3Vl8A2iOs2",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbpbyp2v5vtl23",
-  "destaque": true,
-  "criado": 1792335723
- },
- {
   "id": "21299367155-1792339307",
   "nicho": "casa",
   "titulo": "🏠 Achado pra Casa",
@@ -838,5 +796,47 @@
   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259f-mslnrazy2k1y1f",
   "destaque": true,
   "criado": 1792501325
+ },
+ {
+  "id": "58200879255-1792508508",
+  "nicho": "eletronicos",
+  "titulo": "🎧 Achado Eletrônico",
+  "nome": "Carregador de Carregamento Turbo 30w Fonte 3A Torre Carregar Celular Tipo-C com Cabo Lightning(ios)",
+  "preco": 24.99,
+  "desconto": 64,
+  "nota": 4.9,
+  "vendas": 2871,
+  "link": "https://s.shopee.com.br/qkQAuFpXq",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lc-mpfk4paqdm9v32",
+  "destaque": true,
+  "criado": 1792508508
+ },
+ {
+  "id": "23898670446-1792508514",
+  "nicho": "moda",
+  "titulo": "👗 Achado de Moda",
+  "nome": "KIT 3 Blusas Feminina Manga Longa Cacharrel Confortável Básico Gola Alta",
+  "preco": 46.9,
+  "desconto": 69,
+  "nota": 4.7,
+  "vendas": 5955,
+  "link": "https://s.shopee.com.br/8V9rJ0DFXX",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfes7idiiy9wa2",
+  "destaque": true,
+  "criado": 1792508514
+ },
+ {
+  "id": "58204182050-1792508521",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "Luminária Emergência Lâmpada 30 Leds Recarregável Bivolt Luz Branca Fria 6500K Avant",
+  "preco": 14.8,
+  "desconto": 63,
+  "nota": 4.8,
+  "vendas": 3183,
+  "link": "https://s.shopee.com.br/6q1dJwoFsb",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mtybarnc0rnl57",
+  "destaque": true,
+  "criado": 1792508521
  }
 ]
