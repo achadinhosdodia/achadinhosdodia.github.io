@@ -1,33 +1,5 @@
 [
  {
-  "id": "22394981965-1792360920",
-  "nicho": "pet",
-  "titulo": "🐾 Achado Pet",
-  "nome": "Comedouro Pet PERSONALIZADO com Nome com 2 Potes Inclusos",
-  "preco": 25.0,
-  "desconto": 37,
-  "nota": 4.8,
-  "vendas": 970,
-  "link": "https://s.shopee.com.br/1qcudosVXT",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m3-moeqdcre2osle7",
-  "destaque": true,
-  "criado": 1792360920
- },
- {
-  "id": "22198797147-1792364501",
-  "nicho": "casa",
-  "titulo": "🏠 Achado pra Casa",
-  "nome": "Prateleira para Banheiro de Metal Adesiva sem Furo, Rack de Parede Porta Shampoo e Sabonete, Organizador Box 1 a 4 Pçs",
-  "preco": 10.99,
-  "desconto": 63,
-  "nota": 4.8,
-  "vendas": 3154,
-  "link": "https://s.shopee.com.br/5VWD4em0VZ",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mn1uzb42hx4yd8",
-  "destaque": true,
-  "criado": 1792364501
- },
- {
   "id": "48305929618-1792364507",
   "nicho": "pet",
   "titulo": "🐾 Achado Pet",
@@ -838,5 +810,33 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820l7-mqvz3lt2e7lye5",
   "destaque": true,
   "criado": 1792533711
+ },
+ {
+  "id": "20147807869-1792537313",
+  "nicho": "moda",
+  "titulo": "👗 Achado de Moda",
+  "nome": "Kit 3 Calças Jogger Masculina Jeans e Sarja C/ Punho Lycra",
+  "preco": 136.9,
+  "desconto": 35,
+  "nota": 4.7,
+  "vendas": 1008,
+  "link": "https://s.shopee.com.br/7puB2jv3nC",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lqnezz5sa8031a",
+  "destaque": true,
+  "criado": 1792537313
+ },
+ {
+  "id": "21676484707-1792537323",
+  "nicho": "eletronicos",
+  "titulo": "🎧 Achado Eletrônico",
+  "nome": "Mini Teclado Controle Bluetooth Sem Fio 2.4GHz Iluminado Para Smart Tv Tv Box Pc",
+  "preco": 22.96,
+  "desconto": 62,
+  "nota": 4.8,
+  "vendas": 886,
+  "link": "https://s.shopee.com.br/5AtPrqnLdB",
+  "imagem": "https://cf.shopee.com.br/file/br-11134201-7qukw-leojoap2qup71f",
+  "destaque": true,
+  "criado": 1792537323
  }
 ]
