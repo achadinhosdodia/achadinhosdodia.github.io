@@ -1,47 +1,5 @@
 [
  {
-  "id": "22397922087-1792328504",
-  "nicho": "pet",
-  "titulo": "🐾 Achado Pet",
-  "nome": "Luva Escova Pet Nano Magnética – Remove Pelos de Gatos e Cachorros com Facilidade",
-  "preco": 11.88,
-  "desconto": 43,
-  "nota": 4.9,
-  "vendas": 1547,
-  "link": "https://s.shopee.com.br/W7WSGgiro",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdwn-m18q6a14c97ba2",
-  "destaque": true,
-  "criado": 1792328504
- },
- {
-  "id": "50063287642-1792328511",
-  "nicho": "eletronicos",
-  "titulo": "🎧 Achado Eletrônico",
-  "nome": "kit 1 a 5 Lampada Led Pera Smart Inteligente Wi Fi 10w 2700K/6500K Frio Quente E27 110v/220v Neo Avant",
-  "preco": 31.9,
-  "desconto": 72,
-  "nota": 4.9,
-  "vendas": 388,
-  "link": "https://s.shopee.com.br/W7WSH7BoT",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mts3rpztz5kz22",
-  "destaque": true,
-  "criado": 1792328511
- },
- {
-  "id": "58216648204-1792328517",
-  "nicho": "casa",
-  "titulo": "🏠 Achado pra Casa",
-  "nome": "Estante 6/5/4 Andares Com Rodinhas Prateleira Organizadora Carrinho Multiuso Quarto Cozinha",
-  "preco": 59.8,
-  "desconto": 63,
-  "nota": 4.6,
-  "vendas": 1063,
-  "link": "https://s.shopee.com.br/3Vl81nMASN",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-ms50cvatu32d4f",
-  "destaque": true,
-  "criado": 1792328517
- },
- {
   "id": "23498676105-1792335710",
   "nicho": "eletronicos",
   "titulo": "🎧 Achado Eletrônico",
@@ -838,5 +796,47 @@
   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260z-mkcuz65ruigy31",
   "destaque": true,
   "criado": 1792497721
+ },
+ {
+  "id": "22698825515-1792501310",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "Luminária De Led Sobrepor Bastão Recarregável Sem Fio Com Suporte Magnético E Touch 3 cores com Controle Remoto",
+  "preco": 24.98,
+  "desconto": 43,
+  "nota": 4.9,
+  "vendas": 6801,
+  "link": "https://s.shopee.com.br/3g4bPsI0pI",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdlg5cgr2iflae",
+  "destaque": true,
+  "criado": 1792501310
+ },
+ {
+  "id": "40331456554-1792501317",
+  "nicho": "eletronicos",
+  "titulo": "🎧 Achado Eletrônico",
+  "nome": "Senbenbao X55 Fones De Ouvido TWS Sono Sem Fio Bluetooth Display Led Alta Fidelidade Estéreo Cancelamento Ruído À Prova ",
+  "preco": 17.72,
+  "desconto": 17,
+  "nota": 4.8,
+  "vendas": 18373,
+  "link": "https://s.shopee.com.br/1qcxEVtrFo",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-823ob-mp7wv1fcnx8rc4",
+  "destaque": true,
+  "criado": 1792501317
+ },
+ {
+  "id": "51417153718-1792501325",
+  "nicho": "moda",
+  "titulo": "👗 Achado de Moda",
+  "nome": "Camiseta Masculino Light T-shirt Insider",
+  "preco": 79.99,
+  "desconto": 58,
+  "nota": 4.9,
+  "vendas": 5312,
+  "link": "https://s.shopee.com.br/2Vse1kQRtI",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259f-mslnrazy2k1y1f",
+  "destaque": true,
+  "criado": 1792501325
  }
 ]
