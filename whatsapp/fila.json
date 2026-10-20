@@ -1,47 +1,5 @@
 [
  {
-  "id": "47452789582-1792346504",
-  "nicho": "eletronicos",
-  "titulo": "🎧 Achado Eletrônico",
-  "nome": "Câmera Vigilância WiFi 4MP Dupla Lente Detecção Inteligente Áudio 2 Vias",
-  "preco": 139.99,
-  "desconto": 53,
-  "nota": 4.9,
-  "vendas": 2849,
-  "link": "https://s.shopee.com.br/7VHH7jWjlp",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-822zw-mi0cmfoz1p1k70",
-  "destaque": true,
-  "criado": 1792346504
- },
- {
-  "id": "23592557724-1792346510",
-  "nicho": "casa",
-  "titulo": "🏠 Achado pra Casa",
-  "nome": "Colmeia Organizadora de Gaveta Clean Transparente PP, P, M, G, GG para Gavetas e Closet",
-  "preco": 35.9,
-  "desconto": 33,
-  "nota": 4.8,
-  "vendas": 2575,
-  "link": "https://s.shopee.com.br/4B0p9c9pBv",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhhpzv621q0x64",
-  "destaque": true,
-  "criado": 1792346510
- },
- {
-  "id": "58254838467-1792346517",
-  "nicho": "pet",
-  "titulo": "🐾 Achado Pet",
-  "nome": "Arranhador Adesivo para Gatos 200x50 cm e 100x50 cm – Carpete Premium para Sofá, Móveis, Parede",
-  "preco": 28.49,
-  "desconto": 18,
-  "nota": 4.9,
-  "vendas": 1561,
-  "link": "https://s.shopee.com.br/1qcuNKnMvV",
-  "imagem": "https://cf.shopee.com.br/file/br-11134201-820m2-mubnzh2yx2bla0",
-  "destaque": true,
-  "criado": 1792346517
- },
- {
   "id": "24740902631-1792350105",
   "nicho": "casa",
   "titulo": "🏠 Achado pra Casa",
@@ -838,5 +796,47 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg3t0egm73ls2f",
   "destaque": true,
   "criado": 1792515716
+ },
+ {
+  "id": "23393558536-1792519316",
+  "nicho": "eletronicos",
+  "titulo": "🎧 Achado Eletrônico",
+  "nome": "JL PROTEC 4K 8MP Câmera de Segurança 2 Lentes Com Audio e Microfone Câmera 355 Graus Wifi",
+  "preco": 229.99,
+  "desconto": 43,
+  "nota": 4.9,
+  "vendas": 1349,
+  "link": "https://s.shopee.com.br/4fx8wJzb5m",
+  "imagem": "https://cf.shopee.com.br/file/br-11134201-81ztc-mj6htjflukg333",
+  "destaque": true,
+  "criado": 1792519316
+ },
+ {
+  "id": "23693851064-1792519323",
+  "nicho": "moda",
+  "titulo": "👗 Achado de Moda",
+  "nome": "Kit 3 Cropped Feminino Regata Alcinha Suplex Premium Forro Duplo Sem Transparência Casual Verão",
+  "preco": 41.99,
+  "desconto": 30,
+  "nota": 4.8,
+  "vendas": 1419,
+  "link": "https://s.shopee.com.br/8V9rVNJzkp",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m0-mtsftag1imm9d6",
+  "destaque": true,
+  "criado": 1792519323
+ },
+ {
+  "id": "41431933338-1792519330",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "Porta Frios Hermético com Tampa de Silicone | Organizador de Geladeira para Queijo, Presunto e Frios",
+  "preco": 17.5,
+  "desconto": 32,
+  "nota": 4.6,
+  "vendas": 5127,
+  "link": "https://s.shopee.com.br/AKbVgkhskd",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-824it-mptpksw3yxan5a",
+  "destaque": true,
+  "criado": 1792519330
  }
 ]
