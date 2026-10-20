@@ -1,33 +1,5 @@
 [
  {
-  "id": "23194236443-1792360906",
-  "nicho": "eletronicos",
-  "titulo": "🎧 Achado Eletrônico",
-  "nome": "Câmera Segurança Prova D'água Infravermelho Lâmpada Externa 360 Sem Fio Wifi 2.4G",
-  "preco": 55.99,
-  "desconto": 38,
-  "nota": 4.8,
-  "vendas": 2987,
-  "link": "https://s.shopee.com.br/5AtMbvgMLr",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820li-mtgc0lu1b18g91",
-  "destaque": true,
-  "criado": 1792360906
- },
- {
-  "id": "18499208178-1792360913",
-  "nicho": "casa",
-  "titulo": "🏠 Achado pra Casa",
-  "nome": "Projetor luminária astronauta luz led galáxia estrelas",
-  "preco": 34.89,
-  "desconto": 42,
-  "nota": 4.9,
-  "vendas": 1873,
-  "link": "https://s.shopee.com.br/1qcudoS2WN",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj7ni0vc5rsz6d",
-  "destaque": true,
-  "criado": 1792360913
- },
- {
   "id": "22394981965-1792360920",
   "nicho": "pet",
   "titulo": "🐾 Achado Pet",
@@ -838,5 +810,33 @@
   "imagem": "https://cf.shopee.com.br/file/sg-11134201-7reqd-m8azulf99rip90",
   "destaque": true,
   "criado": 1792530121
+ },
+ {
+  "id": "22294689106-1792533703",
+  "nicho": "eletronicos",
+  "titulo": "🎧 Achado Eletrônico",
+  "nome": "Mouse Sem Fio Recarregável Silencioso Bluetooth/USB Ergonômico PC Notebook",
+  "preco": 18.58,
+  "desconto": 48,
+  "nota": 4.9,
+  "vendas": 642,
+  "link": "https://s.shopee.com.br/5LCq00y3za",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-821di-mgt6pefiw8b306",
+  "destaque": true,
+  "criado": 1792533703
+ },
+ {
+  "id": "58250355922-1792533711",
+  "nicho": "moda",
+  "titulo": "👗 Achado de Moda",
+  "nome": "Calça Cargo Jeans Masculina Streetwear Baggy Wide Leg Oversized Moda Urbana Skatista Premium Confortável Casual",
+  "preco": 67.0,
+  "desconto": 33,
+  "nota": 4.8,
+  "vendas": 1534,
+  "link": "https://s.shopee.com.br/30ovDjg4ie",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820l7-mqvz3lt2e7lye5",
+  "destaque": true,
+  "criado": 1792533711
  }
 ]
