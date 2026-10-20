@@ -1,47 +1,5 @@
 [
  {
-  "id": "22894045367-1792324907",
-  "nicho": "casa",
-  "titulo": "🏠 Achado pra Casa",
-  "nome": "Kit 7 Organizadores Multiuso para Gavetas, Armários, Geladeiras Potes em Acrílico",
-  "preco": 36.85,
-  "desconto": 26,
-  "nota": 5.0,
-  "vendas": 2695,
-  "link": "https://s.shopee.com.br/6fi9jTzCOT",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdn5xvzwk2c10f",
-  "destaque": true,
-  "criado": 1792324907
- },
- {
-  "id": "48715801728-1792324913",
-  "nicho": "pet",
-  "titulo": "🐾 Achado Pet",
-  "nome": "Tapete Higiênico 50x60 cm 50 até 200 Unidades Super Absorvente Descartável Cães Filhotes Xixi Pratitudo",
-  "preco": 49.9,
-  "desconto": 45,
-  "nota": 4.9,
-  "vendas": 3249,
-  "link": "https://s.shopee.com.br/3g4XF74YcC",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mrqgfo3iakg7f7",
-  "destaque": true,
-  "criado": 1792324913
- },
- {
-  "id": "58253326285-1792324920",
-  "nicho": "eletronicos",
-  "titulo": "🎧 Achado Eletrônico",
-  "nome": "Carregador Lightning Turbo Para 11 12 13 14 Pro X XR 20W Cabo Tipo C Lightning",
-  "preco": 39.9,
-  "desconto": 40,
-  "nota": 4.8,
-  "vendas": 3670,
-  "link": "https://s.shopee.com.br/9pfBVJiCey",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjfmlxjdwt1d0f",
-  "destaque": true,
-  "criado": 1792324920
- },
- {
   "id": "22397922087-1792328504",
   "nicho": "pet",
   "titulo": "🐾 Achado Pet",
@@ -838,5 +796,47 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-mseghqdsh4at76",
   "destaque": true,
   "criado": 1792450916
+ },
+ {
+  "id": "22897703179-1792497708",
+  "nicho": "moda",
+  "titulo": "👗 Achado de Moda",
+  "nome": "Kit Calça Jeans Skinny Masculina Com Lycra Estica Muito Nf super promoção",
+  "preco": 59.99,
+  "desconto": 26,
+  "nota": 4.8,
+  "vendas": 1689,
+  "link": "https://s.shopee.com.br/7KxtiUWjkC",
+  "imagem": "https://cf.shopee.com.br/file/br-11134211-7r98o-lyy5tis0j9n998",
+  "destaque": true,
+  "criado": 1792497708
+ },
+ {
+  "id": "21799492435-1792497715",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "Luminária Painel Plafon Led 12W 18W 24W Sobrepor Quadrado Redondo Branco Frio Quente Neutro",
+  "preco": 14.0,
+  "desconto": 54,
+  "nota": 4.9,
+  "vendas": 3972,
+  "link": "https://s.shopee.com.br/9zyetOmz7Y",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0t0j7cpbtsw0a",
+  "destaque": true,
+  "criado": 1792497715
+ },
+ {
+  "id": "58254729932-1792497721",
+  "nicho": "eletronicos",
+  "titulo": "🎧 Achado Eletrônico",
+  "nome": "Caixinha Caixa De Som Bluetooth Portátil Speaker MP3 AL-006",
+  "preco": 29.96,
+  "desconto": 52,
+  "nota": 4.9,
+  "vendas": 1803,
+  "link": "https://s.shopee.com.br/50ZywDabsN",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260z-mkcuz65ruigy31",
+  "destaque": true,
+  "criado": 1792497721
  }
 ]
