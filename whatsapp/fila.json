@@ -1,47 +1,5 @@
 [
  {
-  "id": "16284758791-1792443720",
-  "nicho": "moda",
-  "titulo": "👗 Achado de Moda",
-  "nome": "Mochila Reforçada Masculina Faculdade Impermeável Resistente Grande Trabalho Escolar",
-  "preco": 59.99,
-  "desconto": 39,
-  "nota": 4.9,
-  "vendas": 3088,
-  "link": "https://s.shopee.com.br/AKbUID6jWb",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfea12iap14w0d",
-  "destaque": true,
-  "criado": 1792443720
- },
- {
-  "id": "56954174453-1792443726",
-  "nicho": "casa",
-  "titulo": "🏠 Achado pra Casa",
-  "nome": "Escoador 2 Andares com Dreno 360° Giratório – Aço Antiferrugem, Grande Capacidade",
-  "preco": 91.9,
-  "desconto": 54,
-  "nota": 4.8,
-  "vendas": 953,
-  "link": "https://s.shopee.com.br/7pu9Jcgmq6",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj57m0sjncw213",
-  "destaque": true,
-  "criado": 1792443726
- },
- {
-  "id": "22499056874-1792443733",
-  "nicho": "eletronicos",
-  "titulo": "🎧 Achado Eletrônico",
-  "nome": "Smartwatch MINI 38MM PRO Com monitor De Frequência Cardíaca Do Computador São Paulo pronta entrega",
-  "preco": 53.99,
-  "desconto": 73,
-  "nota": 4.8,
-  "vendas": 1695,
-  "link": "https://s.shopee.com.br/AAI45v2dGL",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg4sqr0e5nggcd",
-  "destaque": true,
-  "criado": 1792443733
- },
- {
   "id": "23393954691-1792447308",
   "nicho": "casa",
   "titulo": "🏠 Achado pra Casa",
@@ -838,5 +796,47 @@
   "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zvm-mmsy9hgibeh4c5",
   "destaque": true,
   "criado": 1792609322
+ },
+ {
+  "id": "23519820685-1792616523",
+  "nicho": "moda",
+  "titulo": "👗 Achado de Moda",
+  "nome": "Promoção Pijama Curto Em Malha Blogueirinha Short e Blusa Amamentação",
+  "preco": 34.9,
+  "desconto": 13,
+  "nota": 4.8,
+  "vendas": 2504,
+  "link": "https://s.shopee.com.br/8KqT6JsxbL",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mrxtvp32q0p354",
+  "destaque": true,
+  "criado": 1792616523
+ },
+ {
+  "id": "58211027880-1792616533",
+  "nicho": "eletronicos",
+  "titulo": "🎧 Achado Eletrônico",
+  "nome": "Suporte Alumínio de Mesa Base Rotatória Ajustável 360º Para Smartphones e Tablets",
+  "preco": 12.99,
+  "desconto": 73,
+  "nota": 4.8,
+  "vendas": 1365,
+  "link": "https://s.shopee.com.br/1LgilT60NW",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m1-msabhqtytq86fb",
+  "destaque": true,
+  "criado": 1792616533
+ },
+ {
+  "id": "16720227042-1792616541",
+  "nicho": "fitness",
+  "titulo": "💪 Achado Fitness",
+  "nome": "Corda Pular Aço Crossfit 3M Rolamento Speed Profissional Corda Crossfit Entrega Rápida",
+  "preco": 22.99,
+  "desconto": 67,
+  "nota": 4.9,
+  "vendas": 1492,
+  "link": "https://s.shopee.com.br/3B8MwqTktX",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259r-mqwxai001xj7a0",
+  "destaque": true,
+  "criado": 1792616541
  }
 ]
