@@ -1,47 +1,5 @@
 [
  {
-  "id": "54950249563-1792422117",
-  "nicho": "moda",
-  "titulo": "👗 Achado de Moda",
-  "nome": "Kit Calça Wide Leg Pantalona Bolsos + Regata Plus Feminino",
-  "preco": 60.82,
-  "desconto": 17,
-  "nota": 4.9,
-  "vendas": 4306,
-  "link": "https://s.shopee.com.br/5q94XDMpAx",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-mqc7ovxtxaf52b",
-  "destaque": true,
-  "criado": 1792422117
- },
- {
-  "id": "58260430067-1792425718",
-  "nicho": "eletronicos",
-  "titulo": "🎧 Achado Eletrônico",
-  "nome": "Carregador 120W Completo Turbo Cabo USB + TIPO C    Xiaomi",
-  "preco": 28.99,
-  "desconto": 34,
-  "nota": 4.6,
-  "vendas": 1565,
-  "link": "https://s.shopee.com.br/2BFmEb8ATz",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mo2th5v357gk38",
-  "destaque": true,
-  "criado": 1792425718
- },
- {
-  "id": "20698436405-1792425725",
-  "nicho": "moda",
-  "titulo": "👗 Achado de Moda",
-  "nome": "Tênis feminino lançamento novidade leve confortável casual plataforma top!",
-  "preco": 49.9,
-  "desconto": 22,
-  "nota": 4.8,
-  "vendas": 2951,
-  "link": "https://s.shopee.com.br/6L5LCGN6UF",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-7qukw-lfxa7no9rsam46",
-  "destaque": true,
-  "criado": 1792425725
- },
- {
   "id": "20699665137-1792425731",
   "nicho": "casa",
   "titulo": "🏠 Achado pra Casa",
@@ -838,5 +796,47 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lmdlpy6f8xrq48",
   "destaque": true,
   "criado": 1792594936
+ },
+ {
+  "id": "22895057548-1792598506",
+  "nicho": "moda",
+  "titulo": "👗 Achado de Moda",
+  "nome": "Calça Unissex Moletom Baggy Peluciada Flanelada Larga Streetwear Versátil HipHop Confortável",
+  "preco": 58.9,
+  "desconto": 24,
+  "nota": 4.8,
+  "vendas": 1250,
+  "link": "https://s.shopee.com.br/9fLqM9KYz7",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lf-mqby89g3pq811f",
+  "destaque": true,
+  "criado": 1792598506
+ },
+ {
+  "id": "21869498082-1792598515",
+  "nicho": "eletronicos",
+  "titulo": "🎧 Achado Eletrônico",
+  "nome": "Pulseira Oceano Silicone Para Smart Watch e Iwo 38mm 40mm 41mm 42mm 44mm 45mm 49mm Ultra serie 8",
+  "preco": 10.99,
+  "desconto": 69,
+  "nota": 4.8,
+  "vendas": 2051,
+  "link": "https://s.shopee.com.br/7puCAn58lB",
+  "imagem": "https://cf.shopee.com.br/file/br-11134201-22120-hqk2lecqgelv33",
+  "destaque": true,
+  "criado": 1792598515
+ },
+ {
+  "id": "23232308359-1792598522",
+  "nicho": "fitness",
+  "titulo": "💪 Achado Fitness",
+  "nome": "Colchão Carrinho Moises Colchonete Fronha 100% Algodão Menino Menina Neutro Confortável",
+  "preco": 27.17,
+  "desconto": 26,
+  "nota": 4.9,
+  "vendas": 1322,
+  "link": "https://s.shopee.com.br/5q97n7d9aW",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mn0j8cs7w7b4fe",
+  "destaque": true,
+  "criado": 1792598522
  }
 ]
