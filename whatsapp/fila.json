@@ -1,47 +1,5 @@
 [
  {
-  "id": "23899017576-1792450902",
-  "nicho": "eletronicos",
-  "titulo": "🎧 Achado Eletrônico",
-  "nome": "Carregador Portátil Indução para Sem fio Bateria Carga 3000/5000/10000mAh",
-  "preco": 28.98,
-  "desconto": 58,
-  "nota": 4.6,
-  "vendas": 8982,
-  "link": "https://s.shopee.com.br/7AeSebxdDm",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhpueqwbzs3me6",
-  "destaque": true,
-  "criado": 1792450902
- },
- {
-  "id": "22899036423-1792450909",
-  "nicho": "moda",
-  "titulo": "👗 Achado de Moda",
-  "nome": "TOMI MITO Bolsa de Ombro Acolchoada com Alça de Corrente Estilo Casual Elegante para Trabalho e Passeio T310 ",
-  "preco": 69.99,
-  "desconto": 56,
-  "nota": 4.9,
-  "vendas": 2969,
-  "link": "https://s.shopee.com.br/4LKHHPdHkH",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lp-mstpal90d8g683",
-  "destaque": true,
-  "criado": 1792450909
- },
- {
-  "id": "58217093698-1792450916",
-  "nicho": "casa",
-  "titulo": "🏠 Achado pra Casa",
-  "nome": "Losa Luminária Led 3D Desenho Acrílico Brilhante USB + 7 Canetas Escrever Lousa Desenho E Pintura",
-  "preco": 32.99,
-  "desconto": 45,
-  "nota": 4.7,
-  "vendas": 3172,
-  "link": "https://s.shopee.com.br/4LKHHQ85EH",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-mseghqdsh4at76",
-  "destaque": true,
-  "criado": 1792450916
- },
- {
   "id": "22897703179-1792497708",
   "nicho": "moda",
   "titulo": "👗 Achado de Moda",
@@ -838,5 +796,47 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lq5op3mkxlb334",
   "destaque": true,
   "criado": 1792620127
+ },
+ {
+  "id": "58266058221-1792623727",
+  "nicho": "eletronicos",
+  "titulo": "🎧 Achado Eletrônico",
+  "nome": "Câmera Lâmpada 360° WiFi HD Detecção Movimento Vigilância Inteligente para Segurança Doméstica APP PIXLINKCAM",
+  "preco": 44.85,
+  "desconto": 50,
+  "nota": 4.7,
+  "vendas": 942,
+  "link": "https://s.shopee.com.br/9Kj0QP2aHl",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m0-mrt0shgse6f97c",
+  "destaque": true,
+  "criado": 1792623727
+ },
+ {
+  "id": "21299595089-1792623733",
+  "nicho": "fitness",
+  "titulo": "💪 Achado Fitness",
+  "nome": "Kit Elástico Para Treino Exercícios Malhar Musculação Casa",
+  "preco": 26.9,
+  "desconto": 46,
+  "nota": 4.8,
+  "vendas": 771,
+  "link": "https://s.shopee.com.br/113sV636eT",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m5wdujp1f0s2e8",
+  "destaque": true,
+  "criado": 1792623733
+ },
+ {
+  "id": "20168639262-1792623741",
+  "nicho": "moda",
+  "titulo": "👗 Achado de Moda",
+  "nome": "casaco bleizer feminino LONGO máx p m g gg sobretudo",
+  "preco": 27.0,
+  "desconto": 10,
+  "nota": 4.7,
+  "vendas": 1698,
+  "link": "https://s.shopee.com.br/7VHMF3Dczx",
+  "imagem": "https://cf.shopee.com.br/file/br-11134201-820lp-mtqwaosxk4ch2c",
+  "destaque": true,
+  "criado": 1792623741
  }
 ]
