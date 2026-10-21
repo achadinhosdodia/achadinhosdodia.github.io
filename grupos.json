@@ -1,6 +1,12 @@
 {
  "grupos": [
   {
+   "nicho": "casa",
+   "nome": "🏠 Casa",
+   "link": "https://chat.whatsapp.com/EkejkJEVaQ39aOXlMo8ELX",
+   "ativo": true
+  },
+  {
    "nicho": "eletronicos",
    "nome": "🎧 Eletrônicos",
    "link": "https://chat.whatsapp.com/E6bj4cYKZasJ6V982s1ti2",
@@ -17,12 +23,6 @@
    "nome": "👗 Moda",
    "link": "https://chat.whatsapp.com/KptCBVpjGpVFtGkOSrbmda",
    "ativo": true
-  },
-  {
-   "nicho": "casa",
-   "nome": "🏠 Casa",
-   "link": "https://chat.whatsapp.com/EkejkJEVaQ39aOXlMo8ELX",
-   "ativo": false
   },
   {
    "nicho": "pet",
