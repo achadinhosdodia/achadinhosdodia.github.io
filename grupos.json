@@ -7,6 +7,12 @@
    "ativo": true
   },
   {
+   "nicho": "fitness",
+   "nome": "💪 Fitness",
+   "link": "https://chat.whatsapp.com/FajwOWeNvHd4vLQbpHmqvg",
+   "ativo": true
+  },
+  {
    "nicho": "moda",
    "nome": "👗 Moda",
    "link": "https://chat.whatsapp.com/KptCBVpjGpVFtGkOSrbmda",
@@ -22,12 +28,6 @@
    "nicho": "pet",
    "nome": "🐾 Pet",
    "link": "https://chat.whatsapp.com/IsuMiVq2BSWD5NauJis34c",
-   "ativo": false
-  },
-  {
-   "nicho": "fitness",
-   "nome": "💪 Fitness",
-   "link": "https://chat.whatsapp.com/FajwOWeNvHd4vLQbpHmqvg",
    "ativo": false
   }
  ],
