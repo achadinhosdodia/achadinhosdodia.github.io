@@ -13,12 +13,6 @@
    "ativo": true
   },
   {
-   "nicho": "fitness",
-   "nome": "💪 Fitness",
-   "link": "https://chat.whatsapp.com/HC2TyHyL2NF6JW1fxL3BZT",
-   "ativo": true
-  },
-  {
    "nicho": "moda",
    "nome": "👗 Moda",
    "link": "https://chat.whatsapp.com/KptCBVpjGpVFtGkOSrbmda",
@@ -34,6 +28,12 @@
    "nicho": "eletronicos",
    "nome": "🎧 Eletrônicos",
    "link": "https://chat.whatsapp.com/E6bj4cYKZasJ6V982s1ti2",
+   "ativo": false
+  },
+  {
+   "nicho": "fitness",
+   "nome": "💪 Fitness",
+   "link": "https://chat.whatsapp.com/HC2TyHyL2NF6JW1fxL3BZT",
    "ativo": false
   },
   {
