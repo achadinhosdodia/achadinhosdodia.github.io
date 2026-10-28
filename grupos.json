@@ -19,6 +19,12 @@
    "ativo": true
   },
   {
+   "nicho": "escritorio",
+   "nome": "📚 Escritório",
+   "link": "https://chat.whatsapp.com/KtGOGcz4ljgHGgdV3gCdgA",
+   "ativo": true
+  },
+  {
    "nicho": "pet",
    "nome": "🐾 Pet",
    "link": "https://chat.whatsapp.com/IsuMiVq2BSWD5NauJis34c",
@@ -34,12 +40,6 @@
    "nicho": "fitness",
    "nome": "💪 Fitness",
    "link": "https://chat.whatsapp.com/HC2TyHyL2NF6JW1fxL3BZT",
-   "ativo": false
-  },
-  {
-   "nicho": "escritorio",
-   "nome": "📚 Escritório",
-   "link": "https://chat.whatsapp.com/KtGOGcz4ljgHGgdV3gCdgA",
    "ativo": false
   }
  ],
