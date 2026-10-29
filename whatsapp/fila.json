@@ -1,47 +1,5 @@
 [
  {
-  "id": "23394276680-1793199687",
-  "nicho": "casa",
-  "titulo": "🏠 Achado pra Casa",
-  "nome": "Kit 6/12/18/24 Panos De Limpeza  Premium Arear Panela Fogão Toalha Louça Tira Gordura Reutilizável",
-  "preco": 9.49,
-  "desconto": 62,
-  "nota": 4.7,
-  "vendas": 4083,
-  "link": "https://s.shopee.com.br/AUv8Rlwucg",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mctxxpi1l4qad6",
-  "destaque": true,
-  "criado": 1793199687
- },
- {
-  "id": "54314997967-1793199701",
-  "nicho": "bebe",
-  "titulo": "👶 Achado pro Bebê",
-  "nome": "Kit Higiene para Bebê EnsyBaby Escova de Cerdas Naturais e Pente",
-  "preco": 12.99,
-  "desconto": 57,
-  "nota": 4.9,
-  "vendas": 1551,
-  "link": "https://s.shopee.com.br/2qVhJhPh8s",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-82594-mr7caz2ajchy93",
-  "destaque": true,
-  "criado": 1793199701
- },
- {
-  "id": "41633722985-1793199710",
-  "nicho": "fitness",
-  "titulo": "💪 Achado Fitness",
-  "nome": "Kit Toalhas de Academia 100% Algodão Esporte Fitness",
-  "preco": 19.9,
-  "desconto": 72,
-  "nota": 4.9,
-  "vendas": 306,
-  "link": "https://s.shopee.com.br/2gCH7P7IHQ",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-ms4nbw2ksnwkbb",
-  "destaque": true,
-  "criado": 1793199710
- },
- {
   "id": "23294355022-1793199718",
   "nicho": "moda",
   "titulo": "👗 Achado de Moda",
@@ -838,5 +796,47 @@
   "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rd4u-lwn9pgqirrxi24",
   "destaque": true,
   "criado": 1793311319
+ },
+ {
+  "id": "56761958115-1793314903",
+  "nicho": "moda",
+  "titulo": "👗 Achado de Moda",
+  "nome": "Vestido Longo Feminino Midi Frente Unica Costa Nua de Festa Casamento Madrinha Formatura Branco Plus Size",
+  "preco": 29.89,
+  "desconto": 63,
+  "nota": 4.8,
+  "vendas": 3124,
+  "link": "https://s.shopee.com.br/6fiS0bL3pz",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mpa71g3cy4nad0",
+  "destaque": true,
+  "criado": 1793314903
+ },
+ {
+  "id": "58207761184-1793314911",
+  "nicho": "escritorio",
+  "titulo": "📚 Achado Escritório",
+  "nome": "Quadro lousa Planejamento Mensal Semanal Planner Com Caneta e Apagador",
+  "preco": 14.9,
+  "desconto": 83,
+  "nota": 4.6,
+  "vendas": 332,
+  "link": "https://s.shopee.com.br/7VHZ08qscF",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820li-mmbsosfwzv2c30",
+  "destaque": true,
+  "criado": 1793314911
+ },
+ {
+  "id": "23798831442-1793314929",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "Suporte Porta Ovos Rolante 4 Andares Plástico Durável Organizador de Geladeira 30 Ovos",
+  "preco": 12.71,
+  "desconto": 74,
+  "nota": 4.8,
+  "vendas": 4768,
+  "link": "https://s.shopee.com.br/3g4qR7MsGM",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdq3rpgz0n2161",
+  "destaque": true,
+  "criado": 1793314929
  }
 ]
