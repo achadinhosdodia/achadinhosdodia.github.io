@@ -1,47 +1,5 @@
 [
  {
-  "id": "58258006595-1793138503",
-  "nicho": "bebe",
-  "titulo": "👶 Achado pro Bebê",
-  "nome": "Kit 3 Babador Bandana Personalizado Inicial Do Nome Do Bebe Menino Menina Liso Bordado",
-  "preco": 29.99,
-  "desconto": 57,
-  "nota": 4.9,
-  "vendas": 772,
-  "link": "https://s.shopee.com.br/40hdZnabi0",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mr0wiyb3hhxg8b",
-  "destaque": true,
-  "criado": 1793138503
- },
- {
-  "id": "18996978178-1793138516",
-  "nicho": "fitness",
-  "titulo": "💪 Achado Fitness",
-  "nome": "Pochete Porta celular Garrafa De Agua Caminhada Corrida Academia",
-  "preco": 11.99,
-  "desconto": 69,
-  "nota": 4.9,
-  "vendas": 1282,
-  "link": "https://s.shopee.com.br/9APjjJCCgN",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zuj-mmvgdotrgf7lba",
-  "destaque": true,
-  "criado": 1793138516
- },
- {
-  "id": "58264424382-1793138532",
-  "nicho": "moda",
-  "titulo": "👗 Achado de Moda",
-  "nome": "Calça de Moletom Wed leg Baddy Y2k StreetStyle Estampada Resilience Promoção Moda Streetwear Algodão Premium",
-  "preco": 66.33,
-  "desconto": 33,
-  "nota": 4.9,
-  "vendas": 1036,
-  "link": "https://s.shopee.com.br/9fM0KFIhBt",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mqqo4ojesum86e",
-  "destaque": true,
-  "criado": 1793138532
- },
- {
   "id": "29537552078-1793142094",
   "nicho": "bebe",
   "titulo": "👶 Achado pro Bebê",
@@ -838,5 +796,47 @@
   "imagem": "https://cf.shopee.com.br/file/sg-11134201-82607-mjerq84h6pl04f",
   "destaque": true,
   "criado": 1793289727
+ },
+ {
+  "id": "43079698414-1793293289",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "Kit Lençol Casal 03 Peças Jogo de Cama Com Elastico Fronhas em Ponto Palito 400 fios Toque Macio",
+  "preco": 33.9,
+  "desconto": 43,
+  "nota": 4.9,
+  "vendas": 4395,
+  "link": "https://s.shopee.com.br/LoO4Dr3lZ",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-mmjspccz4npcc3",
+  "destaque": true,
+  "criado": 1793293289
+ },
+ {
+  "id": "27064511645-1793293307",
+  "nicho": "moda",
+  "titulo": "👗 Achado de Moda",
+  "nome": "Calçados esportivos femininos de malha respirável da moda - tênis casuais para todas as estações, cano baixo com cadarço",
+  "preco": 59.99,
+  "desconto": 66,
+  "nota": 4.9,
+  "vendas": 316,
+  "link": "https://s.shopee.com.br/8VA5nFhlsB",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdwh-m1iix056nkxra2",
+  "destaque": true,
+  "criado": 1793293307
+ },
+ {
+  "id": "58256502059-1793293316",
+  "nicho": "escritorio",
+  "titulo": "📚 Achado Escritório",
+  "nome": "6 Canetas Fine Line 0.4mm Pretas Ponta Fina Profissional Para Estudo Desenho Bullet Journal Planner Traço Preciso",
+  "preco": 13.9,
+  "desconto": 37,
+  "nota": 4.9,
+  "vendas": 707,
+  "link": "https://s.shopee.com.br/5Atdp8Texo",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lh-mljoa0alxkp029",
+  "destaque": true,
+  "criado": 1793293316
  }
 ]
