@@ -1,47 +1,5 @@
 [
  {
-  "id": "29537552078-1793142094",
-  "nicho": "bebe",
-  "titulo": "👶 Achado pro Bebê",
-  "nome": "Tapete de Atividades Bebê com Piano Removível — Som, Luz e Brinquedos Educativos",
-  "preco": 79.9,
-  "desconto": 45,
-  "nota": 4.9,
-  "vendas": 798,
-  "link": "https://s.shopee.com.br/6VOycVC9DM",
-  "imagem": "https://cf.shopee.com.br/file/cn-11134207-7ras8-maxsaktjys3dfc",
-  "destaque": true,
-  "criado": 1793142094
- },
- {
-  "id": "22498554325-1793142108",
-  "nicho": "fitness",
-  "titulo": "💪 Achado Fitness",
-  "nome": "Calça Legging Canelada de Cintura Alta Sem Costura Academia Feminina Elástica e Fitness",
-  "preco": 39.0,
-  "desconto": 35,
-  "nota": 4.8,
-  "vendas": 1678,
-  "link": "https://s.shopee.com.br/6VOycWBfu9",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rav0-mabgby6r4p4kd2",
-  "destaque": true,
-  "criado": 1793142108
- },
- {
-  "id": "21498313388-1793142121",
-  "nicho": "moda",
-  "titulo": "👗 Achado de Moda",
-  "nome": "Calça Jeans Baggy Balão Reta Masculina Preta Boca Larga 100% Jeans Bag Sk8 Streetwear Tecido Premium",
-  "preco": 69.95,
-  "desconto": 64,
-  "nota": 4.8,
-  "vendas": 1886,
-  "link": "https://s.shopee.com.br/2qVgFnPA1D",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820le-mnbkltfxga2o29",
-  "destaque": true,
-  "criado": 1793142121
- },
- {
   "id": "58264841481-1793142129",
   "nicho": "casa",
   "titulo": "🏠 Achado pra Casa",
@@ -838,5 +796,47 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lh-mljoa0alxkp029",
   "destaque": true,
   "criado": 1793293316
+ },
+ {
+  "id": "58254181613-1793296905",
+  "nicho": "moda",
+  "titulo": "👗 Achado de Moda",
+  "nome": "Kit C/ 04 Acessórios Cosplay Audrey Hepburn Acessórios de Festa Anos 50/60 Retrô Com Óculos Lenço Colar Brinco",
+  "preco": 29.9,
+  "desconto": 54,
+  "nota": 4.9,
+  "vendas": 1214,
+  "link": "https://s.shopee.com.br/3B8ZVZMGC8",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258q-msjwn95r3k7e26",
+  "destaque": true,
+  "criado": 1793296905
+ },
+ {
+  "id": "45806783090-1793296913",
+  "nicho": "escritorio",
+  "titulo": "📚 Achado Escritório",
+  "nome": "Livro de Receitas Inteligente Personalizado com Nome Capa Dura 100 Folhas Caderno Receita",
+  "preco": 27.92,
+  "desconto": 20,
+  "nota": 4.9,
+  "vendas": 449,
+  "link": "https://s.shopee.com.br/5AtdtFjRal",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8262x-mlfucwy90tu75b",
+  "destaque": true,
+  "criado": 1793296913
+ },
+ {
+  "id": "23592875532-1793296929",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "1/2/3 Formas de Silicone Quadrada 18x18cm Assadeira Air Fryer e Forno Forma para Fritadeira Elétrica com Alça",
+  "preco": 10.0,
+  "desconto": 50,
+  "nota": 4.8,
+  "vendas": 6782,
+  "link": "https://s.shopee.com.br/6fiRg1lvK4",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rcc8-lsk6nq2atlh5cd",
+  "destaque": true,
+  "criado": 1793296929
  }
 ]
