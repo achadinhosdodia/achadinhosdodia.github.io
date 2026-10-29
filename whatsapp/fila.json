@@ -1,47 +1,5 @@
 [
  {
-  "id": "58214421229-1793127689",
-  "nicho": "fitness",
-  "titulo": "💪 Achado Fitness",
-  "nome": "Massageador Relaxante Para Pés Com Rolos Anatômicos E Pontos De Pressão Uso Diário Portátil",
-  "preco": 27.0,
-  "desconto": 60,
-  "nota": 4.8,
-  "vendas": 430,
-  "link": "https://s.shopee.com.br/4qGkMx4YNe",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m4-mqqdv7jn5vya09",
-  "destaque": true,
-  "criado": 1793127689
- },
- {
-  "id": "22693709285-1793127699",
-  "nicho": "moda",
-  "titulo": "👗 Achado de Moda",
-  "nome": "Carteira Masculina Couro Sintético PREMIUM Minimalista Elegante Compacta Presente Moderno",
-  "preco": 15.9,
-  "desconto": 36,
-  "nota": 4.8,
-  "vendas": 876,
-  "link": "https://s.shopee.com.br/5VWRABoPdD",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mod1x34lds06eb",
-  "destaque": true,
-  "criado": 1793127699
- },
- {
-  "id": "22398457486-1793127706",
-  "nicho": "casa",
-  "titulo": "🏠 Achado pra Casa",
-  "nome": "1/2 pcs Luminária Elegante De Madeira Led Sensor Movimento Presença",
-  "preco": 18.33,
-  "desconto": 50,
-  "nota": 4.8,
-  "vendas": 722,
-  "link": "https://s.shopee.com.br/5fprMVIRF1",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rffl-m9cgtyjbltq820",
-  "destaque": true,
-  "criado": 1793127706
- },
- {
   "id": "23899120952-1793127720",
   "nicho": "bebe",
   "titulo": "👶 Achado pro Bebê",
@@ -838,5 +796,47 @@
   "imagem": "https://cf.shopee.com.br/file/cn-11134207-7r98o-lst9ogdaellp6c",
   "destaque": true,
   "criado": 1793275317
+ },
+ {
+  "id": "51250897834-1793278906",
+  "nicho": "moda",
+  "titulo": "👗 Achado de Moda",
+  "nome": " Óculos de sol redondos pequenos para homens e mulheres, proteção UV, proteção solar, moda ao ar livre, óculos para",
+  "preco": 13.41,
+  "desconto": 80,
+  "nota": 4.8,
+  "vendas": 2041,
+  "link": "https://s.shopee.com.br/AUv9uRZDFe",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134301-825a2-mgdcr60zrwgcdc",
+  "destaque": true,
+  "criado": 1793278906
+ },
+ {
+  "id": "48302220717-1793278914",
+  "nicho": "escritorio",
+  "titulo": "📚 Achado Escritório",
+  "nome": "Caneta Marcadora Glitter Dupla Ponta | 96/72/48/24 Cores | Arte, Escola, Planner, Desenho",
+  "preco": 9.9,
+  "desconto": 86,
+  "nota": 4.9,
+  "vendas": 539,
+  "link": "https://s.shopee.com.br/LoNnlpRZZ",
+  "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mh8pg7idrw245c",
+  "destaque": true,
+  "criado": 1793278914
+ },
+ {
+  "id": "22994376075-1793278922",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "Potes Multiuso Herméticos Geladeira 460ml/950ml - Porta Mantimentos, Porta Alho, Porta Cebola e muito mais",
+  "preco": 19.42,
+  "desconto": 61,
+  "nota": 4.9,
+  "vendas": 1014,
+  "link": "https://s.shopee.com.br/2qVimNAnL5",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820md-mor1mre1edc654",
+  "destaque": true,
+  "criado": 1793278922
  }
 ]
