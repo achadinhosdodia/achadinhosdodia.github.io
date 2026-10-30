@@ -1,47 +1,5 @@
 [
  {
-  "id": "23294355022-1793199718",
-  "nicho": "moda",
-  "titulo": "👗 Achado de Moda",
-  "nome": "Pulseira Vermelha 7 Nós Kabbalah Contra Mal Olhado Inveja Adulto Regulável Kit",
-  "preco": 6.89,
-  "desconto": 47,
-  "nota": 4.9,
-  "vendas": 1161,
-  "link": "https://s.shopee.com.br/2gCH7PcMqK",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7i7cxbul58231",
-  "destaque": true,
-  "criado": 1793199718
- },
- {
-  "id": "23994733158-1793203294",
-  "nicho": "bebe",
-  "titulo": "👶 Achado pro Bebê",
-  "nome": "Kit C/3 Babador Bandana de Bebê 100% Algodão 23cm x 18cm - Sortidas ANJIN.B",
-  "preco": 17.9,
-  "desconto": 39,
-  "nota": 4.9,
-  "vendas": 2047,
-  "link": "https://s.shopee.com.br/2VsqzCOOYK",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-822yt-miacax2t9pu0eb",
-  "destaque": true,
-  "criado": 1793203294
- },
- {
-  "id": "22293889405-1793203305",
-  "nicho": "fitness",
-  "titulo": "💪 Achado Fitness",
-  "nome": "faixas de cabelo penteados e esportes branco, preto, marrom claro e marrom escuro",
-  "preco": 10.0,
-  "desconto": 67,
-  "nota": 4.8,
-  "vendas": 1979,
-  "link": "https://s.shopee.com.br/qkd09LXBh",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rd4a-m7xrfuw8897534",
-  "destaque": true,
-  "criado": 1793203305
- },
- {
   "id": "19597616878-1793203313",
   "nicho": "moda",
   "titulo": "👗 Achado de Moda",
@@ -838,5 +796,47 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdq3rpgz0n2161",
   "destaque": true,
   "criado": 1793314929
+ },
+ {
+  "id": "23994337881-1793361691",
+  "nicho": "moda",
+  "titulo": "👗 Achado de Moda",
+  "nome": "Short Jeans Feminino Cintura Alta Barra Virada Sem Lycra Blogueira Tendencia",
+  "preco": 29.99,
+  "desconto": 63,
+  "nota": 4.8,
+  "vendas": 1204,
+  "link": "https://s.shopee.com.br/1LgwWLu80S",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mdwhgmemi137a9",
+  "destaque": true,
+  "criado": 1793361691
+ },
+ {
+  "id": "22698962517-1793361698",
+  "nicho": "escritorio",
+  "titulo": "📚 Achado Escritório",
+  "nome": "Suporte Tv Fixo Parede Universal Tv Monitor 14 A 55 Polegadas Smart Suporta Ate 25kg - Preto",
+  "preco": 18.58,
+  "desconto": 25,
+  "nota": 4.8,
+  "vendas": 838,
+  "link": "https://s.shopee.com.br/9APnqkqhrR",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lc-mn64fyz6gs1u8b",
+  "destaque": true,
+  "criado": 1793361698
+ },
+ {
+  "id": "22998047102-1793361710",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "Tábua De Corte Antibacteriana À Prova De Mofo 30cm Com Suporte Em Pé Para Cozinha",
+  "preco": 13.99,
+  "desconto": 54,
+  "nota": 4.7,
+  "vendas": 2234,
+  "link": "https://s.shopee.com.br/1LgwWNElBj",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7repr-m2zshd9oh0qf02",
+  "destaque": true,
+  "criado": 1793361710
  }
 ]
