@@ -1,47 +1,5 @@
 [
  {
-  "id": "19597616878-1793203313",
-  "nicho": "moda",
-  "titulo": "👗 Achado de Moda",
-  "nome": "Kit 12 Pares de Brincos Pequeno Feminino lolibiju",
-  "preco": 10.0,
-  "desconto": 33,
-  "nota": 4.6,
-  "vendas": 1223,
-  "link": "https://s.shopee.com.br/30p7a8i5Ka",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lr0qjehmneod42",
-  "destaque": true,
-  "criado": 1793203313
- },
- {
-  "id": "23699467153-1793203321",
-  "nicho": "casa",
-  "titulo": "🏠 Achado pra Casa",
-  "nome": "Kit Prendedor Vedador Para Saco Clip Fecha Embalagens Alimentos",
-  "preco": 10.0,
-  "desconto": 63,
-  "nota": 4.7,
-  "vendas": 456,
-  "link": "https://s.shopee.com.br/3VlOB4F6Z8",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m7-mospoqqv7cw04e",
-  "destaque": true,
-  "criado": 1793203321
- },
- {
-  "id": "23093536964-1793206898",
-  "nicho": "fitness",
-  "titulo": "💪 Achado Fitness",
-  "nome": "Kit 288 Elástico para Cabelo Várias Cores Xuxinha Prendedor de Cabelo",
-  "preco": 6.9,
-  "desconto": 69,
-  "nota": 4.9,
-  "vendas": 3116,
-  "link": "https://s.shopee.com.br/1143GZETuD",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2l097xyt8n9c9",
-  "destaque": true,
-  "criado": 1793206898
- },
- {
   "id": "58213253911-1793206906",
   "nicho": "moda",
   "titulo": "👗 Achado de Moda",
@@ -838,5 +796,47 @@
   "imagem": "https://cf.shopee.com.br/file/sg-11134201-7repr-m2zshd9oh0qf02",
   "destaque": true,
   "criado": 1793361710
+ },
+ {
+  "id": "19798894678-1793365287",
+  "nicho": "escritorio",
+  "titulo": "📚 Achado Escritório",
+  "nome": "Laptop Suporte Base Notebook Tablet Alumínio Dobrável Portátil",
+  "preco": 24.99,
+  "desconto": 67,
+  "nota": 4.9,
+  "vendas": 1140,
+  "link": "https://s.shopee.com.br/5q9LwjjEEX",
+  "imagem": "https://cf.shopee.com.br/file/br-11134201-820lx-mqxixzymmf4567",
+  "destaque": true,
+  "criado": 1793365287
+ },
+ {
+  "id": "23897176041-1793365299",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "Fita de LED Mangueira Neon 5 Metros IP65 Flexível Com ou Sem Fonte | 8 Cores",
+  "preco": 19.9,
+  "desconto": 75,
+  "nota": 4.9,
+  "vendas": 5790,
+  "link": "https://s.shopee.com.br/3VlRASn6Li",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lp9nlkeeniol65",
+  "destaque": true,
+  "criado": 1793365299
+ },
+ {
+  "id": "54515156958-1793365319",
+  "nicho": "moda",
+  "titulo": "👗 Achado de Moda",
+  "nome": "Kit 5 Organizador de Joias Pendurar Coração de Parede Expositor Suporte Colares Pulseiras Dupla Face",
+  "preco": 10.79,
+  "desconto": 31,
+  "nota": 4.8,
+  "vendas": 2125,
+  "link": "https://s.shopee.com.br/6q1t8c0Kuv",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-mraj9pzzt69z00",
+  "destaque": true,
+  "criado": 1793365319
  }
 ]
