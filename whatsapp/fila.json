@@ -1,47 +1,5 @@
 [
  {
-  "id": "22799165776-1793210513",
-  "nicho": "moda",
-  "titulo": "👗 Achado de Moda",
-  "nome": "Kit calcinha Canelada fio dental regulagem Microfibra",
-  "preco": 14.45,
-  "desconto": 47,
-  "nota": 4.8,
-  "vendas": 4032,
-  "link": "https://s.shopee.com.br/2LZQv9hLh0",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjsst30ylce972",
-  "destaque": true,
-  "criado": 1793210513
- },
- {
-  "id": "23593596152-1793214092",
-  "nicho": "casa",
-  "titulo": "🏠 Achado pra Casa",
-  "nome": "Estojo Porta Escovas De Dente E Creme Dental Portátil Viagem Bolsa Escola",
-  "preco": 8.98,
-  "desconto": 45,
-  "nota": 4.8,
-  "vendas": 1434,
-  "link": "https://s.shopee.com.br/6VOzwuTVw0",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-mm21dt67m29se4",
-  "destaque": true,
-  "criado": 1793214092
- },
- {
-  "id": "19871194431-1793214105",
-  "nicho": "bebe",
-  "titulo": "👶 Achado pro Bebê",
-  "nome": "Kit Higiene Infantil Muriel baby Shampoo + Condicionador 100ML - (ESCOLHA O SEU) Embalagem Presente",
-  "preco": 22.66,
-  "desconto": 19,
-  "nota": 4.9,
-  "vendas": 590,
-  "link": "https://s.shopee.com.br/9APl7pEYiK",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8r175ogesgh2f",
-  "destaque": true,
-  "criado": 1793214105
- },
- {
   "id": "41933116210-1793214115",
   "nicho": "moda",
   "titulo": "👗 Achado de Moda",
@@ -838,5 +796,47 @@
   "imagem": "https://cf.shopee.com.br/file/sg-11134201-825ap-mfs7jsak3ksq2b",
   "destaque": true,
   "criado": 1793376114
+ },
+ {
+  "id": "58203349918-1793379694",
+  "nicho": "moda",
+  "titulo": "👗 Achado de Moda",
+  "nome": "Sandália Feminina Chinelos de Praia Com Enfeites Luxo Confortável Eva",
+  "preco": 32.99,
+  "desconto": 74,
+  "nota": 4.9,
+  "vendas": 7131,
+  "link": "https://s.shopee.com.br/70LJbN1WZv",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjipn5aiikuef0",
+  "destaque": true,
+  "criado": 1793379694
+ },
+ {
+  "id": "50552073819-1793379701",
+  "nicho": "escritorio",
+  "titulo": "📚 Achado Escritório",
+  "nome": "Agenda 2027 Diária Capa Dura Espiral Planner - Diversas Capas 336 Páginas",
+  "preco": 22.9,
+  "desconto": 40,
+  "nota": 4.9,
+  "vendas": 389,
+  "link": "https://s.shopee.com.br/5AtfQ0d1g6",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mt8b6zd0uwht0c",
+  "destaque": true,
+  "criado": 1793379701
+ },
+ {
+  "id": "58217626503-1793379710",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "mini processador de alimentos elétrico picador de alho triturador de pimenta 350ml",
+  "preco": 22.99,
+  "desconto": 92,
+  "nota": 4.7,
+  "vendas": 5058,
+  "link": "https://s.shopee.com.br/8VA7O94xwM",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-825b6-msrflnne6qys46",
+  "destaque": true,
+  "criado": 1793379710
  }
 ]
