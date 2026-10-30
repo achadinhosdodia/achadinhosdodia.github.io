@@ -7,6 +7,12 @@
    "ativo": true
   },
   {
+   "nicho": "eletronicos",
+   "nome": "🎧 Eletrônicos",
+   "link": "https://chat.whatsapp.com/E6bj4cYKZasJ6V982s1ti2",
+   "ativo": true
+  },
+  {
    "nicho": "moda",
    "nome": "👗 Moda",
    "link": "https://chat.whatsapp.com/KptCBVpjGpVFtGkOSrbmda",
@@ -25,12 +31,6 @@
    "ativo": false
   },
   {
-   "nicho": "eletronicos",
-   "nome": "🎧 Eletrônicos",
-   "link": "https://chat.whatsapp.com/E6bj4cYKZasJ6V982s1ti2",
-   "ativo": false
-  },
-  {
    "nicho": "bebe",
    "nome": "👶 Bebê",
    "link": "https://chat.whatsapp.com/I7yaJbutlixFdftzRvcyvY",
@@ -40,6 +40,12 @@
    "nicho": "fitness",
    "nome": "💪 Fitness",
    "link": "https://chat.whatsapp.com/HC2TyHyL2NF6JW1fxL3BZT",
+   "ativo": false
+  },
+  {
+   "nicho": "ferramentas",
+   "nome": "🔧 Ferramentas",
+   "link": "https://chat.whatsapp.com/EkejkJEVaQ39aOXlMo8ELX",
    "ativo": false
   }
  ],
