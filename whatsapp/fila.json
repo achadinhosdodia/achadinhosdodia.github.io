@@ -1,47 +1,5 @@
 [
  {
-  "id": "41933116210-1793214115",
-  "nicho": "moda",
-  "titulo": "👗 Achado de Moda",
-  "nome": "Kit com 10 ou 5 Cuecas Boxer Premium Masculina Extremamente Confortável Cueca Box",
-  "preco": 23.89,
-  "desconto": 60,
-  "nota": 4.8,
-  "vendas": 8418,
-  "link": "https://s.shopee.com.br/1LgtnRRL91",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820md-mr93qaevk9hi01",
-  "destaque": true,
-  "criado": 1793214115
- },
- {
-  "id": "18898282613-1793214123",
-  "nicho": "escritorio",
-  "titulo": "📚 Achado Escritório",
-  "nome": "Kit 6 Canetas Mini Marca Texto Fofo Marcador Colorido Formato Picolé Sorvete",
-  "preco": 8.12,
-  "desconto": 74,
-  "nota": 4.9,
-  "vendas": 704,
-  "link": "https://s.shopee.com.br/2qVhaCupIP",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m0-mtiihci9t91e9d",
-  "destaque": true,
-  "criado": 1793214123
- },
- {
-  "id": "53417063989-1793221294",
-  "nicho": "bebe",
-  "titulo": "👶 Achado pro Bebê",
-  "nome": "Kit 2 Toalhas de Banho para Bebê com Capuz Infantil Felpuda 70x70cm Enxoval Presente Bebê Novo",
-  "preco": 32.9,
-  "desconto": 30,
-  "nota": 4.9,
-  "vendas": 1708,
-  "link": "https://s.shopee.com.br/2qVhiPhm4i",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820ld-msjvu1qnzkzqac",
-  "destaque": true,
-  "criado": 1793221294
- },
- {
   "id": "25356800051-1793221307",
   "nicho": "moda",
   "titulo": "👗 Achado de Moda",
@@ -838,5 +796,47 @@
   "imagem": "https://cf.shopee.com.br/file/sg-11134201-825b6-msrflnne6qys46",
   "destaque": true,
   "criado": 1793379710
+ },
+ {
+  "id": "22099223256-1793383288",
+  "nicho": "escritorio",
+  "titulo": "📚 Achado Escritório",
+  "nome": "Marcador metálico 12/24/36/48/60 Canetas deglitter de ponta dupla Caneta marcador de ponta dupla brilhante",
+  "preco": 8.99,
+  "desconto": 64,
+  "nota": 4.9,
+  "vendas": 2342,
+  "link": "https://s.shopee.com.br/50aFHoCTsl",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-821fe-mhboh2ios4y621",
+  "destaque": true,
+  "criado": 1793383288
+ },
+ {
+  "id": "22498718852-1793383300",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "Cesto De Roupas Dobrável Multiuso 40 Litros Impermeável Compacto E Versátil 40L Para Roupa Calça",
+  "preco": 15.98,
+  "desconto": 39,
+  "nota": 4.9,
+  "vendas": 2214,
+  "link": "https://s.shopee.com.br/qkgKAIB0p",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ratj-mak1ler87ujn77",
+  "destaque": true,
+  "criado": 1793383300
+ },
+ {
+  "id": "21898681448-1793383324",
+  "nicho": "moda",
+  "titulo": "👗 Achado de Moda",
+  "nome": "Kit 3 Pares Brinco Trio Com 3 Argolas Cravejada Na Zircônia Crystal",
+  "preco": 16.5,
+  "desconto": 69,
+  "nota": 4.9,
+  "vendas": 925,
+  "link": "https://s.shopee.com.br/9pfV2jSTGv",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-7qukw-liombty9i9855f",
+  "destaque": true,
+  "criado": 1793383324
  }
 ]
