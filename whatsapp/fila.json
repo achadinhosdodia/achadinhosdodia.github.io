@@ -1,47 +1,5 @@
 [
  {
-  "id": "25356800051-1793221307",
-  "nicho": "moda",
-  "titulo": "👗 Achado de Moda",
-  "nome": "80 Estilos Moda Broche Dos Desenhos Animados Bonito Liga Alfinetes Badge Pin Mochila Decoração",
-  "preco": 2.98,
-  "desconto": 89,
-  "nota": 4.9,
-  "vendas": 2835,
-  "link": "https://s.shopee.com.br/60SjUFQusT",
-  "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-muj6e0hn4f0lbe",
-  "destaque": true,
-  "criado": 1793221307
- },
- {
-  "id": "58250687868-1793221314",
-  "nicho": "escritorio",
-  "titulo": "📚 Achado Escritório",
-  "nome": "Porta Pincel  3 Divisorias Diamante Organizador De Mesa Acrílico Maquiagem Batom Banheiro Quarto Escritório 16 X 6 X 7cm",
-  "preco": 14.59,
-  "desconto": 61,
-  "nota": 4.8,
-  "vendas": 1730,
-  "link": "https://s.shopee.com.br/6L5ZsruRgn",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh6ixazyws1s5b",
-  "destaque": true,
-  "criado": 1793221314
- },
- {
-  "id": "58260080028-1793221322",
-  "nicho": "casa",
-  "titulo": "🏠 Achado pra Casa",
-  "nome": "Kit com 60 / 48 / 36 / 24 / 12 - Prendedores de Roupas Plástico GIGANTE Mega Reforçado - Cores Sortidas!",
-  "preco": 7.99,
-  "desconto": 73,
-  "nota": 4.9,
-  "vendas": 1130,
-  "link": "https://s.shopee.com.br/qkdKlor6X",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259t-mrsudav3iu4ka3",
-  "destaque": true,
-  "criado": 1793221322
- },
- {
   "id": "58258879160-1793224888",
   "nicho": "moda",
   "titulo": "👗 Achado de Moda",
@@ -838,5 +796,47 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-7qukw-liombty9i9855f",
   "destaque": true,
   "criado": 1793383324
+ },
+ {
+  "id": "58263954987-1793386888",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "Kit 2 Suporte Aço inoxidável Gancho Porta Esponja para bucha de pia Prateleira de cozinha",
+  "preco": 11.99,
+  "desconto": 40,
+  "nota": 4.9,
+  "vendas": 5294,
+  "link": "https://s.shopee.com.br/9KjEVtNwAs",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8257z-mqg9c2lomz9caa",
+  "destaque": true,
+  "criado": 1793386888
+ },
+ {
+  "id": "58267502829-1793386909",
+  "nicho": "moda",
+  "titulo": "👗 Achado de Moda",
+  "nome": "Conjunto Feminino 5 Peças Relógio Colar Brincos Pulseira Anel Dourado",
+  "preco": 34.99,
+  "desconto": 65,
+  "nota": 4.7,
+  "vendas": 1081,
+  "link": "https://s.shopee.com.br/3qOHxoDGru",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258m-mt566n3atc01c7",
+  "destaque": true,
+  "criado": 1793386909
+ },
+ {
+  "id": "58259490157-1793386916",
+  "nicho": "escritorio",
+  "titulo": "📚 Achado Escritório",
+  "nome": "Kit Caneta Contorno Linha Dupla 12 Cores Brilhante Marcador de Destaque para Scrapbook Artesanato Escolar RM1547",
+  "preco": 19.99,
+  "desconto": 87,
+  "nota": 5.0,
+  "vendas": 596,
+  "link": "https://s.shopee.com.br/40hiA7hVDN",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lz-msm58chp54p133",
+  "destaque": true,
+  "criado": 1793386916
  }
 ]
