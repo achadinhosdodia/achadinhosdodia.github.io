@@ -1,47 +1,5 @@
 [
  {
-  "id": "23498359623-1793210485",
-  "nicho": "escritorio",
-  "titulo": "📚 Achado Escritório",
-  "nome": "KIT Suporte TV Universal Fixo LED LCD Plasma 10 a 85'' Parede - Painel - Monitor",
-  "preco": 12.9,
-  "desconto": 35,
-  "nota": 4.9,
-  "vendas": 1294,
-  "link": "https://s.shopee.com.br/LoMXRojxU",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk3c8oge0nb47f",
-  "destaque": true,
-  "criado": 1793210485
- },
- {
-  "id": "22297157910-1793210493",
-  "nicho": "casa",
-  "titulo": "🏠 Achado pra Casa",
-  "nome": "Kit de 6/12/24 Esponjas de Maquiagem - Perfeitas para Base, Corretivo e Contorno, Cores Vibrantes e Ecológicas",
-  "preco": 10.77,
-  "desconto": 62,
-  "nota": 4.9,
-  "vendas": 2670,
-  "link": "https://s.shopee.com.br/906KrNvPZe",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-logvyjzwum5l2c",
-  "destaque": true,
-  "criado": 1793210493
- },
- {
-  "id": "58200478308-1793210501",
-  "nicho": "bebe",
-  "titulo": "👶 Achado pro Bebê",
-  "nome": "3 Macacões Roupa de Bebê Menino Menina Canelado Vira Pé com Proteção de Zíper RN ao G",
-  "preco": 59.98,
-  "desconto": 40,
-  "nota": 4.8,
-  "vendas": 672,
-  "link": "https://s.shopee.com.br/50aC62fMzc",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-msk9balppwxy82",
-  "destaque": true,
-  "criado": 1793210501
- },
- {
   "id": "22799165776-1793210513",
   "nicho": "moda",
   "titulo": "👗 Achado de Moda",
@@ -838,5 +796,47 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-md6zlkp6yqyp61",
   "destaque": true,
   "criado": 1793372521
+ },
+ {
+  "id": "23094515580-1793376101",
+  "nicho": "moda",
+  "titulo": "👗 Achado de Moda",
+  "nome": "Short Saia Alfaiataria Feminino com Zíper e Laço Cintura Alta",
+  "preco": 28.28,
+  "desconto": 34,
+  "nota": 4.8,
+  "vendas": 1822,
+  "link": "https://s.shopee.com.br/20wda4RWoz",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mo2pq6jbtkht68",
+  "destaque": true,
+  "criado": 1793376101
+ },
+ {
+  "id": "23099236697-1793376108",
+  "nicho": "escritorio",
+  "titulo": "📚 Achado Escritório",
+  "nome": "A6S Fone Sem Fio Bluetooth Intra Auricular com Microfone e Estojo Portátil",
+  "preco": 17.98,
+  "desconto": 70,
+  "nota": 4.8,
+  "vendas": 5757,
+  "link": "https://s.shopee.com.br/6L5ck2erjc",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-82582-mutpkgbqnd3a13",
+  "destaque": true,
+  "criado": 1793376108
+ },
+ {
+  "id": "23794513159-1793376114",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "Kit Ate 20 Pano De Limpeza De Arame Metálico Malha Não Oleosa Fogão De Cozinha Prato & Panelas",
+  "preco": 10.0,
+  "desconto": 62,
+  "nota": 4.7,
+  "vendas": 2954,
+  "link": "https://s.shopee.com.br/5VWVkW8R9b",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-825ap-mfs7jsak3ksq2b",
+  "destaque": true,
+  "criado": 1793376114
  }
 ]
