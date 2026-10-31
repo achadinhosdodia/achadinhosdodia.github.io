@@ -2,13 +2,19 @@
  "grupos": [
   {
    "nicho": "casa",
-   "nome": "🛍️ Grupo de Ofertas (🏠 🎧 🔧 👗)",
+   "nome": "🛍️ Grupo de Ofertas (🏠 🎧 💄 🔧 👗)",
    "link": "https://chat.whatsapp.com/EkejkJEVaQ39aOXlMo8ELX",
    "ativo": true
   },
   {
    "nicho": "eletronicos",
    "nome": "🎧 Eletrônicos",
+   "link": "https://chat.whatsapp.com/EkejkJEVaQ39aOXlMo8ELX",
+   "ativo": false
+  },
+  {
+   "nicho": "beleza",
+   "nome": "💄 Beleza",
    "link": "https://chat.whatsapp.com/EkejkJEVaQ39aOXlMo8ELX",
    "ativo": false
   },
