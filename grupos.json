@@ -2,7 +2,7 @@
  "grupos": [
   {
    "nicho": "casa",
-   "nome": "🛍️ Grupo de Ofertas (🏠 🎧 💄 🔧 👗)",
+   "nome": "🛍️ Entrar no grupo de ofertas",
    "link": "https://chat.whatsapp.com/EkejkJEVaQ39aOXlMo8ELX",
    "ativo": true
   },
@@ -31,5 +31,19 @@
    "ativo": false
   }
  ],
- "telegram": "https://t.me/achadosShopee97"
+ "telegram": "https://t.me/achadosShopee97",
+ "nomes": {
+  "casa": "🏠 Casa",
+  "pet": "🐾 Pet",
+  "eletronicos": "🎧 Eletrônicos",
+  "beleza": "💄 Beleza",
+  "bebe": "👶 Bebê",
+  "fitness": "💪 Fitness",
+  "ferramentas": "🔧 Ferramentas",
+  "moda": "👗 Moda",
+  "games": "🎮 Games",
+  "infantil": "🧸 Infantil",
+  "escritorio": "📚 Escritório",
+  "viagem": "🧳 Viagem"
+ }
 }
