@@ -1,47 +1,5 @@
 [
  {
-  "id": "23197460706-1793487727",
-  "nicho": "beleza",
-  "titulo": "💄 Achado de Beleza",
-  "nome": "1 Protetor De Silicone Para Aplicação de Mascara de Cílios Delineador e Sombra nos Cílios",
-  "preco": 6.99,
-  "desconto": 77,
-  "nota": 4.8,
-  "vendas": 1702,
-  "link": "https://s.shopee.com.br/6L5ennQnlf",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lu9mgnnv1wm893",
-  "destaque": true,
-  "criado": 1793487727
- },
- {
-  "id": "22536874281-1793487735",
-  "nicho": "ferramentas",
-  "titulo": "🔧 Achado Ferramentas & Carro",
-  "nome": "Lanterna Holofote De Cabeça Led 5 Marchas À Prova D 'Água Recarregável Usb",
-  "preco": 14.95,
-  "desconto": 66,
-  "nota": 4.9,
-  "vendas": 584,
-  "link": "https://s.shopee.com.br/4qGr136SuB",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-7qukw-lfa3ssghpq8v3e",
-  "destaque": true,
-  "criado": 1793487735
- },
- {
-  "id": "22798914505-1793534485",
-  "nicho": "casa",
-  "titulo": "🏠 Achado pra Casa",
-  "nome": "PORTA RETRATO 10X15 E 15X2 LUXO MODERNO BRILHANTE MOLDURA, SALA, ESCRITÓRIO BRANCO, PRETO",
-  "preco": 18.98,
-  "desconto": 17,
-  "nota": 4.8,
-  "vendas": 919,
-  "link": "https://s.shopee.com.br/6L5ffJbDSK",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-mt9n681wwnpdd2",
-  "destaque": true,
-  "criado": 1793534485
- },
- {
   "id": "23694932173-1793534497",
   "nicho": "eletronicos",
   "titulo": "🎧 Achado Eletrônico",
@@ -838,5 +796,47 @@
   "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rff8-m9erxtmpa27de0",
   "destaque": true,
   "criado": 1793653483
+ },
+ {
+  "id": "58262250323-1793657016",
+  "nicho": "moda",
+  "titulo": "👗 Achado de Moda",
+  "nome": "KIT Cuecas Boxer Dry Fit Maxbeck Forro Algodão Furadinha Premium",
+  "preco": 31.5,
+  "desconto": 35,
+  "nota": 4.8,
+  "vendas": 2885,
+  "link": "https://s.shopee.com.br/6fiYKAhGCN",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m7-mpctenxo87idf0",
+  "destaque": true,
+  "criado": 1793657016
+ },
+ {
+  "id": "58267169995-1793657069",
+  "nicho": "beleza",
+  "titulo": "💄 Achado de Beleza",
+  "nome": "Melu by Ruby Rose HB-8104 Fashion Light Coverage Liquid Concealer Corretivo Líquido de Cobertura Leve",
+  "preco": 11.99,
+  "desconto": 64,
+  "nota": 4.9,
+  "vendas": 5084,
+  "link": "https://s.shopee.com.br/7VHfJlPGzT",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820ld-msfwomi31ptx00",
+  "destaque": true,
+  "criado": 1793657069
+ },
+ {
+  "id": "27741270949-1793657089",
+  "nicho": "ferramentas",
+  "titulo": "🔧 Achado Ferramentas & Carro",
+  "nome": "Luz De Segurança Analógica Movida A Energia Solar LED Para Carro-Alarme Contra Roubo Simulado Automático-Luzes De Cuidad",
+  "preco": 16.99,
+  "desconto": 76,
+  "nota": 4.7,
+  "vendas": 882,
+  "link": "https://s.shopee.com.br/8AXM70nD6s",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdww-mbq3mve70bkdf5",
+  "destaque": true,
+  "criado": 1793657089
  }
 ]
