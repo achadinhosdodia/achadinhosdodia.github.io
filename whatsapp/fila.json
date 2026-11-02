@@ -1,47 +1,5 @@
 [
  {
-  "id": "23694932173-1793534497",
-  "nicho": "eletronicos",
-  "titulo": "🎧 Achado Eletrônico",
-  "nome": "Kit Lanterna E Farol Bike Luz Ultra Led Prova D'agua Recarregavel Fluoreled",
-  "preco": 18.48,
-  "desconto": 53,
-  "nota": 4.9,
-  "vendas": 1206,
-  "link": "https://s.shopee.com.br/7VHd3TJvb6",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zur-mmt40fhhvmdf38",
-  "destaque": true,
-  "criado": 1793534497
- },
- {
-  "id": "23198116959-1793534503",
-  "nicho": "beleza",
-  "titulo": "💄 Achado de Beleza",
-  "nome": "Paleta de sombras 28 cores nude B105 Belle Angel",
-  "preco": 18.99,
-  "desconto": 71,
-  "nota": 4.9,
-  "vendas": 558,
-  "link": "https://s.shopee.com.br/1qdGJ458vt",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-824i1-mfb5rgi4h53gfc",
-  "destaque": true,
-  "criado": 1793534503
- },
- {
-  "id": "20997971392-1793534509",
-  "nicho": "ferramentas",
-  "titulo": "🔧 Achado Ferramentas & Carro",
-  "nome": "Limpa Estofados Spray Zip 300ml My Place Carro Sofá Tapete Colchão Almofada",
-  "preco": 17.89,
-  "desconto": 54,
-  "nota": 4.8,
-  "vendas": 1584,
-  "link": "https://s.shopee.com.br/7KyCrBEnNH",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-mslebil7vax0e8",
-  "destaque": true,
-  "criado": 1793534509
- },
- {
   "id": "57454815127-1793534521",
   "nicho": "moda",
   "titulo": "👗 Achado de Moda",
@@ -838,5 +796,47 @@
   "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdww-mbq3mve70bkdf5",
   "destaque": true,
   "criado": 1793657089
+ },
+ {
+  "id": "22093651616-1793660610",
+  "nicho": "beleza",
+  "titulo": "💄 Achado de Beleza",
+  "nome": "Kit até 150 Máscara Desidratada Comprimido Compactada para Skin Care",
+  "preco": 10.98,
+  "desconto": 58,
+  "nota": 4.9,
+  "vendas": 713,
+  "link": "https://s.shopee.com.br/6AmHnMqUew",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m4vv5h6xpg0gd1",
+  "destaque": true,
+  "criado": 1793660610
+ },
+ {
+  "id": "23699037923-1793660619",
+  "nicho": "ferramentas",
+  "titulo": "🔧 Achado Ferramentas & Carro",
+  "nome": "Trena De Aço Com Trava E Alça 7.5m * 25mm / 5m * 25mm Durável - W",
+  "preco": 16.89,
+  "desconto": 47,
+  "nota": 4.9,
+  "vendas": 959,
+  "link": "https://s.shopee.com.br/2BG921ezJd",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259t-munvd3uej0n489",
+  "destaque": true,
+  "criado": 1793660619
+ },
+ {
+  "id": "58261931915-1793660665",
+  "nicho": "moda",
+  "titulo": "👗 Achado de Moda",
+  "nome": "Conjunto Feminino Body Quadrado+Short Alfaiataria Com Bolso e Cinto  Moda Casual",
+  "preco": 69.97,
+  "desconto": 42,
+  "nota": 4.8,
+  "vendas": 3273,
+  "link": "https://s.shopee.com.br/2LZZENz8ix",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mps0r02u2z2846",
+  "destaque": true,
+  "criado": 1793660665
  }
 ]
