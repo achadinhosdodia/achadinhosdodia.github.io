@@ -1,47 +1,5 @@
 [
  {
-  "id": "57454815127-1793534521",
-  "nicho": "moda",
-  "titulo": "👗 Achado de Moda",
-  "nome": "Short Jeans Lycra Plus Size do 42 ao 56 Feminino Cintura Alta Bolso Lateral Cordão Verão Estiloso",
-  "preco": 39.99,
-  "desconto": 73,
-  "nota": 4.9,
-  "vendas": 1712,
-  "link": "https://s.shopee.com.br/5fpys87kDc",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjkg48tyetqa0c",
-  "destaque": true,
-  "criado": 1793534521
- },
- {
-  "id": "29364698440-1793538082",
-  "nicho": "eletronicos",
-  "titulo": "🎧 Achado Eletrônico",
-  "nome": "Fones X55: invisíveis, TWS, Bluetooth, HiFi, redução de ruído, ENC à prova d’água e bateria duradoura",
-  "preco": 26.94,
-  "desconto": 33,
-  "nota": 4.8,
-  "vendas": 2787,
-  "link": "https://s.shopee.com.br/1W0PyY9OwJ",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134301-7rd60-lw9tt9cjrh4041",
-  "destaque": true,
-  "criado": 1793538082
- },
- {
-  "id": "22497600101-1793538089",
-  "nicho": "beleza",
-  "titulo": "💄 Achado de Beleza",
-  "nome": "FENZZA LIP TINT CHOCO FUN GLOSS LABIAL GANACHE AU LAIT FLAN FONDUE",
-  "preco": 12.99,
-  "desconto": 74,
-  "nota": 4.9,
-  "vendas": 568,
-  "link": "https://s.shopee.com.br/1W0PyYZnnC",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcuw3vw3ck6q5d",
-  "destaque": true,
-  "criado": 1793538089
- },
- {
   "id": "58212510679-1793538095",
   "nicho": "ferramentas",
   "titulo": "🔧 Achado Ferramentas & Carro",
@@ -838,5 +796,47 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mps0r02u2z2846",
   "destaque": true,
   "criado": 1793660665
+ },
+ {
+  "id": "51013764589-1793707373",
+  "nicho": "beleza",
+  "titulo": "💄 Achado de Beleza",
+  "nome": "Paleta Ruby Rose Honor Glass Glam Selection Blush Iluminador E Sombra",
+  "preco": 20.69,
+  "desconto": 15,
+  "nota": 4.9,
+  "vendas": 583,
+  "link": "https://s.shopee.com.br/9pfb1d0Dgf",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-82595-mqhs8edl28e9f1",
+  "destaque": true,
+  "criado": 1793707373
+ },
+ {
+  "id": "58207329054-1793707410",
+  "nicho": "ferramentas",
+  "titulo": "🔧 Achado Ferramentas & Carro",
+  "nome": "Organizador de Porta-Malas em Feltro Bem resistente  Cor PRETO – Alta Qualidade",
+  "preco": 29.97,
+  "desconto": 63,
+  "nota": 4.8,
+  "vendas": 323,
+  "link": "https://s.shopee.com.br/6fiZFqtOTw",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lo-mrt19er7fpxid0",
+  "destaque": true,
+  "criado": 1793707410
+ },
+ {
+  "id": "3958758961-1793707429",
+  "nicho": "moda",
+  "titulo": "👗 Achado de Moda",
+  "nome": "óculos de sol hexagonal masculino feminino com lente preta escura armação metal geométrico blogueira",
+  "preco": 16.9,
+  "desconto": 66,
+  "nota": 4.8,
+  "vendas": 5384,
+  "link": "https://s.shopee.com.br/9KjKQm0VVC",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lh-mslmq9g7mwas80",
+  "destaque": true,
+  "criado": 1793707429
  }
 ]
