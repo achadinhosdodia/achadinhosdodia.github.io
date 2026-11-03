@@ -1,47 +1,5 @@
 [
  {
-  "id": "58265207293-1793566913",
-  "nicho": "ferramentas",
-  "titulo": "🔧 Achado Ferramentas & Carro",
-  "nome": "Kit Ferramentas de Cabelo | Opções 3/5/10/11 peças: pente, borrifador, ferramenta trança, clipes e scrunchies",
-  "preco": 13.99,
-  "desconto": 48,
-  "nota": 4.9,
-  "vendas": 3822,
-  "link": "https://s.shopee.com.br/9zyydAa4Pq",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lc-mulygq6ied4yaa",
-  "destaque": true,
-  "criado": 1793566913
- },
- {
-  "id": "22698938380-1793566926",
-  "nicho": "moda",
-  "titulo": "👗 Achado de Moda",
-  "nome": "Bermudas Jeans Feminina Ciclista Cintura Alta Com Lycra Roupas Femininas",
-  "preco": 39.54,
-  "desconto": 51,
-  "nota": 4.8,
-  "vendas": 1470,
-  "link": "https://s.shopee.com.br/2LZXV5t1Rq",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-825a5-meypx6vtli4l15",
-  "destaque": true,
-  "criado": 1793566926
- },
- {
-  "id": "58214709722-1793570488",
-  "nicho": "eletronicos",
-  "titulo": "🎧 Achado Eletrônico",
-  "nome": "Suporte Do Cabo Clipe Universal O Invólucro Cord Organizador Para Cabos De Armazenamento",
-  "preco": 7.99,
-  "desconto": 60,
-  "nota": 4.8,
-  "vendas": 2079,
-  "link": "https://s.shopee.com.br/2LZXZAjDUW",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m7-mqxsuo18zll2f0",
-  "destaque": true,
-  "criado": 1793570488
- },
- {
   "id": "23698347870-1793570496",
   "nicho": "beleza",
   "titulo": "💄 Achado de Beleza",
@@ -838,5 +796,47 @@
   "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdy6-m18inmmkmrrs97",
   "destaque": true,
   "criado": 1793743396
+ },
+ {
+  "id": "20198291285-1793746894",
+  "nicho": "ferramentas",
+  "titulo": "🔧 Achado Ferramentas & Carro",
+  "nome": "2 Estilete Raspador Profissional 8 Lâminas Tira Adesivo Cola Vidro Piso Fogao Parede 1 Unidade + 4 Lâminas",
+  "preco": 12.47,
+  "desconto": 58,
+  "nota": 4.9,
+  "vendas": 1012,
+  "link": "https://s.shopee.com.br/5fq2nCnPEK",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-825zv-mjqc9lm3ycqq92",
+  "destaque": true,
+  "criado": 1793746894
+ },
+ {
+  "id": "12223765393-1793746961",
+  "nicho": "eletronicos",
+  "titulo": "🎧 Achado Eletrônico",
+  "nome": "Tripé Para Iluminação Led 2.1 Metros Universal Tik Tok Celular",
+  "preco": 19.99,
+  "desconto": 43,
+  "nota": 4.8,
+  "vendas": 1708,
+  "link": "https://s.shopee.com.br/1gJu1vrKiT",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rbk4-lm99gep3ttl14d",
+  "destaque": true,
+  "criado": 1793746961
+ },
+ {
+  "id": "20299240093-1793746971",
+  "nicho": "beleza",
+  "titulo": "💄 Achado de Beleza",
+  "nome": "Pó Compacto Fixador à Prova d'Água Playboy",
+  "preco": 16.55,
+  "desconto": 41,
+  "nota": 4.9,
+  "vendas": 407,
+  "link": "https://s.shopee.com.br/1W0TpdaJAR",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rd5k-luay8xqzingm16",
+  "destaque": true,
+  "criado": 1793746971
  }
 ]
