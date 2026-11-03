@@ -1,47 +1,5 @@
 [
  {
-  "id": "22297791997-1793559697",
-  "nicho": "casa",
-  "titulo": "🏠 Achado pra Casa",
-  "nome": "Kit 3 Esponja Bucha de Nylon Para Banho com Cordinha",
-  "preco": 12.88,
-  "desconto": 57,
-  "nota": 4.9,
-  "vendas": 1593,
-  "link": "https://s.shopee.com.br/8KqkVqWtTd",
-  "imagem": "https://cf.shopee.com.br/file/br-11134201-820ln-mqxqm3t5kikkb6",
-  "destaque": true,
-  "criado": 1793559697
- },
- {
-  "id": "21797411616-1793559708",
-  "nicho": "eletronicos",
-  "titulo": "🎧 Achado Eletrônico",
-  "nome": "Kit Teclado e Mouse Sem Fio Bluetooth Colorido Macaron Para PC iPad Tablet Notebook",
-  "preco": 28.99,
-  "desconto": 67,
-  "nota": 4.8,
-  "vendas": 1633,
-  "link": "https://s.shopee.com.br/2VsxZ8fIAU",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98q-lm6cuz4t24ob4a",
-  "destaque": true,
-  "criado": 1793559708
- },
- {
-  "id": "23698030995-1793559714",
-  "nicho": "beleza",
-  "titulo": "💄 Achado de Beleza",
-  "nome": "Ahania Porta Acetona 100ml/150ml Frasco Transparente Push Down Pump Removedor De Maquiagem Recarregável Reutilizável",
-  "preco": 9.95,
-  "desconto": 50,
-  "nota": 5.0,
-  "vendas": 3152,
-  "link": "https://s.shopee.com.br/8AXKJYoirj",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rep6-m2qu1ob6ramh63",
-  "destaque": true,
-  "criado": 1793559714
- },
- {
   "id": "58218679406-1793559722",
   "nicho": "ferramentas",
   "titulo": "🔧 Achado Ferramentas & Carro",
@@ -838,5 +796,47 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6o6mahea4a866",
   "destaque": true,
   "criado": 1793732614
+ },
+ {
+  "id": "58216240649-1793739789",
+  "nicho": "beleza",
+  "titulo": "💄 Achado de Beleza",
+  "nome": "Corretivo para a Area dos Olhos Ruby Kisses Under Eye 10ml Novo",
+  "preco": 20.68,
+  "desconto": 74,
+  "nota": 4.9,
+  "vendas": 4733,
+  "link": "https://s.shopee.com.br/60St3geTHX",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mrvvrv6986is64",
+  "destaque": true,
+  "criado": 1793739789
+ },
+ {
+  "id": "23493959457-1793739802",
+  "nicho": "ferramentas",
+  "titulo": "🔧 Achado Ferramentas & Carro",
+  "nome": "Bolsa De Ferramentas Maleta Para Carro Organizadora Automotiva Multiuso Porta Malas C/Velcro Premium",
+  "preco": 33.33,
+  "desconto": 63,
+  "nota": 4.9,
+  "vendas": 375,
+  "link": "https://s.shopee.com.br/1BNdIos4Ee",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mnrr4kicvv9e53",
+  "destaque": true,
+  "criado": 1793739802
+ },
+ {
+  "id": "19498208842-1793739820",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "KIT Joelheira Protetoras  Esponja Respirável Dança Vôlei Basquetebol Proteção Treinamento Unisex",
+  "preco": 16.99,
+  "desconto": 71,
+  "nota": 4.9,
+  "vendas": 3663,
+  "link": "https://s.shopee.com.br/50aLrsqCYH",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-maq97rewsscva5",
+  "destaque": true,
+  "criado": 1793739820
  }
 ]
