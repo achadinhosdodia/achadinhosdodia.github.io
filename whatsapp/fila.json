@@ -1,47 +1,5 @@
 [
  {
-  "id": "58204026938-1793552485",
-  "nicho": "ferramentas",
-  "titulo": "🔧 Achado Ferramentas & Carro",
-  "nome": "Kit 6 Cheirinho Aromatizante Para Carro Novo Cheiroso Pinheiro Sortidos - Envio Rápido",
-  "preco": 10.87,
-  "desconto": 64,
-  "nota": 4.7,
-  "vendas": 1683,
-  "link": "https://s.shopee.com.br/7KyDBknjCN",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjwz2tt9kbgj95",
-  "destaque": true,
-  "criado": 1793552485
- },
- {
-  "id": "58265588022-1793552498",
-  "nicho": "moda",
-  "titulo": "👗 Achado de Moda",
-  "nome": "Kit Com 3 e 2 Calças Jeans Masculinas Slim Fit Básicas Cores Variadas Dia a Dia",
-  "preco": 92.99,
-  "desconto": 46,
-  "nota": 4.8,
-  "vendas": 4157,
-  "link": "https://s.shopee.com.br/2qVnpV4SIC",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mrhyfx2bi8sma8",
-  "destaque": true,
-  "criado": 1793552498
- },
- {
-  "id": "14089007380-1793552510",
-  "nicho": "casa",
-  "titulo": "🏠 Achado pra Casa",
-  "nome": "Escorredor De Louça Cozinha Prato Duplo Porta Talheres Metaltru",
-  "preco": 32.0,
-  "desconto": 27,
-  "nota": 4.8,
-  "vendas": 1300,
-  "link": "https://s.shopee.com.br/4qGsDBnqNy",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-meuby2zmv37la4",
-  "destaque": true,
-  "criado": 1793552510
- },
- {
   "id": "22993695412-1793552522",
   "nicho": "eletronicos",
   "titulo": "🎧 Achado Eletrônico",
@@ -838,5 +796,47 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lk-mn9bvci0nuv89e",
   "destaque": true,
   "criado": 1793718233
+ },
+ {
+  "id": "40873387489-1793725294",
+  "nicho": "premium",
+  "titulo": "💎 Oferta Premium",
+  "nome": "Console PlayStation 5 Slim Digital 825GB",
+  "preco": 4399.0,
+  "desconto": 15,
+  "nota": 4.9,
+  "vendas": 368,
+  "link": "https://s.shopee.com.br/50aLbG6IPw",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfmltid9j6dj4f",
+  "destaque": true,
+  "criado": 1793725294
+ },
+ {
+  "id": "22494710306-1793725378",
+  "nicho": "beleza",
+  "titulo": "💄 Achado de Beleza",
+  "nome": "Kit skincare rosa mosqueta limpeza de pele bruma facial",
+  "preco": 45.98,
+  "desconto": 29,
+  "nota": 4.9,
+  "vendas": 2625,
+  "link": "https://s.shopee.com.br/6L5jBnyrjr",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhkyomigibr553",
+  "destaque": true,
+  "criado": 1793725378
+ },
+ {
+  "id": "58203522024-1793725387",
+  "nicho": "ferramentas",
+  "titulo": "🔧 Achado Ferramentas & Carro",
+  "nome": "Kit 5 Varetas Mágica Perfumada Ardecor Aromatizante a Seco Carro Roupeiro Bolsa Fragancias",
+  "preco": 15.97,
+  "desconto": 50,
+  "nota": 4.6,
+  "vendas": 574,
+  "link": "https://s.shopee.com.br/7puWyZRwMR",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjlldu2wsruu36",
+  "destaque": true,
+  "criado": 1793725387
  }
 ]
