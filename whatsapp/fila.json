@@ -1,47 +1,5 @@
 [
  {
-  "id": "22993695412-1793552522",
-  "nicho": "eletronicos",
-  "titulo": "🎧 Achado Eletrônico",
-  "nome": "Bastão de selfie telescópico Bluetooth com controle remoto para celular com suporte de tripé com luz para selfie",
-  "preco": 15.99,
-  "desconto": 76,
-  "nota": 4.8,
-  "vendas": 2215,
-  "link": "https://s.shopee.com.br/3B8eE8lk56",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rbm6-m62rbhwe6v78e9",
-  "destaque": true,
-  "criado": 1793552522
- },
- {
-  "id": "23093932456-1793552529",
-  "nicho": "beleza",
-  "titulo": "💄 Achado de Beleza",
-  "nome": "Lenço Demaquilante Ruby Rose Basics Hb203",
-  "preco": 15.9,
-  "desconto": 12,
-  "nota": 4.9,
-  "vendas": 384,
-  "link": "https://s.shopee.com.br/5VWZ0R6ttD",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7renu-m8xnsz3mqtntfc",
-  "destaque": true,
-  "criado": 1793552529
- },
- {
-  "id": "22394464147-1793559685",
-  "nicho": "moda",
-  "titulo": "👗 Achado de Moda",
-  "nome": "Rasteirinha Feminina Confortável Palmilha Fofinha Sandália Verão Blogueira",
-  "preco": 19.99,
-  "desconto": 46,
-  "nota": 4.9,
-  "vendas": 2311,
-  "link": "https://s.shopee.com.br/60SpjXtNZQ",
-  "imagem": "https://cf.shopee.com.br/file/br-11134201-820md-muy33a0p19mr6d",
-  "destaque": true,
-  "criado": 1793559685
- },
- {
   "id": "22297791997-1793559697",
   "nicho": "casa",
   "titulo": "🏠 Achado pra Casa",
@@ -838,5 +796,47 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjlldu2wsruu36",
   "destaque": true,
   "criado": 1793725387
+ },
+ {
+  "id": "23294668766-1793732588",
+  "nicho": "eletronicos",
+  "titulo": "🎧 Achado Eletrônico",
+  "nome": "Cortina de LED 3M 300 Luz 8 Modos De Iluminação Luzes De Fada De Fadas USB Para Decorações De Festa",
+  "preco": 21.5,
+  "desconto": 61,
+  "nota": 4.9,
+  "vendas": 3960,
+  "link": "https://s.shopee.com.br/2qVr9cqE4z",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-821gd-mgs6z1t0lyxb76",
+  "destaque": true,
+  "criado": 1793732588
+ },
+ {
+  "id": "24982329333-1793732607",
+  "nicho": "beleza",
+  "titulo": "💄 Achado de Beleza",
+  "nome": "Removedor De Maquiagem Com Sabor De Frutas , Suave E Não Irritante , Remove Rapidamente Cílios Postiços Enxertados",
+  "preco": 12.48,
+  "desconto": 77,
+  "nota": 4.9,
+  "vendas": 998,
+  "link": "https://s.shopee.com.br/8Kqnhkm08f",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdx4-mcalwvnbzp0b26",
+  "destaque": true,
+  "criado": 1793732607
+ },
+ {
+  "id": "22993732963-1793732614",
+  "nicho": "ferramentas",
+  "titulo": "🔧 Achado Ferramentas & Carro",
+  "nome": "Kit 3 a 5 Colas Tek Bond 20g Cola Instantânea",
+  "preco": 22.9,
+  "desconto": 18,
+  "nota": 4.9,
+  "vendas": 354,
+  "link": "https://s.shopee.com.br/9APuhIIN0x",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6o6mahea4a866",
+  "destaque": true,
+  "criado": 1793732614
  }
 ]
