@@ -1,33 +1,5 @@
 [
  {
-  "id": "58262495327-1793574108",
-  "nicho": "casa",
-  "titulo": "🏠 Achado pra Casa",
-  "nome": "Porta Escova de Dentes Organizador Banheiro Suporte Pasta Dental Autoadesivo de Parede",
-  "preco": 12.9,
-  "desconto": 57,
-  "nota": 4.9,
-  "vendas": 1422,
-  "link": "https://s.shopee.com.br/9V2iAU6aE7",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mtn256auza4i52",
-  "destaque": true,
-  "criado": 1793574108
- },
- {
-  "id": "57700903327-1793574119",
-  "nicho": "eletronicos",
-  "titulo": "🎧 Achado Eletrônico",
-  "nome": "Tripé Selfie para Celular com Luz LED e Controle Bluetooth – Bastão de Selfie Ajustável com Tripé",
-  "preco": 17.98,
-  "desconto": 55,
-  "nota": 4.8,
-  "vendas": 2477,
-  "link": "https://s.shopee.com.br/AUvFMKpNZH",
-  "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mnzflbvt47idca",
-  "destaque": true,
-  "criado": 1793574119
- },
- {
   "id": "58252997473-1793631753",
   "nicho": "casa",
   "titulo": "🏠 Achado pra Casa",
@@ -838,5 +810,33 @@
   "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rav4-mawuivj560ls08",
   "destaque": true,
   "criado": 1793804529
+ },
+ {
+  "id": "20697680699-1793811695",
+  "nicho": "beleza",
+  "titulo": "💄 Achado de Beleza",
+  "nome": "Gloss Bocão Labial Ácido Hialurônico - Miss Lary",
+  "preco": 13.87,
+  "desconto": 45,
+  "nota": 4.7,
+  "vendas": 965,
+  "link": "https://s.shopee.com.br/40hq0JSD7v",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rd55-luzqacufwgax75",
+  "destaque": true,
+  "criado": 1793811695
+ },
+ {
+  "id": "23298129536-1793811715",
+  "nicho": "ferramentas",
+  "titulo": "🔧 Achado Ferramentas & Carro",
+  "nome": "1 par Lâmpada LED Sem Fio Para Carro/Projetor De Luz Laser Bem-Vindo com Marca de Carro Universal Decorativo",
+  "preco": 25.32,
+  "desconto": 68,
+  "nota": 4.9,
+  "vendas": 1768,
+  "link": "https://s.shopee.com.br/9KjMM8XpeA",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ra2h-m4urnwawt3zo85",
+  "destaque": true,
+  "criado": 1793811715
  }
 ]
