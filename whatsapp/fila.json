@@ -1,47 +1,5 @@
 [
  {
-  "id": "22592786148-1793570516",
-  "nicho": "moda",
-  "titulo": "👗 Achado de Moda",
-  "nome": "Kit Calcinhas Tanga Corte a Laser Sem Costura Poliamida Premium",
-  "preco": 22.99,
-  "desconto": 49,
-  "nota": 4.9,
-  "vendas": 3329,
-  "link": "https://s.shopee.com.br/9V2i6NH7sO",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lz-msraiultqm864a",
-  "destaque": true,
-  "criado": 1793570516
- },
- {
-  "id": "40251350341-1793570523",
-  "nicho": "casa",
-  "titulo": "🏠 Achado pra Casa",
-  "nome": "Varal 40 Prendedores Para Roupa Intima Para Calcinha Meia Cueca Reforçado inox 08/10/20/60 Prendedores",
-  "preco": 13.88,
-  "desconto": 62,
-  "nota": 4.9,
-  "vendas": 9556,
-  "link": "https://s.shopee.com.br/gRJa9JYIM",
-  "imagem": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m9xe5icr5meq70",
-  "destaque": true,
-  "criado": 1793570523
- },
- {
-  "id": "58258931516-1793574082",
-  "nicho": "beleza",
-  "titulo": "💄 Achado de Beleza",
-  "nome": "2 Unidades Esponjas Faciais de Manga Maquiagem Impecável Com Acabamento Suave e Uniforme",
-  "preco": 10.99,
-  "desconto": 45,
-  "nota": 4.9,
-  "vendas": 1429,
-  "link": "https://s.shopee.com.br/8KqkmJOxfw",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lk-mn3hhgxektfob9",
-  "destaque": true,
-  "criado": 1793574082
- },
- {
   "id": "58253442552-1793574089",
   "nicho": "ferramentas",
   "titulo": "🔧 Achado Ferramentas & Carro",
@@ -838,5 +796,47 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820l7-mm5qnbvrghkw55",
   "destaque": true,
   "criado": 1793793749
+ },
+ {
+  "id": "22094964634-1793797301",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "Kit 10/20/30 Peças Ganchos De Silicone Para Parede Do Polegar‑Clipes Adesivos Cabos E Chaves",
+  "preco": 9.99,
+  "desconto": 63,
+  "nota": 4.8,
+  "vendas": 1373,
+  "link": "https://s.shopee.com.br/5q9TvCpI22",
+  "imagem": "https://cf.shopee.com.br/file/br-11134201-820lx-mqxp5oqvquivc8",
+  "destaque": true,
+  "criado": 1793797301
+ },
+ {
+  "id": "23998106762-1793797323",
+  "nicho": "beleza",
+  "titulo": "💄 Achado de Beleza",
+  "nome": "Kit Com 4 2 Touca Ninja Balaclava Bandana Motoqueiros Militar Facial Frio Máscara Moto proteção solar  UV 50+ térmica",
+  "preco": 19.0,
+  "desconto": 78,
+  "nota": 4.8,
+  "vendas": 801,
+  "link": "https://s.shopee.com.br/60Su7XRmQP",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lz-mseo7ynk9laf6d",
+  "destaque": true,
+  "criado": 1793797323
+ },
+ {
+  "id": "21498282466-1793797341",
+  "nicho": "ferramentas",
+  "titulo": "🔧 Achado Ferramentas & Carro",
+  "nome": "Organizador COM ZÍPER Para Motorista UBER/99/INDRIVER Porta Objetos de Banco Carro COM PAINEL VISOR Para Recado",
+  "preco": 59.45,
+  "desconto": 15,
+  "nota": 5.0,
+  "vendas": 582,
+  "link": "https://s.shopee.com.br/2LZbkowade",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820md-mm7u017xdn9j63",
+  "destaque": true,
+  "criado": 1793797341
  }
 ]
