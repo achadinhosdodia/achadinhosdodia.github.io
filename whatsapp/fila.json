@@ -1,33 +1,5 @@
 [
  {
-  "id": "52207212755-1793639040",
-  "nicho": "casa",
-  "titulo": "🏠 Achado pra Casa",
-  "nome": "1 Planta Artificial Hera Ivy Pendente + Vaso Vime Trançado BRANCO Arranjo Decorativo Completo Suspenso PT11BRANCO",
-  "preco": 12.5,
-  "desconto": 58,
-  "nota": 4.6,
-  "vendas": 4042,
-  "link": "https://s.shopee.com.br/9fM9Z6xO9H",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820ln-mlteewjffbpgb3",
-  "destaque": true,
-  "criado": 1793639040
- },
- {
-  "id": "22293575369-1793646121",
-  "nicho": "beleza",
-  "titulo": "💄 Achado de Beleza",
-  "nome": "Mascara De Cilios Melu Ruby Rose Rimel Peel Off Alta Fixação-14.5g",
-  "preco": 11.99,
-  "desconto": 70,
-  "nota": 4.9,
-  "vendas": 2988,
-  "link": "https://s.shopee.com.br/9fM9hDMuYj",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m36oq3afyevv79",
-  "destaque": true,
-  "criado": 1793646121
- },
- {
   "id": "58267057785-1793646172",
   "nicho": "ferramentas",
   "titulo": "🔧 Achado Ferramentas & Carro",
@@ -838,5 +810,33 @@
   "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rbk0-lktyq6753ip22a",
   "destaque": true,
   "criado": 1793829752
+ },
+ {
+  "id": "22598401117-1793833309",
+  "nicho": "beleza",
+  "titulo": "💄 Achado de Beleza",
+  "nome": "Kit 3 cutelaria profissional Alicate+espatula+Palito de inox. Unha, esmalte, gel, cetim, skin care",
+  "preco": 17.9,
+  "desconto": 10,
+  "nota": 4.8,
+  "vendas": 5308,
+  "link": "https://s.shopee.com.br/40hqP3Au8f",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-825a3-mt2p15yglwjp88",
+  "destaque": true,
+  "criado": 1793833309
+ },
+ {
+  "id": "58264789991-1793833330",
+  "nicho": "ferramentas",
+  "titulo": "🔧 Achado Ferramentas & Carro",
+  "nome": "Nível de Bolha Magnético 80cm em Alumínio Profissional com 3 Bolhas Alta Precisão para Construção e Instalação",
+  "preco": 32.99,
+  "desconto": 83,
+  "nota": 4.8,
+  "vendas": 319,
+  "link": "https://s.shopee.com.br/7KyINCSx3a",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m0-mqz5ls5l52bq96",
+  "destaque": true,
+  "criado": 1793833330
  }
 ]
