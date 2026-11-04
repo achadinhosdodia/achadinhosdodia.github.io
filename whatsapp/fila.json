@@ -1,47 +1,5 @@
 [
  {
-  "id": "58252997473-1793631753",
-  "nicho": "casa",
-  "titulo": "🏠 Achado pra Casa",
-  "nome": "Suporte Porta Papel Toalha de Parede Inox Autoadesivo Kit Até 3",
-  "preco": 11.99,
-  "desconto": 43,
-  "nota": 4.8,
-  "vendas": 737,
-  "link": "https://s.shopee.com.br/1Lh1VSLt0v",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj9youksui9u70",
-  "destaque": true,
-  "criado": 1793631753
- },
- {
-  "id": "26056733130-1793631775",
-  "nicho": "eletronicos",
-  "titulo": "🎧 Achado Eletrônico",
-  "nome": "Pendrive USB 3.0 2TB Metal 4GB 8GB 16GB 32GB 128GB Memória De Disco Flash De Alta Velocidade",
-  "preco": 15.3,
-  "desconto": 73,
-  "nota": 4.8,
-  "vendas": 1543,
-  "link": "https://s.shopee.com.br/6fiXrHWOEM",
-  "imagem": "https://cf.shopee.com.br/file/cn-11134207-7r98o-lybp16jt1dia62",
-  "destaque": true,
-  "criado": 1793631775
- },
- {
-  "id": "21797990606-1793631819",
-  "nicho": "beleza",
-  "titulo": "💄 Achado de Beleza",
-  "nome": "1 unid Necessaire box personalizada com inicial organizador de maquiagem bolsinhas Necesser",
-  "preco": 16.93,
-  "desconto": 32,
-  "nota": 4.9,
-  "vendas": 2615,
-  "link": "https://s.shopee.com.br/AAIQ1lUz2m",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-md2h6cdl0boyeb",
-  "destaque": true,
-  "criado": 1793631819
- },
- {
   "id": "58252016104-1793631832",
   "nicho": "ferramentas",
   "titulo": "🔧 Achado Ferramentas & Carro",
@@ -838,5 +796,47 @@
   "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ra2h-m4urnwawt3zo85",
   "destaque": true,
   "criado": 1793811715
+ },
+ {
+  "id": "58212572258-1793818903",
+  "nicho": "ferramentas",
+  "titulo": "🔧 Achado Ferramentas & Carro",
+  "nome": "Kit 1/2/3 Colas Instantâneas TekBond 793 Super Bonder 20g Adesivo Multiuso",
+  "preco": 12.94,
+  "desconto": 35,
+  "nota": 4.9,
+  "vendas": 510,
+  "link": "https://s.shopee.com.br/9V2mgfY6o6",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-mpiueqvshfcz32",
+  "destaque": true,
+  "criado": 1793818903
+ },
+ {
+  "id": "41560405606-1793818942",
+  "nicho": "eletronicos",
+  "titulo": "🎧 Achado Eletrônico",
+  "nome": "4 Unidades De Cabo De Carregador E Kit Protetor De Adaptador Proteção Abrangente",
+  "preco": 11.65,
+  "desconto": 42,
+  "nota": 4.8,
+  "vendas": 717,
+  "link": "https://s.shopee.com.br/6AmKiaaiau",
+  "imagem": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m6t6arla1ii034",
+  "destaque": true,
+  "criado": 1793818942
+ },
+ {
+  "id": "22299578951-1793818962",
+  "nicho": "beleza",
+  "titulo": "💄 Achado de Beleza",
+  "nome": "Lápis De Sobrancelha De 4 Pontos , Caneta Líquida De Tatuagem De Maquiagem À Prova D'água , Delineador Cosmético",
+  "preco": 12.99,
+  "desconto": 57,
+  "nota": 4.8,
+  "vendas": 2634,
+  "link": "https://s.shopee.com.br/9APwI7osZh",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-mpm2uh6z0u8219",
+  "destaque": true,
+  "criado": 1793818962
  }
 ]
