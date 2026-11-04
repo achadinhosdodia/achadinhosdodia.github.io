@@ -1,33 +1,5 @@
 [
  {
-  "id": "58253442552-1793574089",
-  "nicho": "ferramentas",
-  "titulo": "🔧 Achado Ferramentas & Carro",
-  "nome": "Lanterna Tática LED com Laser de Alta Potência Militar Super Forte com Zoom Recarregável USB para Emergência 1568",
-  "preco": 19.9,
-  "desconto": 50,
-  "nota": 4.7,
-  "vendas": 2123,
-  "link": "https://s.shopee.com.br/30pEQW9jUQ",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjk9ecri30n52a",
-  "destaque": true,
-  "criado": 1793574089
- },
- {
-  "id": "21099546181-1793574102",
-  "nicho": "moda",
-  "titulo": "👗 Achado de Moda",
-  "nome": "ROMANTIC CROWN Bolsa Feminina Pequena de Ombro Impermeável, Mini Tiracolo de Couro para Trabalho e Festa",
-  "preco": 61.0,
-  "desconto": 90,
-  "nota": 5.0,
-  "vendas": 2983,
-  "link": "https://s.shopee.com.br/8VAAydkCK4",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lh-mswgis250h6vb6",
-  "destaque": true,
-  "criado": 1793574102
- },
- {
   "id": "58262495327-1793574108",
   "nicho": "casa",
   "titulo": "🏠 Achado pra Casa",
@@ -838,5 +810,33 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820md-mm7u017xdn9j63",
   "destaque": true,
   "criado": 1793797341
+ },
+ {
+  "id": "20898264132-1793804511",
+  "nicho": "beleza",
+  "titulo": "💄 Achado de Beleza",
+  "nome": "Kit Com Modelador De Cachos + Touca Cetim Dupla Face Com Regulador",
+  "preco": 14.98,
+  "desconto": 62,
+  "nota": 4.9,
+  "vendas": 2685,
+  "link": "https://s.shopee.com.br/2Vt25Kg12W",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rasf-maynm4e743f5e6",
+  "destaque": true,
+  "criado": 1793804511
+ },
+ {
+  "id": "23494140625-1793804529",
+  "nicho": "ferramentas",
+  "titulo": "🔧 Achado Ferramentas & Carro",
+  "nome": "Kit Extensor Prolongador Flexível Parafusadeira Universal 250mm Bits Soquetes ATACADAO BAZZAR",
+  "preco": 15.99,
+  "desconto": 68,
+  "nota": 4.8,
+  "vendas": 315,
+  "link": "https://s.shopee.com.br/LoXVN9rG5",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rav4-mawuivj560ls08",
+  "destaque": true,
+  "criado": 1793804529
  }
 ]
