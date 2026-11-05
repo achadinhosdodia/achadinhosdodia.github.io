@@ -1,33 +1,5 @@
 [
  {
-  "id": "23493605824-1793646226",
-  "nicho": "casa",
-  "titulo": "🏠 Achado pra Casa",
-  "nome": "Kit de Facas Churrasco Profissional Antiaderente 6 Peças",
-  "preco": 22.99,
-  "desconto": 67,
-  "nota": 4.6,
-  "vendas": 1402,
-  "link": "https://s.shopee.com.br/6VP7vW5kVj",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ra0m-m4j74bgyknx747",
-  "destaque": true,
-  "criado": 1793646226
- },
- {
-  "id": "22494929000-1793646242",
-  "nicho": "eletronicos",
-  "titulo": "🎧 Achado Eletrônico",
-  "nome": "Fone de Ouvido Tipo C com Microfone | Cabo Reforçado | Som Alta Qualidade | Controle de Volume | Android USB-C",
-  "preco": 18.8,
-  "desconto": 60,
-  "nota": 4.8,
-  "vendas": 488,
-  "link": "https://s.shopee.com.br/8fTcVW15Gk",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lb-mm0kig52fj0g1d",
-  "destaque": true,
-  "criado": 1793646242
- },
- {
   "id": "28919538853-1793653297",
   "nicho": "ferramentas",
   "titulo": "🔧 Achado Ferramentas & Carro",
@@ -838,5 +810,33 @@
   "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rfhx-m9bbbrv1pe5jab",
   "destaque": true,
   "criado": 1793880158
+ },
+ {
+  "id": "19465361662-1793883726",
+  "nicho": "ferramentas",
+  "titulo": "🔧 Achado Ferramentas & Carro",
+  "nome": "Lanterna de Cabeça Led COB Caminhada Pesca Ciclismo High Power-101 TOP",
+  "preco": 12.9,
+  "desconto": 28,
+  "nota": 4.8,
+  "vendas": 499,
+  "link": "https://s.shopee.com.br/AUvL4hXDwy",
+  "imagem": "https://cf.shopee.com.br/file/05a9caffd6ef007b3ba3ef571f95ec13",
+  "destaque": true,
+  "criado": 1793883726
+ },
+ {
+  "id": "58212271447-1793883884",
+  "nicho": "beleza",
+  "titulo": "💄 Achado de Beleza",
+  "nome": "Lápis Delineador Ruby Rose Preto Intenso À Prova D'Água Longa Duração Carbon Black",
+  "preco": 13.99,
+  "desconto": 54,
+  "nota": 4.8,
+  "vendas": 1953,
+  "link": "https://s.shopee.com.br/70LSuRxZAh",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-823or-mpb8khhgz3f276",
+  "destaque": true,
+  "criado": 1793883884
  }
 ]
