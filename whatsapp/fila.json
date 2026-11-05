@@ -1,19 +1,5 @@
 [
  {
-  "id": "58262250323-1793657016",
-  "nicho": "moda",
-  "titulo": "👗 Achado de Moda",
-  "nome": "KIT Cuecas Boxer Dry Fit Maxbeck Forro Algodão Furadinha Premium",
-  "preco": 31.5,
-  "desconto": 35,
-  "nota": 4.8,
-  "vendas": 2885,
-  "link": "https://s.shopee.com.br/6fiYKAhGCN",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m7-mpctenxo87idf0",
-  "destaque": true,
-  "criado": 1793657016
- },
- {
   "id": "58267169995-1793657069",
   "nicho": "beleza",
   "titulo": "💄 Achado de Beleza",
@@ -838,5 +824,19 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820ld-mra9hzu1ui2uc8",
   "destaque": true,
   "criado": 1793898220
+ },
+ {
+  "id": "19402132191-1793905387",
+  "nicho": "games",
+  "titulo": "🎮 Achado Gamer",
+  "nome": "Capa Para PS5 Vertical Slim FAT Digital Antipoeira Case Protetora Flanelado",
+  "preco": 19.9,
+  "desconto": 20,
+  "nota": 4.7,
+  "vendas": 376,
+  "link": "https://s.shopee.com.br/5fq5ic2Jds",
+  "imagem": "https://cf.shopee.com.br/file/12eb0f46c0216e6c4689702fbbb3d827",
+  "destaque": true,
+  "criado": 1793905387
  }
 ]
