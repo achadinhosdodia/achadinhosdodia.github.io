@@ -1,33 +1,5 @@
 [
  {
-  "id": "28919538853-1793653297",
-  "nicho": "ferramentas",
-  "titulo": "🔧 Achado Ferramentas & Carro",
-  "nome": "ST.Kunkka Chaveiro de sino de estrela de cinco pontas chaveiro de cor doce pingente de estrela oca para chaveiro com",
-  "preco": 2.73,
-  "desconto": 73,
-  "nota": 4.9,
-  "vendas": 2924,
-  "link": "https://s.shopee.com.br/2LZZ5x3cOO",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rff4-m3bqwasu0uqldb",
-  "destaque": true,
-  "criado": 1793653297
- },
- {
-  "id": "57411045089-1793653447",
-  "nicho": "moda",
-  "titulo": "👗 Achado de Moda",
-  "nome": "Vestido Midi Feminino Malha Suplex Moda Camponesa Dia a Dia Confortavel",
-  "preco": 48.99,
-  "desconto": 51,
-  "nota": 4.8,
-  "vendas": 2512,
-  "link": "https://s.shopee.com.br/1W0S6absdQ",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-msvzg9hyiih39a",
-  "destaque": true,
-  "criado": 1793653447
- },
- {
   "id": "22093981875-1793653483",
   "nicho": "beleza",
   "titulo": "💄 Achado de Beleza",
@@ -838,5 +810,33 @@
   "imagem": "https://cf.shopee.com.br/file/sg-11134201-823or-mpb8khhgz3f276",
   "destaque": true,
   "criado": 1793883884
+ },
+ {
+  "id": "58267173095-1793891059",
+  "nicho": "beleza",
+  "titulo": "💄 Achado de Beleza",
+  "nome": "Caneta Delineadora Glass Preta Ruby Rose",
+  "preco": 13.99,
+  "desconto": 57,
+  "nota": 5.0,
+  "vendas": 1148,
+  "link": "https://s.shopee.com.br/9V2o1Fy1dT",
+  "imagem": "https://cf.shopee.com.br/file/br-11134201-820mh-msjqsqsk5fyc73",
+  "destaque": true,
+  "criado": 1793891059
+ },
+ {
+  "id": "22198802267-1793891101",
+  "nicho": "ferramentas",
+  "titulo": "🔧 Achado Ferramentas & Carro",
+  "nome": "Kit faca de corte 13 artesanato estilete de precisão- Ideal para Artesanato, Artesão e Modelismo",
+  "preco": 18.58,
+  "desconto": 50,
+  "nota": 4.9,
+  "vendas": 604,
+  "link": "https://s.shopee.com.br/8AXQQqtEB3",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mczt1nnpdvr557",
+  "destaque": true,
+  "criado": 1793891101
  }
 ]
