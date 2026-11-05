@@ -1,19 +1,5 @@
 [
  {
-  "id": "22093981875-1793653483",
-  "nicho": "beleza",
-  "titulo": "💄 Achado de Beleza",
-  "nome": "Kit 7 Peças Para Limpeza de Sobrancelha Tesoura/ Pinça/ Escovinha",
-  "preco": 17.27,
-  "desconto": 57,
-  "nota": 4.9,
-  "vendas": 318,
-  "link": "https://s.shopee.com.br/1qdIVFMKxG",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rff8-m9erxtmpa27de0",
-  "destaque": true,
-  "criado": 1793653483
- },
- {
   "id": "58262250323-1793657016",
   "nicho": "moda",
   "titulo": "👗 Achado de Moda",
@@ -838,5 +824,19 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mczt1nnpdvr557",
   "destaque": true,
   "criado": 1793891101
+ },
+ {
+  "id": "21498100171-1793898220",
+  "nicho": "games",
+  "titulo": "🎮 Achado Gamer",
+  "nome": "Suporte para Ps5 Playstation 5 Base Vertical Slim Fat Pro Mesa Dock",
+  "preco": 13.99,
+  "desconto": 65,
+  "nota": 4.8,
+  "vendas": 464,
+  "link": "https://s.shopee.com.br/6AmMBKPdLB",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820ld-mra9hzu1ui2uc8",
+  "destaque": true,
+  "criado": 1793898220
  }
 ]
