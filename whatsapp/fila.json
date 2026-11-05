@@ -1,33 +1,5 @@
 [
  {
-  "id": "58267169995-1793657069",
-  "nicho": "beleza",
-  "titulo": "💄 Achado de Beleza",
-  "nome": "Melu by Ruby Rose HB-8104 Fashion Light Coverage Liquid Concealer Corretivo Líquido de Cobertura Leve",
-  "preco": 11.99,
-  "desconto": 64,
-  "nota": 4.9,
-  "vendas": 5084,
-  "link": "https://s.shopee.com.br/7VHfJlPGzT",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820ld-msfwomi31ptx00",
-  "destaque": true,
-  "criado": 1793657069
- },
- {
-  "id": "27741270949-1793657089",
-  "nicho": "ferramentas",
-  "titulo": "🔧 Achado Ferramentas & Carro",
-  "nome": "Luz De Segurança Analógica Movida A Energia Solar LED Para Carro-Alarme Contra Roubo Simulado Automático-Luzes De Cuidad",
-  "preco": 16.99,
-  "desconto": 76,
-  "nota": 4.7,
-  "vendas": 882,
-  "link": "https://s.shopee.com.br/8AXM70nD6s",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdww-mbq3mve70bkdf5",
-  "destaque": true,
-  "criado": 1793657089
- },
- {
   "id": "22093651616-1793660610",
   "nicho": "beleza",
   "titulo": "💄 Achado de Beleza",
@@ -838,5 +810,33 @@
   "imagem": "https://cf.shopee.com.br/file/12eb0f46c0216e6c4689702fbbb3d827",
   "destaque": true,
   "criado": 1793905387
+ },
+ {
+  "id": "22993481974-1793912579",
+  "nicho": "games",
+  "titulo": "🎮 Achado Gamer",
+  "nome": "Mouse Pad Preto Gamer Extra Grande 90x40cm Preto Speed Liso",
+  "preco": 10.9,
+  "desconto": 64,
+  "nota": 4.7,
+  "vendas": 666,
+  "link": "https://s.shopee.com.br/7KyJpuIGJM",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mut79wwupuddf5",
+  "destaque": true,
+  "criado": 1793912579
+ },
+ {
+  "id": "58267811082-1793912666",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "Fita De Led Fio Led De Pilha Autocolante 2m 120 LEDs Cordão Mangueira Decoração Casa Tv Móvel",
+  "preco": 17.9,
+  "desconto": 33,
+  "nota": 4.9,
+  "vendas": 7344,
+  "link": "https://s.shopee.com.br/9pfeobJrc3",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mswvadqb8lxjf2",
+  "destaque": true,
+  "criado": 1793912666
  }
 ]
