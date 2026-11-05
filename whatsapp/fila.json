@@ -1,19 +1,5 @@
 [
  {
-  "id": "22093651616-1793660610",
-  "nicho": "beleza",
-  "titulo": "💄 Achado de Beleza",
-  "nome": "Kit até 150 Máscara Desidratada Comprimido Compactada para Skin Care",
-  "preco": 10.98,
-  "desconto": 58,
-  "nota": 4.9,
-  "vendas": 713,
-  "link": "https://s.shopee.com.br/6AmHnMqUew",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m4vv5h6xpg0gd1",
-  "destaque": true,
-  "criado": 1793660610
- },
- {
   "id": "23699037923-1793660619",
   "nicho": "ferramentas",
   "titulo": "🔧 Achado Ferramentas & Carro",
@@ -838,5 +824,19 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mswvadqb8lxjf2",
   "destaque": true,
   "criado": 1793912666
+ },
+ {
+  "id": "22092236916-1793916097",
+  "nicho": "games",
+  "titulo": "🎮 Achado Gamer",
+  "nome": "1/2/5 PCS Suportes Práticos De Controle Remoto, Suportes De Parede Para Controle Plástico De Telefones Celulares",
+  "preco": 9.9,
+  "desconto": 62,
+  "nota": 4.9,
+  "vendas": 3337,
+  "link": "https://s.shopee.com.br/7fbAIXrDMh",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-82584-muykegc9bhtx78",
+  "destaque": true,
+  "criado": 1793916097
  }
 ]
