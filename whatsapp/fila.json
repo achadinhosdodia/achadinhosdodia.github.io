@@ -1,19 +1,5 @@
 [
  {
-  "id": "40873387489-1793725294",
-  "nicho": "premium",
-  "titulo": "💎 Oferta Premium",
-  "nome": "Console PlayStation 5 Slim Digital 825GB",
-  "preco": 4399.0,
-  "desconto": 15,
-  "nota": 4.9,
-  "vendas": 368,
-  "link": "https://s.shopee.com.br/50aLbG6IPw",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfmltid9j6dj4f",
-  "destaque": true,
-  "criado": 1793725294
- },
- {
   "id": "22494710306-1793725378",
   "nicho": "beleza",
   "titulo": "💄 Achado de Beleza",
@@ -838,5 +824,19 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lc-mtqp71uvyebm90",
   "destaque": true,
   "criado": 1793999036
+ },
+ {
+  "id": "21398314933-1794002541",
+  "nicho": "fitness",
+  "titulo": "💪 Achado Fitness",
+  "nome": "Squeeze Garrafa Térmica 800ml Personalizada com Nome Time Esportiva Inox Ideal Trabalho Academia Escritório e Viagens",
+  "preco": 46.99,
+  "desconto": 53,
+  "nota": 4.9,
+  "vendas": 491,
+  "link": "https://s.shopee.com.br/6VPEVLGwy4",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m7-mtle6nar3s3n40",
+  "destaque": true,
+  "criado": 1794002541
  }
 ]
