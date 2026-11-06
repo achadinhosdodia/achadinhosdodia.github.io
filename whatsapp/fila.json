@@ -1,19 +1,5 @@
 [
  {
-  "id": "58210216643-1793718215",
-  "nicho": "eletronicos",
-  "titulo": "🎧 Achado Eletrônico",
-  "nome": "Pilhas AAA/AA Recarregáveis ONEX (4 Unidades) | Longa Duração, Econômicas e Sustentáveis | Alta Performance Ni-MH",
-  "preco": 19.4,
-  "desconto": 61,
-  "nota": 4.9,
-  "vendas": 343,
-  "link": "https://s.shopee.com.br/4fxV4Xm6CE",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mnx3r427d3wgb5",
-  "destaque": true,
-  "criado": 1793718215
- },
- {
   "id": "47009138881-1793718233",
   "nicho": "beleza",
   "titulo": "💄 Achado de Beleza",
@@ -838,5 +824,19 @@
   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258d-mux1ps8nlouha9",
   "destaque": true,
   "criado": 1793984627
+ },
+ {
+  "id": "58254831867-1793991860",
+  "nicho": "fitness",
+  "titulo": "💪 Achado Fitness",
+  "nome": "Bola Pilates Yoga Mini 25cm Functional Physical Therapy",
+  "preco": 11.88,
+  "desconto": 50,
+  "nota": 4.9,
+  "vendas": 960,
+  "link": "https://s.shopee.com.br/906ZHiA2qJ",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820ll-mu92j6ikcc1t61",
+  "destaque": true,
+  "criado": 1793991860
  }
 ]
