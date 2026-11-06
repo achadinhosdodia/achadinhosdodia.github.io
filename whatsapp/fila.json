@@ -1,19 +1,5 @@
 [
  {
-  "id": "51013764589-1793707373",
-  "nicho": "beleza",
-  "titulo": "💄 Achado de Beleza",
-  "nome": "Paleta Ruby Rose Honor Glass Glam Selection Blush Iluminador E Sombra",
-  "preco": 20.69,
-  "desconto": 15,
-  "nota": 4.9,
-  "vendas": 583,
-  "link": "https://s.shopee.com.br/9pfb1d0Dgf",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-82595-mqhs8edl28e9f1",
-  "destaque": true,
-  "criado": 1793707373
- },
- {
   "id": "58207329054-1793707410",
   "nicho": "ferramentas",
   "titulo": "🔧 Achado Ferramentas & Carro",
@@ -838,5 +824,19 @@
   "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rfgh-m3dlgg1h55i323",
   "destaque": true,
   "criado": 1793919801
+ },
+ {
+  "id": "58211871574-1793966620",
+  "nicho": "games",
+  "titulo": "🎮 Achado Gamer",
+  "nome": "Headset Gamer LED com Microfone para PC PS3 PS4 PS5 Xbox One Kapbom/ALTOMEX Original",
+  "preco": 40.89,
+  "desconto": 54,
+  "nota": 4.7,
+  "vendas": 1219,
+  "link": "https://s.shopee.com.br/LoaUt0xSi",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-823ql-mp09b430s8wddc",
+  "destaque": true,
+  "criado": 1793966620
  }
 ]
