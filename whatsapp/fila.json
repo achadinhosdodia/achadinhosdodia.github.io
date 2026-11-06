@@ -1,19 +1,5 @@
 [
  {
-  "id": "47009138881-1793718233",
-  "nicho": "beleza",
-  "titulo": "💄 Achado de Beleza",
-  "nome": "Kit Piranhas Salão para Cabelo Coloridas variações",
-  "preco": 10.99,
-  "desconto": 42,
-  "nota": 4.9,
-  "vendas": 885,
-  "link": "https://s.shopee.com.br/8fTdpunvcM",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lk-mn9bvci0nuv89e",
-  "destaque": true,
-  "criado": 1793718233
- },
- {
   "id": "40873387489-1793725294",
   "nicho": "premium",
   "titulo": "💎 Oferta Premium",
@@ -838,5 +824,19 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820ll-mu92j6ikcc1t61",
   "destaque": true,
   "criado": 1793991860
+ },
+ {
+  "id": "48506195929-1793999036",
+  "nicho": "fitness",
+  "titulo": "💪 Achado Fitness",
+  "nome": "Kit Whey Protein Concentrate 900g + Coqueteleira 600ml - DG Labs",
+  "preco": 49.9,
+  "desconto": 53,
+  "nota": 4.8,
+  "vendas": 540,
+  "link": "https://s.shopee.com.br/30pMGtl7p6",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lc-mtqp71uvyebm90",
+  "destaque": true,
+  "criado": 1793999036
  }
 ]
