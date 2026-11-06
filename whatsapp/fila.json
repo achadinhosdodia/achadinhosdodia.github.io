@@ -1,33 +1,5 @@
 [
  {
-  "id": "58258213156-1793718135",
-  "nicho": "ferramentas",
-  "titulo": "🔧 Achado Ferramentas & Carro",
-  "nome": "Fita Veda Fresta Adesiva Isolante Acústico Instala Fácil 6m",
-  "preco": 17.96,
-  "desconto": 55,
-  "nota": 4.9,
-  "vendas": 1009,
-  "link": "https://s.shopee.com.br/60Ssetwe7e",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lb-mmndmaawk64nb5",
-  "destaque": true,
-  "criado": 1793718135
- },
- {
-  "id": "58201653185-1793718142",
-  "nicho": "premium",
-  "titulo": "💎 Oferta Premium",
-  "nome": "Monitor Gamer Mancer Horizon Z3B, 21.5 Pol, VA, FHD, 1ms, 100Hz, HDMI/VGA, MCR-HZ3BN21-BL2",
-  "preco": 441.48,
-  "desconto": 44,
-  "nota": 4.9,
-  "vendas": 324,
-  "link": "https://s.shopee.com.br/4qGvGlVogS",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820ll-mm26rb2omrd3cb",
-  "destaque": true,
-  "criado": 1793718142
- },
- {
   "id": "58210216643-1793718215",
   "nicho": "eletronicos",
   "titulo": "🎧 Achado Eletrônico",
@@ -838,5 +810,33 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkba3tgj7doga9",
   "destaque": true,
   "criado": 1793977423
+ },
+ {
+  "id": "20599334746-1793984603",
+  "nicho": "eletronicos",
+  "titulo": "🎧 Achado Eletrônico",
+  "nome": "Termômetro De Testa Infravermelha Digital",
+  "preco": 24.88,
+  "desconto": 79,
+  "nota": 4.8,
+  "vendas": 1280,
+  "link": "https://s.shopee.com.br/5LDGmfPBJP",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lycomxmsjbc571",
+  "destaque": true,
+  "criado": 1793984603
+ },
+ {
+  "id": "17280330186-1793984627",
+  "nicho": "fitness",
+  "titulo": "💪 Achado Fitness",
+  "nome": "Faixa Elástica 1,5 Metro Azul/Roxo Espessura 0,35mm Thera Band Para Exercícios Multifuncionais",
+  "preco": 11.59,
+  "desconto": 35,
+  "nota": 4.9,
+  "vendas": 2928,
+  "link": "https://s.shopee.com.br/W811oP6ad",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258d-mux1ps8nlouha9",
+  "destaque": true,
+  "criado": 1793984627
  }
 ]
