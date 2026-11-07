@@ -1,19 +1,5 @@
 [
  {
-  "id": "23493418176-1793743373",
-  "nicho": "casa",
-  "titulo": "🏠 Achado pra Casa",
-  "nome": "Kit 3 Panos de Chão Microfibra 70x60cm Furo para Rodo Dupla Camada",
-  "preco": 22.99,
-  "desconto": 36,
-  "nota": 4.8,
-  "vendas": 2661,
-  "link": "https://s.shopee.com.br/3B8hka9mIH",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8262v-ml180252vj0gcc",
-  "destaque": true,
-  "criado": 1793743373
- },
- {
   "id": "21997921467-1793743396",
   "nicho": "eletronicos",
   "titulo": "🎧 Achado Eletrônico",
@@ -838,5 +824,19 @@
   "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zub-mmt7jdgek8w21f",
   "destaque": true,
   "criado": 1794071042
+ },
+ {
+  "id": "58268629591-1794078095",
+  "nicho": "beleza",
+  "titulo": "💄 Achado de Beleza",
+  "nome": "Pó Compacto Faces Fenzza com Textura Aveludada para Acabamento Impecável",
+  "preco": 12.6,
+  "desconto": 30,
+  "nota": 4.8,
+  "vendas": 403,
+  "link": "https://s.shopee.com.br/60SzItr55d",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-mtdvs6b06fibf1",
+  "destaque": true,
+  "criado": 1794078095
  }
 ]
