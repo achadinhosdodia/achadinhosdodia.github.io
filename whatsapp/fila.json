@@ -1,19 +1,5 @@
 [
  {
-  "id": "58256782698-1793793749",
-  "nicho": "ferramentas",
-  "titulo": "🔧 Achado Ferramentas & Carro",
-  "nome": "Kit 6 Brocas De Macho Fura E Faz Rosca M3 M4 M5 M6 M8 M10 HSS",
-  "preco": 24.9,
-  "desconto": 64,
-  "nota": 4.8,
-  "vendas": 2007,
-  "link": "https://s.shopee.com.br/1qdL5n4hrj",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820l7-mm5qnbvrghkw55",
-  "destaque": true,
-  "criado": 1793793749
- },
- {
   "id": "22094964634-1793797301",
   "nicho": "casa",
   "titulo": "🏠 Achado pra Casa",
@@ -838,5 +824,19 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-mqddkrve0xky1b",
   "destaque": true,
   "criado": 1794089078
+ },
+ {
+  "id": "58216994937-1794092611",
+  "nicho": "beleza",
+  "titulo": "💄 Achado de Beleza",
+  "nome": "Kit 5 Peças Escova e Pente de Cabelo Conjunto Unissex para Pentear Desembaraçar e Modelar",
+  "preco": 32.99,
+  "desconto": 45,
+  "nota": 4.9,
+  "vendas": 556,
+  "link": "https://s.shopee.com.br/60SzZVoWJP",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-825b6-msd2m1bhxc0508",
+  "destaque": true,
+  "criado": 1794092611
  }
 ]
