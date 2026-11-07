@@ -1,47 +1,5 @@
 [
  {
-  "id": "19498208842-1793739820",
-  "nicho": "casa",
-  "titulo": "🏠 Achado pra Casa",
-  "nome": "KIT Joelheira Protetoras  Esponja Respirável Dança Vôlei Basquetebol Proteção Treinamento Unisex",
-  "preco": 16.99,
-  "desconto": 71,
-  "nota": 4.9,
-  "vendas": 3663,
-  "link": "https://s.shopee.com.br/50aLrsqCYH",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-maq97rewsscva5",
-  "destaque": true,
-  "criado": 1793739820
- },
- {
-  "id": "58257096787-1793743299",
-  "nicho": "beleza",
-  "titulo": "💄 Achado de Beleza",
-  "nome": "Kit Francesinha Esmalte Gel UV LED 20g K&S Nail Designer",
-  "preco": 16.49,
-  "desconto": 45,
-  "nota": 4.9,
-  "vendas": 1006,
-  "link": "https://s.shopee.com.br/8fTeIbUzzX",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258g-mscy4qdmh5hi38",
-  "destaque": true,
-  "criado": 1793743299
- },
- {
-  "id": "22898709969-1793743350",
-  "nicho": "ferramentas",
-  "titulo": "🔧 Achado Ferramentas & Carro",
-  "nome": "Kit Broca Disco mandril em Aço para Remoção e Polimento de Unhas de Gel Alongamento Extensão",
-  "preco": 17.99,
-  "desconto": 60,
-  "nota": 5.0,
-  "vendas": 1350,
-  "link": "https://s.shopee.com.br/2Vt0xKUiub",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdvi-mbzcnn7evn097f",
-  "destaque": true,
-  "criado": 1793743350
- },
- {
   "id": "23493418176-1793743373",
   "nicho": "casa",
   "titulo": "🏠 Achado pra Casa",
@@ -838,5 +796,47 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820m0-msxv47wwgsg420",
   "destaque": true,
   "criado": 1794063823
+ },
+ {
+  "id": "17262537890-1794070935",
+  "nicho": "beleza",
+  "titulo": "💄 Achado de Beleza",
+  "nome": "Kit Alongamento Poligel Polygel + Molde F1 + Lixa + Mini Cabine De Unha",
+  "preco": 19.9,
+  "desconto": 83,
+  "nota": 4.6,
+  "vendas": 3212,
+  "link": "https://s.shopee.com.br/3qOUaitHPb",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lb-mnfw5eamc5c433",
+  "destaque": true,
+  "criado": 1794070935
+ },
+ {
+  "id": "58215053619-1794070979",
+  "nicho": "moda",
+  "titulo": "👗 Achado de Moda",
+  "nome": "Kit 3 Pares Brincos Argola Aço Inoxidável Prata 8mm 10mm 12mm Unissex",
+  "preco": 12.9,
+  "desconto": 57,
+  "nota": 4.9,
+  "vendas": 886,
+  "link": "https://s.shopee.com.br/5AtsBDvrPZ",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lz-mui4cteg5uyq68",
+  "destaque": true,
+  "criado": 1794070979
+ },
+ {
+  "id": "40573257922-1794071042",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "Garrafa Térmica Zaya Tuut 1L Canelada Design Sofisticado, Mantém Bebidas Quentes E Frias, Ideal Para Café E Chá",
+  "preco": 99.99,
+  "desconto": 50,
+  "nota": 4.9,
+  "vendas": 1045,
+  "link": "https://s.shopee.com.br/80E3YVIaR6",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zub-mmt7jdgek8w21f",
+  "destaque": true,
+  "criado": 1794071042
  }
 ]
