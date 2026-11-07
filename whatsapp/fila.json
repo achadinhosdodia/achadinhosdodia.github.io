@@ -1,33 +1,5 @@
 [
  {
-  "id": "23294668766-1793732588",
-  "nicho": "eletronicos",
-  "titulo": "🎧 Achado Eletrônico",
-  "nome": "Cortina de LED 3M 300 Luz 8 Modos De Iluminação Luzes De Fada De Fadas USB Para Decorações De Festa",
-  "preco": 21.5,
-  "desconto": 61,
-  "nota": 4.9,
-  "vendas": 3960,
-  "link": "https://s.shopee.com.br/2qVr9cqE4z",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-821gd-mgs6z1t0lyxb76",
-  "destaque": true,
-  "criado": 1793732588
- },
- {
-  "id": "24982329333-1793732607",
-  "nicho": "beleza",
-  "titulo": "💄 Achado de Beleza",
-  "nome": "Removedor De Maquiagem Com Sabor De Frutas , Suave E Não Irritante , Remove Rapidamente Cílios Postiços Enxertados",
-  "preco": 12.48,
-  "desconto": 77,
-  "nota": 4.9,
-  "vendas": 998,
-  "link": "https://s.shopee.com.br/8Kqnhkm08f",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdx4-mcalwvnbzp0b26",
-  "destaque": true,
-  "criado": 1793732607
- },
- {
   "id": "22993732963-1793732614",
   "nicho": "ferramentas",
   "titulo": "🔧 Achado Ferramentas & Carro",
@@ -838,5 +810,33 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820m7-mu0s6queups397",
   "destaque": true,
   "criado": 1794006159
+ },
+ {
+  "id": "23594179432-1794052923",
+  "nicho": "games",
+  "titulo": "🎮 Achado Gamer",
+  "nome": "Suporte Gamer para Headset Universal de Mesa | Kits com Suporte para Controle Design Minimalista",
+  "preco": 16.99,
+  "desconto": 57,
+  "nota": 4.8,
+  "vendas": 477,
+  "link": "https://s.shopee.com.br/gRSUHtc7I",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztu-ml52wy21ff9haa",
+  "destaque": true,
+  "criado": 1794052923
+ },
+ {
+  "id": "22698516620-1794053135",
+  "nicho": "fitness",
+  "titulo": "💪 Achado Fitness",
+  "nome": "Kit 3 Faixas Elásticas de Tecido Treino Yoga Resistentes Confortáveis e Antideslizantes",
+  "preco": 15.0,
+  "desconto": 58,
+  "nota": 4.9,
+  "vendas": 7395,
+  "link": "https://s.shopee.com.br/7AewETc0bc",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820md-mm21sqywbx1j39",
+  "destaque": true,
+  "criado": 1794053135
  }
 ]
