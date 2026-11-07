@@ -1,33 +1,5 @@
 [
  {
-  "id": "21997921467-1793743396",
-  "nicho": "eletronicos",
-  "titulo": "🎧 Achado Eletrônico",
-  "nome": "Adaptador Tipo C Para P2 Fone De Ouvido Headset Branco 3,5mm",
-  "preco": 10.99,
-  "desconto": 39,
-  "nota": 4.9,
-  "vendas": 2570,
-  "link": "https://s.shopee.com.br/4fxVXMhOlQ",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdy6-m18inmmkmrrs97",
-  "destaque": true,
-  "criado": 1793743396
- },
- {
-  "id": "20198291285-1793746894",
-  "nicho": "ferramentas",
-  "titulo": "🔧 Achado Ferramentas & Carro",
-  "nome": "2 Estilete Raspador Profissional 8 Lâminas Tira Adesivo Cola Vidro Piso Fogao Parede 1 Unidade + 4 Lâminas",
-  "preco": 12.47,
-  "desconto": 58,
-  "nota": 4.9,
-  "vendas": 1012,
-  "link": "https://s.shopee.com.br/5fq2nCnPEK",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-825zv-mjqc9lm3ycqq92",
-  "destaque": true,
-  "criado": 1793746894
- },
- {
   "id": "12223765393-1793746961",
   "nicho": "eletronicos",
   "titulo": "🎧 Achado Eletrônico",
@@ -838,5 +810,33 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-mtdvs6b06fibf1",
   "destaque": true,
   "criado": 1794078095
+ },
+ {
+  "id": "19099548632-1794085450",
+  "nicho": "eletronicos",
+  "titulo": "🎧 Achado Eletrônico",
+  "nome": "Mini máquina seladora de plástico recarregável para selagem de pilha de embalagens",
+  "preco": 13.99,
+  "desconto": 11,
+  "nota": 4.6,
+  "vendas": 396,
+  "link": "https://s.shopee.com.br/2LZh4a0xxJ",
+  "imagem": "https://cf.shopee.com.br/file/br-11134201-820m0-mqxhq4fy8t8n0b",
+  "destaque": true,
+  "criado": 1794085450
+ },
+ {
+  "id": "58205218194-1794085486",
+  "nicho": "beleza",
+  "titulo": "💄 Achado de Beleza",
+  "nome": "Surpresa, Lip Gloss Tint Esponjas e Lapis de Sobrancelha , Um item Sortidos",
+  "preco": 12.99,
+  "desconto": 48,
+  "nota": 4.9,
+  "vendas": 327,
+  "link": "https://s.shopee.com.br/AAIYP15XFz",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-81zuh-mkntui6s1bercf",
+  "destaque": true,
+  "criado": 1794085486
  }
 ]
