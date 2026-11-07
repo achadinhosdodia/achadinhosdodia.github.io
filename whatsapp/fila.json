@@ -1,19 +1,5 @@
 [
  {
-  "id": "23493959457-1793739802",
-  "nicho": "ferramentas",
-  "titulo": "🔧 Achado Ferramentas & Carro",
-  "nome": "Bolsa De Ferramentas Maleta Para Carro Organizadora Automotiva Multiuso Porta Malas C/Velcro Premium",
-  "preco": 33.33,
-  "desconto": 63,
-  "nota": 4.9,
-  "vendas": 375,
-  "link": "https://s.shopee.com.br/1BNdIos4Ee",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mnrr4kicvv9e53",
-  "destaque": true,
-  "criado": 1793739802
- },
- {
   "id": "19498208842-1793739820",
   "nicho": "casa",
   "titulo": "🏠 Achado pra Casa",
@@ -838,5 +824,19 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkb1itv9v5s1c9",
   "destaque": true,
   "criado": 1794056681
+ },
+ {
+  "id": "58217857072-1794063823",
+  "nicho": "fitness",
+  "titulo": "💪 Achado Fitness",
+  "nome": "Elástico Super Band de Borracha Extra Forte para Crossfit, Faixas de Resistência para Treino Kit 3 ou 1 Unidades",
+  "preco": 39.99,
+  "desconto": 60,
+  "nota": 4.8,
+  "vendas": 593,
+  "link": "https://s.shopee.com.br/50aRqj8BGv",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m0-msxv47wwgsg420",
+  "destaque": true,
+  "criado": 1794063823
  }
 ]
