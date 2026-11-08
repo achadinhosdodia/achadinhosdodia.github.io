@@ -1,33 +1,5 @@
 [
  {
-  "id": "20697680699-1793811695",
-  "nicho": "beleza",
-  "titulo": "💄 Achado de Beleza",
-  "nome": "Gloss Bocão Labial Ácido Hialurônico - Miss Lary",
-  "preco": 13.87,
-  "desconto": 45,
-  "nota": 4.7,
-  "vendas": 965,
-  "link": "https://s.shopee.com.br/40hq0JSD7v",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rd55-luzqacufwgax75",
-  "destaque": true,
-  "criado": 1793811695
- },
- {
-  "id": "23298129536-1793811715",
-  "nicho": "ferramentas",
-  "titulo": "🔧 Achado Ferramentas & Carro",
-  "nome": "1 par Lâmpada LED Sem Fio Para Carro/Projetor De Luz Laser Bem-Vindo com Marca de Carro Universal Decorativo",
-  "preco": 25.32,
-  "desconto": 68,
-  "nota": 4.9,
-  "vendas": 1768,
-  "link": "https://s.shopee.com.br/9KjMM8XpeA",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ra2h-m4urnwawt3zo85",
-  "destaque": true,
-  "criado": 1793811715
- },
- {
   "id": "58212572258-1793818903",
   "nicho": "ferramentas",
   "titulo": "🔧 Achado Ferramentas & Carro",
@@ -838,5 +810,33 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-mr690lkmtkp226",
   "destaque": true,
   "criado": 1794171795
+ },
+ {
+  "id": "58206820540-1794175325",
+  "nicho": "beleza",
+  "titulo": "💄 Achado de Beleza",
+  "nome": "Gloss Mágico Black Rain Brilho Intenso Hidratação Max Love Preto Efeito Lip Tint PH",
+  "preco": 13.48,
+  "desconto": 29,
+  "nota": 4.7,
+  "vendas": 462,
+  "link": "https://s.shopee.com.br/6fihtPZ7zd",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m4-mrlpqbmbt8n8cb",
+  "destaque": true,
+  "criado": 1794175325
+ },
+ {
+  "id": "22293730893-1794175517",
+  "nicho": "eletronicos",
+  "titulo": "🎧 Achado Eletrônico",
+  "nome": "Termômetro Digital Infravermelho Sem Contato – Medição Precisa para Bebês e Adultos LCD/ Pratico  fang",
+  "preco": 18.88,
+  "desconto": 71,
+  "nota": 4.9,
+  "vendas": 1798,
+  "link": "https://s.shopee.com.br/70LYIFAXLb",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rcdd-m6fyri22zzo4cb",
+  "destaque": true,
+  "criado": 1794175517
  }
 ]
