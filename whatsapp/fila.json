@@ -1,19 +1,5 @@
 [
  {
-  "id": "21498282466-1793797341",
-  "nicho": "ferramentas",
-  "titulo": "🔧 Achado Ferramentas & Carro",
-  "nome": "Organizador COM ZÍPER Para Motorista UBER/99/INDRIVER Porta Objetos de Banco Carro COM PAINEL VISOR Para Recado",
-  "preco": 59.45,
-  "desconto": 15,
-  "nota": 5.0,
-  "vendas": 582,
-  "link": "https://s.shopee.com.br/2LZbkowade",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820md-mm7u017xdn9j63",
-  "destaque": true,
-  "criado": 1793797341
- },
- {
   "id": "20898264132-1793804511",
   "nicho": "beleza",
   "titulo": "💄 Achado de Beleza",
@@ -838,5 +824,19 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mdwmxew5r18h9a",
   "destaque": true,
   "criado": 1794142948
+ },
+ {
+  "id": "58266070880-1794150288",
+  "nicho": "beleza",
+  "titulo": "💄 Achado de Beleza",
+  "nome": "Kit Linha Coreana Hidrabene K-Sérum Harmonizador Facial + Sérum GHK-Cu + Sérum PDRN Skincare",
+  "preco": 187.61,
+  "desconto": 69,
+  "nota": 4.9,
+  "vendas": 4921,
+  "link": "https://s.shopee.com.br/6q27d3qLBp",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lh-mtza8ww705q921",
+  "destaque": true,
+  "criado": 1794150288
  }
 ]
