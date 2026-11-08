@@ -1,19 +1,5 @@
 [
  {
-  "id": "20898264132-1793804511",
-  "nicho": "beleza",
-  "titulo": "💄 Achado de Beleza",
-  "nome": "Kit Com Modelador De Cachos + Touca Cetim Dupla Face Com Regulador",
-  "preco": 14.98,
-  "desconto": 62,
-  "nota": 4.9,
-  "vendas": 2685,
-  "link": "https://s.shopee.com.br/2Vt25Kg12W",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rasf-maynm4e743f5e6",
-  "destaque": true,
-  "criado": 1793804511
- },
- {
   "id": "23494140625-1793804529",
   "nicho": "ferramentas",
   "titulo": "🔧 Achado Ferramentas & Carro",
@@ -838,5 +824,19 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lh-mtza8ww705q921",
   "destaque": true,
   "criado": 1794150288
+ },
+ {
+  "id": "22894152352-1794157499",
+  "nicho": "beleza",
+  "titulo": "💄 Achado de Beleza",
+  "nome": "Kit Maleta Maquiagem completo Profissional Com Espelho e Luz Led e paleta de maquiagem TOP",
+  "preco": 65.99,
+  "desconto": 67,
+  "nota": 4.9,
+  "vendas": 735,
+  "link": "https://s.shopee.com.br/60T0lmcIBY",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ras9-maycfsvnzdojb3",
+  "destaque": true,
+  "criado": 1794157499
  }
 ]
