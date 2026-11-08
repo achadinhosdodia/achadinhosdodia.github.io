@@ -1,19 +1,5 @@
 [
  {
-  "id": "23998106762-1793797323",
-  "nicho": "beleza",
-  "titulo": "💄 Achado de Beleza",
-  "nome": "Kit Com 4 2 Touca Ninja Balaclava Bandana Motoqueiros Militar Facial Frio Máscara Moto proteção solar  UV 50+ térmica",
-  "preco": 19.0,
-  "desconto": 78,
-  "nota": 4.8,
-  "vendas": 801,
-  "link": "https://s.shopee.com.br/60Su7XRmQP",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lz-mseo7ynk9laf6d",
-  "destaque": true,
-  "criado": 1793797323
- },
- {
   "id": "21498282466-1793797341",
   "nicho": "ferramentas",
   "titulo": "🔧 Achado Ferramentas & Carro",
@@ -838,5 +824,19 @@
   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8261a-mju5i9fj3cavbe",
   "destaque": true,
   "criado": 1794139379
+ },
+ {
+  "id": "22598750974-1794142948",
+  "nicho": "beleza",
+  "titulo": "💄 Achado de Beleza",
+  "nome": "Paleta De Sombras Foscas E Pérolas De Baixa Saturação De 25 Cores Maquiagem Versátil De Longa Duração",
+  "preco": 19.99,
+  "desconto": 52,
+  "nota": 4.9,
+  "vendas": 1271,
+  "link": "https://s.shopee.com.br/906c4dqVQi",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mdwmxew5r18h9a",
+  "destaque": true,
+  "criado": 1794142948
  }
 ]
