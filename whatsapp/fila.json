@@ -1,19 +1,5 @@
 [
  {
-  "id": "58212572258-1793818903",
-  "nicho": "ferramentas",
-  "titulo": "🔧 Achado Ferramentas & Carro",
-  "nome": "Kit 1/2/3 Colas Instantâneas TekBond 793 Super Bonder 20g Adesivo Multiuso",
-  "preco": 12.94,
-  "desconto": 35,
-  "nota": 4.9,
-  "vendas": 510,
-  "link": "https://s.shopee.com.br/9V2mgfY6o6",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-mpiueqvshfcz32",
-  "destaque": true,
-  "criado": 1793818903
- },
- {
   "id": "41560405606-1793818942",
   "nicho": "eletronicos",
   "titulo": "🎧 Achado Eletrônico",
@@ -838,5 +824,19 @@
   "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rcdd-m6fyri22zzo4cb",
   "destaque": true,
   "criado": 1794175517
+ },
+ {
+  "id": "23597378852-1794179079",
+  "nicho": "beleza",
+  "titulo": "💄 Achado de Beleza",
+  "nome": "KIT Removedor de Esmalte À Base de Acetona 500ml Monaly (3 unidades)",
+  "preco": 41.8,
+  "desconto": 22,
+  "nota": 5.0,
+  "vendas": 937,
+  "link": "https://s.shopee.com.br/7AeyYcvLyl",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-823og-mou3uea9c0shb0",
+  "destaque": true,
+  "criado": 1794179079
  }
 ]
