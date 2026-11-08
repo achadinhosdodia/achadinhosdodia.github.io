@@ -1,19 +1,5 @@
 [
  {
-  "id": "22094964634-1793797301",
-  "nicho": "casa",
-  "titulo": "🏠 Achado pra Casa",
-  "nome": "Kit 10/20/30 Peças Ganchos De Silicone Para Parede Do Polegar‑Clipes Adesivos Cabos E Chaves",
-  "preco": 9.99,
-  "desconto": 63,
-  "nota": 4.8,
-  "vendas": 1373,
-  "link": "https://s.shopee.com.br/5q9TvCpI22",
-  "imagem": "https://cf.shopee.com.br/file/br-11134201-820lx-mqxp5oqvquivc8",
-  "destaque": true,
-  "criado": 1793797301
- },
- {
   "id": "23998106762-1793797323",
   "nicho": "beleza",
   "titulo": "💄 Achado de Beleza",
@@ -838,5 +824,19 @@
   "imagem": "https://cf.shopee.com.br/file/sg-11134201-825b6-msd2m1bhxc0508",
   "destaque": true,
   "criado": 1794092611
+ },
+ {
+  "id": "58203945507-1794139379",
+  "nicho": "beleza",
+  "titulo": "💄 Achado de Beleza",
+  "nome": "Kit de Óleo Capilar Cronograma Terapia Capilar 100% natural 60ml",
+  "preco": 15.92,
+  "desconto": 20,
+  "nota": 4.6,
+  "vendas": 3431,
+  "link": "https://s.shopee.com.br/1W0b4m27Wh",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8261a-mju5i9fj3cavbe",
+  "destaque": true,
+  "criado": 1794139379
  }
 ]
