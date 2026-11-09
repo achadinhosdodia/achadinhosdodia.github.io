@@ -1,19 +1,5 @@
 [
  {
-  "id": "22299578951-1793818962",
-  "nicho": "beleza",
-  "titulo": "💄 Achado de Beleza",
-  "nome": "Lápis De Sobrancelha De 4 Pontos , Caneta Líquida De Tatuagem De Maquiagem À Prova D'água , Delineador Cosmético",
-  "preco": 12.99,
-  "desconto": 57,
-  "nota": 4.8,
-  "vendas": 2634,
-  "link": "https://s.shopee.com.br/9APwI7osZh",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-mpm2uh6z0u8219",
-  "destaque": true,
-  "criado": 1793818962
- },
- {
   "id": "58252832212-1793826114",
   "nicho": "eletronicos",
   "titulo": "🎧 Achado Eletrônico",
@@ -838,5 +824,19 @@
   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8261y-mjhpsq10rria8f",
   "destaque": true,
   "criado": 1794226044
+ },
+ {
+  "id": "58216928445-1794258123",
+  "nicho": "eletronicos",
+  "titulo": "🎧 Achado Eletrônico",
+  "nome": "Kit 2 Cartão De Memória 128gb Câmera Notebook Wifi Ultra Hd MicroSDXC UHS-I Classe 10",
+  "preco": 34.88,
+  "desconto": 26,
+  "nota": 4.7,
+  "vendas": 821,
+  "link": "https://s.shopee.com.br/3B8rFkOEmV",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-msbq7che5d6s51",
+  "destaque": true,
+  "criado": 1794258123
  }
 ]
