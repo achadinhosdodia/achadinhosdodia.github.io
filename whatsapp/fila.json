@@ -1,19 +1,5 @@
 [
  {
-  "id": "58264789991-1793833330",
-  "nicho": "ferramentas",
-  "titulo": "🔧 Achado Ferramentas & Carro",
-  "nome": "Nível de Bolha Magnético 80cm em Alumínio Profissional com 3 Bolhas Alta Precisão para Construção e Instalação",
-  "preco": 32.99,
-  "desconto": 83,
-  "nota": 4.8,
-  "vendas": 319,
-  "link": "https://s.shopee.com.br/7KyINCSx3a",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m0-mqz5ls5l52bq96",
-  "destaque": true,
-  "criado": 1793833330
- },
- {
   "id": "22497440587-1793880094",
   "nicho": "beleza",
   "titulo": "💄 Achado de Beleza",
@@ -838,5 +824,19 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134201-820ln-mmjsug6j3tom68",
   "destaque": true,
   "criado": 1794330290
+ },
+ {
+  "id": "22793109940-1794337421",
+  "nicho": "fitness",
+  "titulo": "💪 Achado Fitness",
+  "nome": "Meia De Compressão Térmica Circulação Joelheira de Compressão Esportivas",
+  "preco": 14.99,
+  "desconto": 75,
+  "nota": 4.8,
+  "vendas": 1138,
+  "link": "https://s.shopee.com.br/9AQ5rXKICU",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lwyhrg9smbue6f",
+  "destaque": true,
+  "criado": 1794337421
  }
 ]
