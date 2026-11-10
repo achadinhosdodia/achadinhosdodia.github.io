@@ -1,19 +1,5 @@
 [
  {
-  "id": "58214607337-1793826152",
-  "nicho": "ferramentas",
-  "titulo": "🔧 Achado Ferramentas & Carro",
-  "nome": "Lanterna LED Potente Recarregável para Acampamento, Caminhadas e Trabalho",
-  "preco": 21.99,
-  "desconto": 78,
-  "nota": 4.7,
-  "vendas": 871,
-  "link": "https://s.shopee.com.br/5q9USEBUD1",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259j-mqw043o443r840",
-  "destaque": true,
-  "criado": 1793826152
- },
- {
   "id": "23295058293-1793829700",
   "nicho": "casa",
   "titulo": "🏠 Achado pra Casa",
@@ -838,5 +824,19 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134201-820m7-mqyp7xxz72mdbb",
   "destaque": true,
   "criado": 1794312093
+ },
+ {
+  "id": "58259711156-1794315745",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "Kit 12 a 72 Grampos de Roupa Prendedores Emborrachados Powermaid para Roupas Pregadores de Roupa Para Varal Resistente",
+  "preco": 16.99,
+  "desconto": 58,
+  "nota": 5.0,
+  "vendas": 398,
+  "link": "https://s.shopee.com.br/2BGL7rYzpK",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mnkfs9b4i3uo86",
+  "destaque": true,
+  "criado": 1794315745
  }
 ]
