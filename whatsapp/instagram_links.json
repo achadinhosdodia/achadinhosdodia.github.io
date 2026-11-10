@@ -1,5 +1,16 @@
 [
  {
+  "id": "18080665595408964",
+  "quando": 1794337672,
+  "itens": [
+   {
+    "nome": "Paleta De Sombras Foscas E Pérolas De Baixa",
+    "preco": 19.99,
+    "link": "https://s.shopee.com.br/906c4dqVQi"
+   }
+  ]
+ },
+ {
   "id": "18100318886437672",
   "quando": 1794323592,
   "itens": [
@@ -630,17 +641,6 @@
     "nome": "Kit com 60",
     "preco": 7.99,
     "link": "https://s.shopee.com.br/qkdKlor6X"
-   }
-  ]
- },
- {
-  "id": "18596547094068588",
-  "quando": 1793214455,
-  "itens": [
-   {
-    "nome": "Kit 6 Canetas Mini Marca Texto Fofo Marcador",
-    "preco": 8.12,
-    "link": "https://s.shopee.com.br/2qVhaCupIP"
    }
   ]
  }
