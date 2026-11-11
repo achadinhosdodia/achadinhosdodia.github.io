@@ -1,47 +1,5 @@
 [
  {
-  "id": "58264883140-1793970136",
-  "nicho": "fitness",
-  "titulo": "💪 Achado Fitness",
-  "nome": "Rolo Terapêutico de Massagem para Pés Alívio Fascia e Dor Muscular",
-  "preco": 16.98,
-  "desconto": 62,
-  "nota": 4.9,
-  "vendas": 447,
-  "link": "https://s.shopee.com.br/8pn8gXZCk6",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mr0i2yhy5s7a89",
-  "destaque": true,
-  "criado": 1793970136
- },
- {
-  "id": "22498781114-1793970173",
-  "nicho": "games",
-  "titulo": "🎮 Achado Gamer",
-  "nome": "Teclado Gamer Semi-mecânico Rgb Anti-ghosting",
-  "preco": 38.88,
-  "desconto": 74,
-  "nota": 4.8,
-  "vendas": 965,
-  "link": "https://s.shopee.com.br/3LSC8TWraz",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcw6gui5vk1e01",
-  "destaque": true,
-  "criado": 1793970173
- },
- {
-  "id": "23099658391-1793970246",
-  "nicho": "casa",
-  "titulo": "🏠 Achado pra Casa",
-  "nome": "2 ou 4 Ganchos adesivos para varão de cortina que não precisa furar suporte de parede",
-  "preco": 7.99,
-  "desconto": 70,
-  "nota": 4.7,
-  "vendas": 2413,
-  "link": "https://s.shopee.com.br/W80lLstka",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-825ax-ms4e8xuwkhza09",
-  "destaque": true,
-  "criado": 1793970246
- },
- {
   "id": "57209641480-1793977298",
   "nicho": "fitness",
   "titulo": "💪 Achado Fitness",
@@ -838,5 +796,47 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lk-mqxgz5imopac57",
   "destaque": true,
   "criado": 1794366398
+ },
+ {
+  "id": "44411616156-1794398512",
+  "nicho": "moda",
+  "titulo": "🔥 11.11 | 👗 Achado de Moda",
+  "nome": "Relógio Feminino Sofisticado | Alça E Estojo De Aço Inoxidável Durável Ótima Opção De Presente De Feriado",
+  "preco": 19.97,
+  "desconto": 30,
+  "nota": 4.8,
+  "vendas": 667,
+  "link": "https://s.shopee.com.br/1LhFf3xEQs",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134301-7req2-me5agp8tz836d7",
+  "destaque": true,
+  "criado": 1794398512
+ },
+ {
+  "id": "58213182757-1794398603",
+  "nicho": "casa",
+  "titulo": "🔥 11.11 | 🏠 Achado pra Casa",
+  "nome": "Tábua de Corte Cozinha Plástico PP Antiderrapante com Alça para Carnes e Legumes",
+  "preco": 16.99,
+  "desconto": 53,
+  "nota": 4.9,
+  "vendas": 679,
+  "link": "https://s.shopee.com.br/qkz4FRALE",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mpw7a3ee0s1s1a",
+  "destaque": true,
+  "criado": 1794398603
+ },
+ {
+  "id": "58214708546-1794398719",
+  "nicho": "beleza",
+  "titulo": "🔥 11.11 | 💄 Achado de Beleza",
+  "nome": "Kit Trio Sombra Sobrancelha Ruby Rose HB9354 Alta Pigmentação, Primer, Espelho e Pincel",
+  "preco": 13.6,
+  "desconto": 63,
+  "nota": 4.9,
+  "vendas": 852,
+  "link": "https://s.shopee.com.br/6L5vcUOzlW",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-mqxpww69dczob4",
+  "destaque": true,
+  "criado": 1794398719
  }
 ]
