@@ -1,19 +1,5 @@
 [
  {
-  "id": "22893571327-1793977360",
-  "nicho": "games",
-  "titulo": "🎮 Achado Gamer",
-  "nome": "Suporte de Parede para Celular e Controle Autocolante Multiuso Universal - Kit com 1, 2, 4 ou 10 Unidades",
-  "preco": 7.9,
-  "desconto": 48,
-  "nota": 4.9,
-  "vendas": 379,
-  "link": "https://s.shopee.com.br/LoahBj3db",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lu-mtqqgrycfg8w23",
-  "destaque": true,
-  "criado": 1793977360
- },
- {
   "id": "22298105235-1793977423",
   "nicho": "casa",
   "titulo": "🏠 Achado pra Casa",
@@ -838,5 +824,19 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-ls8u1q1xvy8daa",
   "destaque": true,
   "criado": 1794402270
+ },
+ {
+  "id": "54764399038-1794416619",
+  "nicho": "beleza",
+  "titulo": "🔥 11.11 | 💄 Achado de Beleza",
+  "nome": "1 a 3 Und Pote 1,5L Hermético C/ Bico Dosador Lavanderia Sabão em Pó Amaciante Multiuso Organização Compacto Resistente",
+  "preco": 26.22,
+  "desconto": 40,
+  "nota": 4.8,
+  "vendas": 709,
+  "link": "https://s.shopee.com.br/AAIeW1PhMK",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lc-mqwe60xzlkw59d",
+  "destaque": true,
+  "criado": 1794416619
  }
 ]
