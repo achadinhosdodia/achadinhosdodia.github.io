@@ -1,19 +1,5 @@
 [
  {
-  "id": "57209641480-1793977298",
-  "nicho": "fitness",
-  "titulo": "💪 Achado Fitness",
-  "nome": "Toalha Microfibra de Rosto 35x75cm Macia Alta Absorção Praia Piscina Academia ENVIO IMEDIATO",
-  "preco": 13.99,
-  "desconto": 39,
-  "nota": 4.8,
-  "vendas": 1659,
-  "link": "https://s.shopee.com.br/60SxRWyI6h",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mo8p2c0tn7r5e0",
-  "destaque": true,
-  "criado": 1793977298
- },
- {
   "id": "22893571327-1793977360",
   "nicho": "games",
   "titulo": "🎮 Achado Gamer",
@@ -838,5 +824,19 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-mqxpww69dczob4",
   "destaque": true,
   "criado": 1794398719
+ },
+ {
+  "id": "19997627500-1794402270",
+  "nicho": "eletronicos",
+  "titulo": "🔥 11.11 | 🎧 Achado Eletrônico",
+  "nome": "Caxinha de Som G -Speaker COR BRANCA Com Relógio Luminária Bluetooth Inteligente Carregador Sem Fio Led Luz  COM RELÓGIO",
+  "preco": 29.99,
+  "desconto": 40,
+  "nota": 4.6,
+  "vendas": 500,
+  "link": "https://s.shopee.com.br/2gCdJoXx9y",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-ls8u1q1xvy8daa",
+  "destaque": true,
+  "criado": 1794402270
  }
 ]
