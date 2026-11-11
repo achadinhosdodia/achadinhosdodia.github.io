@@ -1,47 +1,5 @@
 [
  {
-  "id": "17280330186-1793984627",
-  "nicho": "fitness",
-  "titulo": "💪 Achado Fitness",
-  "nome": "Faixa Elástica 1,5 Metro Azul/Roxo Espessura 0,35mm Thera Band Para Exercícios Multifuncionais",
-  "preco": 11.59,
-  "desconto": 35,
-  "nota": 4.9,
-  "vendas": 2928,
-  "link": "https://s.shopee.com.br/W811oP6ad",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258d-mux1ps8nlouha9",
-  "destaque": true,
-  "criado": 1793984627
- },
- {
-  "id": "58254831867-1793991860",
-  "nicho": "fitness",
-  "titulo": "💪 Achado Fitness",
-  "nome": "Bola Pilates Yoga Mini 25cm Functional Physical Therapy",
-  "preco": 11.88,
-  "desconto": 50,
-  "nota": 4.9,
-  "vendas": 960,
-  "link": "https://s.shopee.com.br/906ZHiA2qJ",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820ll-mu92j6ikcc1t61",
-  "destaque": true,
-  "criado": 1793991860
- },
- {
-  "id": "48506195929-1793999036",
-  "nicho": "fitness",
-  "titulo": "💪 Achado Fitness",
-  "nome": "Kit Whey Protein Concentrate 900g + Coqueteleira 600ml - DG Labs",
-  "preco": 49.9,
-  "desconto": 53,
-  "nota": 4.8,
-  "vendas": 540,
-  "link": "https://s.shopee.com.br/30pMGtl7p6",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lc-mtqp71uvyebm90",
-  "destaque": true,
-  "criado": 1793999036
- },
- {
   "id": "21398314933-1794002541",
   "nicho": "fitness",
   "titulo": "💪 Achado Fitness",
@@ -838,5 +796,47 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mv787oplg7pda0",
   "destaque": true,
   "criado": 1794423830
+ },
+ {
+  "id": "21272611404-1794430943",
+  "nicho": "moda",
+  "titulo": "🔥 11.11 | 👗 Achado de Moda",
+  "nome": "Calça Pantalona Feminina Cintura Alta no moletom confortável e estilosa Calça Wide Leg Moletom Feminina conjunto moletom",
+  "preco": 46.9,
+  "desconto": 33,
+  "nota": 4.7,
+  "vendas": 1060,
+  "link": "https://s.shopee.com.br/9V2xzBvSAd",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mupsxxlvt4oz51",
+  "destaque": true,
+  "criado": 1794430943
+ },
+ {
+  "id": "58268235821-1794430961",
+  "nicho": "escritorio",
+  "titulo": "🔥 11.11 | 📚 Achado Escritório",
+  "nome": "Agenda Executiva 2027 Unissex Elegante – Caderno de Planejamento Com Folhas Pautadas Costuradas Para Anotações",
+  "preco": 27.99,
+  "desconto": 72,
+  "nota": 5.0,
+  "vendas": 359,
+  "link": "https://s.shopee.com.br/2VtDeLZF25",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mt6u9qduqm10e9",
+  "destaque": true,
+  "criado": 1794430961
+ },
+ {
+  "id": "11898909932-1794431112",
+  "nicho": "casa",
+  "titulo": "🔥 11.11 | 🏠 Achado pra Casa",
+  "nome": "Garrafa Térmica GLT Pressão 1L Preta Invicta",
+  "preco": 44.9,
+  "desconto": 30,
+  "nota": 4.9,
+  "vendas": 755,
+  "link": "https://s.shopee.com.br/5q9fce52ue",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259q-mvd8zo8147icd3",
+  "destaque": true,
+  "criado": 1794431112
  }
 ]
