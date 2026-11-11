@@ -1,19 +1,5 @@
 [
  {
-  "id": "21398314933-1794002541",
-  "nicho": "fitness",
-  "titulo": "💪 Achado Fitness",
-  "nome": "Squeeze Garrafa Térmica 800ml Personalizada com Nome Time Esportiva Inox Ideal Trabalho Academia Escritório e Viagens",
-  "preco": 46.99,
-  "desconto": 53,
-  "nota": 4.9,
-  "vendas": 491,
-  "link": "https://s.shopee.com.br/6VPEVLGwy4",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m7-mtle6nar3s3n40",
-  "destaque": true,
-  "criado": 1794002541
- },
- {
   "id": "40321408782-1794006109",
   "nicho": "fitness",
   "titulo": "💪 Achado Fitness",
@@ -838,5 +824,19 @@
   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259q-mvd8zo8147icd3",
   "destaque": true,
   "criado": 1794431112
+ },
+ {
+  "id": "23398148248-1794434539",
+  "nicho": "escritorio",
+  "titulo": "🔥 11.11 | 📚 Achado Escritório",
+  "nome": "Organizador Bambu Kit com 3 Tamanhos e Individual Forrado Retangular Quarto Mesa Copa Banheiro",
+  "preco": 39.98,
+  "desconto": 54,
+  "nota": 4.9,
+  "vendas": 1414,
+  "link": "https://s.shopee.com.br/Loj8Sg9IF",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m58jq2p1rr1u7e",
+  "destaque": true,
+  "criado": 1794434539
  }
 ]
