@@ -1,33 +1,5 @@
 [
  {
-  "id": "22298105235-1793977423",
-  "nicho": "casa",
-  "titulo": "🏠 Achado pra Casa",
-  "nome": "Kits até 20 Esponja Mágica de Melamina Tira Manchas Riscos Mágica Branca Multiuso",
-  "preco": 11.99,
-  "desconto": 29,
-  "nota": 4.8,
-  "vendas": 1922,
-  "link": "https://s.shopee.com.br/1gJyHiBYyj",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkba3tgj7doga9",
-  "destaque": true,
-  "criado": 1793977423
- },
- {
-  "id": "20599334746-1793984603",
-  "nicho": "eletronicos",
-  "titulo": "🎧 Achado Eletrônico",
-  "nome": "Termômetro De Testa Infravermelha Digital",
-  "preco": 24.88,
-  "desconto": 79,
-  "nota": 4.8,
-  "vendas": 1280,
-  "link": "https://s.shopee.com.br/5LDGmfPBJP",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lycomxmsjbc571",
-  "destaque": true,
-  "criado": 1793984603
- },
- {
   "id": "17280330186-1793984627",
   "nicho": "fitness",
   "titulo": "💪 Achado Fitness",
@@ -838,5 +810,33 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lc-mqwe60xzlkw59d",
   "destaque": true,
   "criado": 1794416619
+ },
+ {
+  "id": "58254991731-1794423812",
+  "nicho": "moda",
+  "titulo": "🔥 11.11 | 👗 Achado de Moda",
+  "nome": "Kit Corrente Figaro 3x1 60cm + Pulseira Masculina Aço Inoxidável Prata",
+  "preco": 9.9,
+  "desconto": 85,
+  "nota": 4.9,
+  "vendas": 797,
+  "link": "https://s.shopee.com.br/9AQ7SPpvyF",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820ld-muayaex1dudf83",
+  "destaque": true,
+  "criado": 1794423812
+ },
+ {
+  "id": "58200422555-1794423830",
+  "nicho": "escritorio",
+  "titulo": "🔥 11.11 | 📚 Achado Escritório",
+  "nome": "Kit Viagem 11 Peças Frascos para Shampoo, Creme e Sabonete Líquido com Estojo Transparente",
+  "preco": 13.99,
+  "desconto": 86,
+  "nota": 4.9,
+  "vendas": 2377,
+  "link": "https://s.shopee.com.br/9fMO3M5ZLP",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mv787oplg7pda0",
+  "destaque": true,
+  "criado": 1794423830
  }
 ]
