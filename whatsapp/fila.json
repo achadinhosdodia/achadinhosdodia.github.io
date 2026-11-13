@@ -1,19 +1,5 @@
 [
  {
-  "id": "58263267581-1794056681",
-  "nicho": "games",
-  "titulo": "🎮 Achado Gamer",
-  "nome": "Mouse Gamer Wireless com Conexão 2.4GHz Estável",
-  "preco": 19.88,
-  "desconto": 67,
-  "nota": 4.7,
-  "vendas": 1314,
-  "link": "https://s.shopee.com.br/6VPFVJI10B",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkb1itv9v5s1c9",
-  "destaque": true,
-  "criado": 1794056681
- },
- {
   "id": "58217857072-1794063823",
   "nicho": "fitness",
   "titulo": "💪 Achado Fitness",
@@ -838,5 +824,19 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mozrh42tpa0z03",
   "destaque": true,
   "criado": 1794596640
+ },
+ {
+  "id": "42434453178-1794603871",
+  "nicho": "games",
+  "titulo": "🎮 Achado Gamer",
+  "nome": "Mouse Pad Gamer Trabalho Antiderrapante Alta Precisão Grande Desk Pad Base Emborrachada para Teclado e Mouse Estudo",
+  "preco": 14.8,
+  "desconto": 67,
+  "nota": 4.9,
+  "vendas": 462,
+  "link": "https://s.shopee.com.br/5fqIc4cV3b",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820le-mspn2kobgtfqcf",
+  "destaque": true,
+  "criado": 1794603871
  }
 ]
