@@ -1,19 +1,5 @@
 [
  {
-  "id": "22698516620-1794053135",
-  "nicho": "fitness",
-  "titulo": "💪 Achado Fitness",
-  "nome": "Kit 3 Faixas Elásticas de Tecido Treino Yoga Resistentes Confortáveis e Antideslizantes",
-  "preco": 15.0,
-  "desconto": 58,
-  "nota": 4.9,
-  "vendas": 7395,
-  "link": "https://s.shopee.com.br/7AewETc0bc",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820md-mm21sqywbx1j39",
-  "destaque": true,
-  "criado": 1794053135
- },
- {
   "id": "41772720401-1794056649",
   "nicho": "fitness",
   "titulo": "💪 Achado Fitness",
@@ -838,5 +824,19 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mtnx0mb3dmv41f",
   "destaque": true,
   "criado": 1794521118
+ },
+ {
+  "id": "23799036850-1794589445",
+  "nicho": "eletronicos",
+  "titulo": "🎧 Achado Eletrônico",
+  "nome": "Canaleta Organizadora de Fios 3 a 12 Metros Autoadesiva Esconde Fio Cabos com Conectores e Emendas",
+  "preco": 10.96,
+  "desconto": 31,
+  "nota": 4.9,
+  "vendas": 1077,
+  "link": "https://s.shopee.com.br/3LSNZH37Ra",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820md-mqxzwa7n4t8mc3",
+  "destaque": true,
+  "criado": 1794589445
  }
 ]
