@@ -1,19 +1,5 @@
 [
  {
-  "id": "41772720401-1794056649",
-  "nicho": "fitness",
-  "titulo": "💪 Achado Fitness",
-  "nome": "Top Academia Fitness Duplo Poliamida Suplex Premium Alça Grossa Com Sustentação Fit",
-  "preco": 22.8,
-  "desconto": 62,
-  "nota": 4.7,
-  "vendas": 2120,
-  "link": "https://s.shopee.com.br/7VHmh6t1AA",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-824jc-mfd8ajf14d1l01",
-  "destaque": true,
-  "criado": 1794056649
- },
- {
   "id": "58263267581-1794056681",
   "nicho": "games",
   "titulo": "🎮 Achado Gamer",
@@ -838,5 +824,19 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820md-mqxzwa7n4t8mc3",
   "destaque": true,
   "criado": 1794589445
+ },
+ {
+  "id": "49251023267-1794596640",
+  "nicho": "ferramentas",
+  "titulo": "🔧 Achado Ferramentas & Carro",
+  "nome": "Lâmpada Farol Xenon Projetor Led H4 Super Branca 6500k Chip Led Moto Carro Super Forte Plug And Play",
+  "preco": 29.9,
+  "desconto": 38,
+  "nota": 4.9,
+  "vendas": 757,
+  "link": "https://s.shopee.com.br/9pfrRSDrdN",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mozrh42tpa0z03",
+  "destaque": true,
+  "criado": 1794596640
  }
 ]
