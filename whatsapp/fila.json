@@ -1,19 +1,5 @@
 [
  {
-  "id": "58205218194-1794085486",
-  "nicho": "beleza",
-  "titulo": "💄 Achado de Beleza",
-  "nome": "Surpresa, Lip Gloss Tint Esponjas e Lapis de Sobrancelha , Um item Sortidos",
-  "preco": 12.99,
-  "desconto": 48,
-  "nota": 4.9,
-  "vendas": 327,
-  "link": "https://s.shopee.com.br/AAIYP15XFz",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-81zuh-mkntui6s1bercf",
-  "destaque": true,
-  "criado": 1794085486
- },
- {
   "id": "57608412310-1794088976",
   "nicho": "casa",
   "titulo": "🏠 Achado pra Casa",
@@ -844,5 +830,20 @@
   "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdyj-m137splztgo945",
   "destaque": true,
   "criado": 1794675698
+ },
+ {
+  "id": "22199057789-1794677512",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "Tesoura de Cozinha Multifuncional Aço Inox com Capa Corta Carne Frango Peixe Legumes",
+  "preco": 15.6,
+  "desconto": 66,
+  "nota": 4.9,
+  "vendas": 1811,
+  "link": "https://s.shopee.com.br/3B8yzliS6s",
+  "link_site": "https://s.shopee.com.br/9fMSjiJhvX",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-825a9-mqwat7e9ou8ca0",
+  "destaque": true,
+  "criado": 1794677513
  }
 ]
