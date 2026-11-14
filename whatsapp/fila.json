@@ -1,33 +1,5 @@
 [
  {
-  "id": "22293730893-1794175517",
-  "nicho": "eletronicos",
-  "titulo": "🎧 Achado Eletrônico",
-  "nome": "Termômetro Digital Infravermelho Sem Contato – Medição Precisa para Bebês e Adultos LCD/ Pratico  fang",
-  "preco": 18.88,
-  "desconto": 71,
-  "nota": 4.9,
-  "vendas": 1798,
-  "link": "https://s.shopee.com.br/70LYIFAXLb",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rcdd-m6fyri22zzo4cb",
-  "destaque": true,
-  "criado": 1794175517
- },
- {
-  "id": "23597378852-1794179079",
-  "nicho": "beleza",
-  "titulo": "💄 Achado de Beleza",
-  "nome": "KIT Removedor de Esmalte À Base de Acetona 500ml Monaly (3 unidades)",
-  "preco": 41.8,
-  "desconto": 22,
-  "nota": 5.0,
-  "vendas": 937,
-  "link": "https://s.shopee.com.br/7AeyYcvLyl",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-823og-mou3uea9c0shb0",
-  "destaque": true,
-  "criado": 1794179079
- },
- {
   "id": "58203315467-1794226044",
   "nicho": "moda",
   "titulo": "👗 Achado de Moda",
@@ -855,5 +827,35 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mqod9cw12nerf0",
   "destaque": true,
   "criado": 1794693888
+ },
+ {
+  "id": "20398185214-1794695508",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "Sapateira Organizadora com 9 Prateleiras para Organizar Sapatos Calçados Chinelos Roupas Objetos 24 Pares - Black",
+  "preco": 56.48,
+  "desconto": 72,
+  "nota": 4.8,
+  "vendas": 4638,
+  "link": "https://s.shopee.com.br/6firUnTdrI",
+  "link_site": "https://s.shopee.com.br/1W0lLIri7F",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ratk-ma318jb4a6ng62",
+  "destaque": true,
+  "criado": 1794695509
+ },
+ {
+  "id": "19997628648-1794695531",
+  "nicho": "moda",
+  "titulo": "👗 Achado de Moda",
+  "nome": "Sandálias Feminina Salto Baixo Rasteirinha Ortopedica",
+  "preco": 14.99,
+  "desconto": 70,
+  "nota": 4.8,
+  "vendas": 2744,
+  "link": "https://s.shopee.com.br/4B1WWEGlUw",
+  "link_site": "https://s.shopee.com.br/ql4Y6XvJ8",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lz-mniwx4cch91e0b",
+  "destaque": true,
+  "criado": 1794695532
  }
 ]
