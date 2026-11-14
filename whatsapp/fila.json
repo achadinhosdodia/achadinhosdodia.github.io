@@ -1,47 +1,5 @@
 [
  {
-  "id": "22894152352-1794157499",
-  "nicho": "beleza",
-  "titulo": "💄 Achado de Beleza",
-  "nome": "Kit Maleta Maquiagem completo Profissional Com Espelho e Luz Led e paleta de maquiagem TOP",
-  "preco": 65.99,
-  "desconto": 67,
-  "nota": 4.9,
-  "vendas": 735,
-  "link": "https://s.shopee.com.br/60T0lmcIBY",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ras9-maycfsvnzdojb3",
-  "destaque": true,
-  "criado": 1794157499
- },
- {
-  "id": "58265068063-1794171795",
-  "nicho": "beleza",
-  "titulo": "💄 Achado de Beleza",
-  "nome": "Kit com até 10 Escovas Mágica Para Desembaraçar anti frizz perfeita para lembrancinhas ENVIO RÁPIDO!",
-  "preco": 12.99,
-  "desconto": 71,
-  "nota": 4.8,
-  "vendas": 830,
-  "link": "https://s.shopee.com.br/1BNlHGT33C",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-mr690lkmtkp226",
-  "destaque": true,
-  "criado": 1794171795
- },
- {
-  "id": "58206820540-1794175325",
-  "nicho": "beleza",
-  "titulo": "💄 Achado de Beleza",
-  "nome": "Gloss Mágico Black Rain Brilho Intenso Hidratação Max Love Preto Efeito Lip Tint PH",
-  "preco": 13.48,
-  "desconto": 29,
-  "nota": 4.7,
-  "vendas": 462,
-  "link": "https://s.shopee.com.br/6fihtPZ7zd",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m4-mrlpqbmbt8n8cb",
-  "destaque": true,
-  "criado": 1794175325
- },
- {
   "id": "22293730893-1794175517",
   "nicho": "eletronicos",
   "titulo": "🎧 Achado Eletrônico",
@@ -852,5 +810,50 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820ll-mq6mfrf64hkw06",
   "destaque": true,
   "criado": 1794690306
+ },
+ {
+  "id": "22899555207-1794693769",
+  "nicho": "eletronicos",
+  "titulo": "🎧 Achado Eletrônico",
+  "nome": "Campainha Sem Fio Externa 100m | Kit Interfone Portão Porteiro com Dourado, Preto e Azul",
+  "preco": 35.68,
+  "desconto": 64,
+  "nota": 4.7,
+  "vendas": 1413,
+  "link": "https://s.shopee.com.br/6VPRGV9uUu",
+  "link_site": "https://s.shopee.com.br/8AXfFZ3Z9U",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lf-msd29fybv30m3f",
+  "destaque": true,
+  "criado": 1794693771
+ },
+ {
+  "id": "21978586884-1794693792",
+  "nicho": "beleza",
+  "titulo": "💄 Achado de Beleza",
+  "nome": "Necessaire Organizador Feminino Para Viagem Em Alto Qualidade ATP01",
+  "preco": 19.99,
+  "desconto": 38,
+  "nota": 4.8,
+  "vendas": 1775,
+  "link": "https://s.shopee.com.br/ql4W74Pjg",
+  "link_site": "https://s.shopee.com.br/AKc9pZYAOE",
+  "imagem": "https://cf.shopee.com.br/file/br-11134211-7r98p-llapzzxcekp7e0",
+  "destaque": true,
+  "criado": 1794693793
+ },
+ {
+  "id": "58214286834-1794693888",
+  "nicho": "ferramentas",
+  "titulo": "🔧 Achado Ferramentas & Carro",
+  "nome": "Eletromex EL-1006 Purificador de ar aromatizante cheirinho de carro para carros guarda-roupas e banheiros",
+  "preco": 49.99,
+  "desconto": 54,
+  "nota": 4.6,
+  "vendas": 387,
+  "link": "https://s.shopee.com.br/8Kr5S0LpqF",
+  "link_site": "https://s.shopee.com.br/8Kr5S0LpqF",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mqod9cw12nerf0",
+  "destaque": true,
+  "criado": 1794693888
  }
 ]
