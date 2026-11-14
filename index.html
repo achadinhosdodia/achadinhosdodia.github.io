@@ -87,7 +87,7 @@
           ${de ? `<div class="de">${brl(de)}</div>` : ""}
           <div><span class="por">${brl(o.preco)}</span>${d ? `<span class="off">-${d}%</span>` : ""}</div>
           <div class="nota">⭐ ${(o.nota || 0).toFixed(1).replace(".", ",")} · ${(o.vendas || 0).toLocaleString("pt-BR")} vendidos</div>
-          <a class="comprar" href="${esc(o.link)}" target="_blank" rel="noopener">Ver na Shopee</a>
+          <a class="comprar" href="${esc(o.link_site || o.link)}" target="_blank" rel="noopener">Ver na Shopee</a>
         </div></div>`;
     }).join("");
   }
