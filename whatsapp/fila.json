@@ -1,19 +1,5 @@
 [
  {
-  "id": "19099548632-1794085450",
-  "nicho": "eletronicos",
-  "titulo": "🎧 Achado Eletrônico",
-  "nome": "Mini máquina seladora de plástico recarregável para selagem de pilha de embalagens",
-  "preco": 13.99,
-  "desconto": 11,
-  "nota": 4.6,
-  "vendas": 396,
-  "link": "https://s.shopee.com.br/2LZh4a0xxJ",
-  "imagem": "https://cf.shopee.com.br/file/br-11134201-820m0-mqxhq4fy8t8n0b",
-  "destaque": true,
-  "criado": 1794085450
- },
- {
   "id": "58205218194-1794085486",
   "nicho": "beleza",
   "titulo": "💄 Achado de Beleza",
@@ -843,5 +829,20 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lk-moycm7jq4zr9bd",
   "destaque": true,
   "criado": 1794670499
+ },
+ {
+  "id": "23897893070-1794675697",
+  "nicho": "ferramentas",
+  "titulo": "🔧 Achado Ferramentas & Carro",
+  "nome": "Kit De Reparo E Remendo Manutenção Para Bicicletas Com Chave Allen Bike",
+  "preco": 17.89,
+  "desconto": 63,
+  "nota": 4.8,
+  "vendas": 746,
+  "link": "https://s.shopee.com.br/8fTvVna1gy",
+  "link_site": "https://s.shopee.com.br/4B1W9WrE4j",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdyj-m137splztgo945",
+  "destaque": true,
+  "criado": 1794675698
  }
 ]
