@@ -1,19 +1,5 @@
 [
  {
-  "id": "22394903623-1794351996",
-  "nicho": "ferramentas",
-  "titulo": "🔧 Achado Ferramentas & Carro",
-  "nome": "Kit 05 Pano Microfibra 60x80 Chão Carro Estética Automotiva Secagem Alta Absorção",
-  "preco": 29.99,
-  "desconto": 40,
-  "nota": 4.7,
-  "vendas": 388,
-  "link": "https://s.shopee.com.br/2BGLnM3Atc",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mrrj7ybaummf2d",
-  "destaque": true,
-  "criado": 1794351996
- },
- {
   "id": "54452415623-1794366231",
   "nicho": "moda",
   "titulo": "🔥 11.11 | 👗 Achado de Moda",
@@ -876,5 +862,20 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mpi0s0a4o0eba2",
   "destaque": true,
   "criado": 1794776772
+ },
+ {
+  "id": "22397344432-1794778305",
+  "nicho": "ferramentas",
+  "titulo": "🔧 Achado Ferramentas & Carro",
+  "nome": "Kit 2 Prs Luva De Latex Amarela Multiuso Forrada Antiderrapante Impermeável Para Limpeza Louça Faxina Jardinagem Volk",
+  "preco": 13.89,
+  "desconto": 36,
+  "nota": 4.9,
+  "vendas": 755,
+  "link": "https://s.shopee.com.br/7KyZomyyEf",
+  "link_site": "https://s.shopee.com.br/9fMUb4pfxx",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rcdb-lrqiod34ujxq6c",
+  "destaque": true,
+  "criado": 1794778306
  }
 ]
