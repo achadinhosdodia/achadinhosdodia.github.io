@@ -1,33 +1,5 @@
 [
  {
-  "id": "58214691819-1794366398",
-  "nicho": "beleza",
-  "titulo": "🔥 11.11 | 💄 Achado de Beleza",
-  "nome": "ANA1108 Conjunto12 peças Esponjas Multifuncionais para Maquiagem - Aplica Base Blush e Corretivo",
-  "preco": 11.68,
-  "desconto": 22,
-  "nota": 4.9,
-  "vendas": 1151,
-  "link": "https://s.shopee.com.br/7KySDKfujC",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lk-mqxgz5imopac57",
-  "destaque": true,
-  "criado": 1794366398
- },
- {
-  "id": "44411616156-1794398512",
-  "nicho": "moda",
-  "titulo": "🔥 11.11 | 👗 Achado de Moda",
-  "nome": "Relógio Feminino Sofisticado | Alça E Estojo De Aço Inoxidável Durável Ótima Opção De Presente De Feriado",
-  "preco": 19.97,
-  "desconto": 30,
-  "nota": 4.8,
-  "vendas": 667,
-  "link": "https://s.shopee.com.br/1LhFf3xEQs",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134301-7req2-me5agp8tz836d7",
-  "destaque": true,
-  "criado": 1794398512
- },
- {
   "id": "58213182757-1794398603",
   "nicho": "casa",
   "titulo": "🔥 11.11 | 🏠 Achado pra Casa",
@@ -880,5 +852,35 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820le-msurk7txbkzo52",
   "destaque": true,
   "criado": 1794780182
+ },
+ {
+  "id": "22093675757-1794783697",
+  "nicho": "ferramentas",
+  "titulo": "🔧 Achado Ferramentas & Carro",
+  "nome": "Tapa Corta Para Quebra Sol Protetor Solar Parabrisa  Proteção Uv Resistente Laminado Painel Carro",
+  "preco": 17.9,
+  "desconto": 51,
+  "nota": 4.6,
+  "vendas": 917,
+  "link": "https://s.shopee.com.br/9AQE6KZjtJ",
+  "link_site": "https://s.shopee.com.br/9KjeIdZ6YY",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lz-mmalzmd65bls2b",
+  "destaque": true,
+  "criado": 1794783698
+ },
+ {
+  "id": "19199547689-1794783811",
+  "nicho": "moda",
+  "titulo": "👗 Achado de Moda",
+  "nome": "Kit 10/5 Calcinhas 100% Algodao Basica dia a dia Conforto Calcinhas Lisas",
+  "preco": 29.0,
+  "desconto": 59,
+  "nota": 4.7,
+  "vendas": 2103,
+  "link": "https://s.shopee.com.br/9KjeIlVsCF",
+  "link_site": "https://s.shopee.com.br/9KjeIlVsCF",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk12vp5cxn9c15",
+  "destaque": true,
+  "criado": 1794783811
  }
 ]
