@@ -1,19 +1,5 @@
 [
  {
-  "id": "58208106390-1794330290",
-  "nicho": "moda",
-  "titulo": "👗 Achado de Moda",
-  "nome": "Kit 6/8/10 Bobs Cabelo Velcro Modeladores +8 Prendedores, DIY Styling Tools Bobs com Presilhas",
-  "preco": 18.98,
-  "desconto": 72,
-  "nota": 4.9,
-  "vendas": 1694,
-  "link": "https://s.shopee.com.br/7VHrkJOjFx",
-  "imagem": "https://cf.shopee.com.br/file/br-11134201-820ln-mmjsug6j3tom68",
-  "destaque": true,
-  "criado": 1794330290
- },
- {
   "id": "22793109940-1794337421",
   "nicho": "fitness",
   "titulo": "💪 Achado Fitness",
@@ -865,5 +851,20 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m39dvlyqglyw60",
   "destaque": true,
   "criado": 1794744134
+ },
+ {
+  "id": "58257814576-1794745918",
+  "nicho": "games",
+  "titulo": "🎮 Achado Gamer",
+  "nome": "Kit Passa Fio Click Autocolante Organizador De Cabos Esconder Fios Mesa Setup Gamer Home Office",
+  "preco": 14.29,
+  "desconto": 15,
+  "nota": 5.0,
+  "vendas": 416,
+  "link": "https://s.shopee.com.br/2qW9rRy1Pv",
+  "link_site": "https://s.shopee.com.br/5Au4djpYGC",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-mmemao2xxonae8",
+  "destaque": true,
+  "criado": 1794745919
  }
 ]
