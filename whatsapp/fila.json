@@ -1,19 +1,5 @@
 [
  {
-  "id": "22793109940-1794337421",
-  "nicho": "fitness",
-  "titulo": "💪 Achado Fitness",
-  "nome": "Meia De Compressão Térmica Circulação Joelheira de Compressão Esportivas",
-  "preco": 14.99,
-  "desconto": 75,
-  "nota": 4.8,
-  "vendas": 1138,
-  "link": "https://s.shopee.com.br/9AQ5rXKICU",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lwyhrg9smbue6f",
-  "destaque": true,
-  "criado": 1794337421
- },
- {
   "id": "20799847881-1794344499",
   "nicho": "fitness",
   "titulo": "💪 Achado Fitness",
@@ -866,5 +852,20 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-mmemao2xxonae8",
   "destaque": true,
   "criado": 1794745919
+ },
+ {
+  "id": "22019885945-1794754980",
+  "nicho": "moda",
+  "titulo": "👗 Achado de Moda",
+  "nome": "Biquini fita calcinha fio cortininha sem bojo biquíni fita de marquinha calcinha regulável",
+  "preco": 17.9,
+  "desconto": 32,
+  "nota": 4.7,
+  "vendas": 3239,
+  "link": "https://s.shopee.com.br/6fisarjgZp",
+  "link_site": "https://s.shopee.com.br/6fisarjgZp",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1sp83ikxbrl0a",
+  "destaque": true,
+  "criado": 1794754980
  }
 ]
