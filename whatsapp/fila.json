@@ -1,47 +1,5 @@
 [
  {
-  "id": "58213182757-1794398603",
-  "nicho": "casa",
-  "titulo": "🔥 11.11 | 🏠 Achado pra Casa",
-  "nome": "Tábua de Corte Cozinha Plástico PP Antiderrapante com Alça para Carnes e Legumes",
-  "preco": 16.99,
-  "desconto": 53,
-  "nota": 4.9,
-  "vendas": 679,
-  "link": "https://s.shopee.com.br/qkz4FRALE",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mpw7a3ee0s1s1a",
-  "destaque": true,
-  "criado": 1794398603
- },
- {
-  "id": "58214708546-1794398719",
-  "nicho": "beleza",
-  "titulo": "🔥 11.11 | 💄 Achado de Beleza",
-  "nome": "Kit Trio Sombra Sobrancelha Ruby Rose HB9354 Alta Pigmentação, Primer, Espelho e Pincel",
-  "preco": 13.6,
-  "desconto": 63,
-  "nota": 4.9,
-  "vendas": 852,
-  "link": "https://s.shopee.com.br/6L5vcUOzlW",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-mqxpww69dczob4",
-  "destaque": true,
-  "criado": 1794398719
- },
- {
-  "id": "19997627500-1794402270",
-  "nicho": "eletronicos",
-  "titulo": "🔥 11.11 | 🎧 Achado Eletrônico",
-  "nome": "Caxinha de Som G -Speaker COR BRANCA Com Relógio Luminária Bluetooth Inteligente Carregador Sem Fio Led Luz  COM RELÓGIO",
-  "preco": 29.99,
-  "desconto": 40,
-  "nota": 4.6,
-  "vendas": 500,
-  "link": "https://s.shopee.com.br/2gCdJoXx9y",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-ls8u1q1xvy8daa",
-  "destaque": true,
-  "criado": 1794402270
- },
- {
   "id": "54764399038-1794416619",
   "nicho": "beleza",
   "titulo": "🔥 11.11 | 💄 Achado de Beleza",
@@ -882,5 +840,50 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk12vp5cxn9c15",
   "destaque": true,
   "criado": 1794783811
+ },
+ {
+  "id": "58250094669-1794785480",
+  "nicho": "beleza",
+  "titulo": "💄 Achado de Beleza",
+  "nome": "Máscara Capilar Mega Nutrição 500g | 6 Manteigas | Desmaia Cabelo | Nutrição Profunda | Anti Frizz | Salão In Casa",
+  "preco": 38.64,
+  "desconto": 52,
+  "nota": 4.9,
+  "vendas": 1829,
+  "link": "https://s.shopee.com.br/2LZtzoRuhz",
+  "link_site": "https://s.shopee.com.br/40i7ysQ6cO",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-81ztp-mmw4kz382nlvc5",
+  "destaque": true,
+  "criado": 1794785481
+ },
+ {
+  "id": "22494463523-1794785610",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "Kit Colmeia Organizadora de Guarda Roupa P, M, G",
+  "preco": 21.9,
+  "desconto": 48,
+  "nota": 4.9,
+  "vendas": 384,
+  "link": "https://s.shopee.com.br/6fit9vL360",
+  "link_site": "https://s.shopee.com.br/6fit9vL360",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfa1jvp92bk607",
+  "destaque": true,
+  "criado": 1794785610
+ },
+ {
+  "id": "48365911549-1794785672",
+  "nicho": "eletronicos",
+  "titulo": "🎧 Achado Eletrônico",
+  "nome": "Mousepad Compacto Slim 23x17cm Base Antiderrapante Para Notebook Estudos Atacado para Escritorio Kit 1 2 e 3 Peças",
+  "preco": 10.9,
+  "desconto": 64,
+  "nota": 4.9,
+  "vendas": 474,
+  "link": "https://s.shopee.com.br/2qWAawyM8m",
+  "link_site": "https://s.shopee.com.br/2qWAawyM8m",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mut79wwusni9fa",
+  "destaque": true,
+  "criado": 1794785672
  }
 ]
