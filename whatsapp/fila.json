@@ -1,47 +1,5 @@
 [
  {
-  "id": "54452415623-1794366231",
-  "nicho": "moda",
-  "titulo": "🔥 11.11 | 👗 Achado de Moda",
-  "nome": "Kit 10, 8, 5 ou 3 Calcinhas Infantis Shortinho Macio e Respirável Premium",
-  "preco": 24.99,
-  "desconto": 58,
-  "nota": 4.9,
-  "vendas": 3244,
-  "link": "https://s.shopee.com.br/3LSJRn4SQr",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-mr79un2a3itgcf",
-  "destaque": true,
-  "criado": 1794366231
- },
- {
-  "id": "48317836170-1794366277",
-  "nicho": "casa",
-  "titulo": "🔥 11.11 | 🏠 Achado pra Casa",
-  "nome": "Puxa Saco Porta Sacola Plástica Organizador Transparente Saco De Cozinha Dispenser Sacola Plástica Lavanderia Parede",
-  "preco": 5.98,
-  "desconto": 74,
-  "nota": 4.9,
-  "vendas": 2273,
-  "link": "https://s.shopee.com.br/906gCG3Brj",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lu-mua0dxikdh4x87",
-  "destaque": true,
-  "criado": 1794366277
- },
- {
-  "id": "23394250538-1794366304",
-  "nicho": "eletronicos",
-  "titulo": "🔥 11.11 | 🎧 Achado Eletrônico",
-  "nome": "Controle de Portão Eletrônico universal fixed code remote Slim 433MHz 4 em 1 ncb-9004",
-  "preco": 16.99,
-  "desconto": 72,
-  "nota": 4.7,
-  "vendas": 522,
-  "link": "https://s.shopee.com.br/3VljeBEril",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-mooc1cwa1q1188",
-  "destaque": true,
-  "criado": 1794366304
- },
- {
   "id": "58214691819-1794366398",
   "nicho": "beleza",
   "titulo": "🔥 11.11 | 💄 Achado de Beleza",
@@ -877,5 +835,50 @@
   "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rcdb-lrqiod34ujxq6c",
   "destaque": true,
   "criado": 1794778306
+ },
+ {
+  "id": "26476111634-1794780104",
+  "nicho": "beleza",
+  "titulo": "💄 Achado de Beleza",
+  "nome": "Kit Lavabo Vidro Luxo Com Bandeja Branco Vidro Ambar Banheiro Aroma Difusor",
+  "preco": 59.99,
+  "desconto": 47,
+  "nota": 4.9,
+  "vendas": 1836,
+  "link": "https://s.shopee.com.br/20x3V2yMos",
+  "link_site": "https://s.shopee.com.br/1LhMhp5Efv",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mobc9xkx06x314",
+  "destaque": true,
+  "criado": 1794780105
+ },
+ {
+  "id": "18851676374-1794780160",
+  "nicho": "ferramentas",
+  "titulo": "🔧 Achado Ferramentas & Carro",
+  "nome": "Suporte Case Capa Celular P Bike Moto Prova D'agua Magnetico",
+  "preco": 23.0,
+  "desconto": 77,
+  "nota": 4.6,
+  "vendas": 736,
+  "link": "https://s.shopee.com.br/3VlrHrvRNK",
+  "link_site": "https://s.shopee.com.br/2qWAUdxZ9r",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rbmd-m5lk5t0voi9g28",
+  "destaque": true,
+  "criado": 1794780161
+ },
+ {
+  "id": "58267716675-1794780181",
+  "nicho": "moda",
+  "titulo": "👗 Achado de Moda",
+  "nome": "Blusa Ciganinha com Laço nas Alças e Babado Duplo",
+  "preco": 29.99,
+  "desconto": 70,
+  "nota": 4.9,
+  "vendas": 3207,
+  "link": "https://s.shopee.com.br/3LSR5aLenT",
+  "link_site": "https://s.shopee.com.br/80EGeA8hgB",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820le-msurk7txbkzo52",
+  "destaque": true,
+  "criado": 1794780182
  }
 ]
