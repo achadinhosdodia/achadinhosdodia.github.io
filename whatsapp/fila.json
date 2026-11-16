@@ -1,19 +1,5 @@
 [
  {
-  "id": "23398148248-1794434539",
-  "nicho": "escritorio",
-  "titulo": "🔥 11.11 | 📚 Achado Escritório",
-  "nome": "Organizador Bambu Kit com 3 Tamanhos e Individual Forrado Retangular Quarto Mesa Copa Banheiro",
-  "preco": 39.98,
-  "desconto": 54,
-  "nota": 4.9,
-  "vendas": 1414,
-  "link": "https://s.shopee.com.br/Loj8Sg9IF",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m58jq2p1rr1u7e",
-  "destaque": true,
-  "criado": 1794434539
- },
- {
   "id": "23798229513-1794495784",
   "nicho": "eletronicos",
   "titulo": "🎧 Achado Eletrônico",
@@ -891,5 +877,20 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lr-mvc6ysyhpp1da0",
   "destaque": true,
   "criado": 1794841491
+ },
+ {
+  "id": "23799024292-1794843115",
+  "nicho": "moda",
+  "titulo": "👗 Achado de Moda",
+  "nome": "KIT 3 PEÇAS REGATA FEMININA ALCINHA CANELADA - MODA VERÃO",
+  "preco": 27.9,
+  "desconto": 37,
+  "nota": 4.8,
+  "vendas": 1962,
+  "link": "https://s.shopee.com.br/AAImOB0NX7",
+  "link_site": "https://s.shopee.com.br/3B923JR1lW",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820li-mqvzayziudxh3e",
+  "destaque": true,
+  "criado": 1794843116
  }
 ]
