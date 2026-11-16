@@ -1,19 +1,5 @@
 [
  {
-  "id": "54764399038-1794416619",
-  "nicho": "beleza",
-  "titulo": "🔥 11.11 | 💄 Achado de Beleza",
-  "nome": "1 a 3 Und Pote 1,5L Hermético C/ Bico Dosador Lavanderia Sabão em Pó Amaciante Multiuso Organização Compacto Resistente",
-  "preco": 26.22,
-  "desconto": 40,
-  "nota": 4.8,
-  "vendas": 709,
-  "link": "https://s.shopee.com.br/AAIeW1PhMK",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lc-mqwe60xzlkw59d",
-  "destaque": true,
-  "criado": 1794416619
- },
- {
   "id": "58254991731-1794423812",
   "nicho": "moda",
   "titulo": "🔥 11.11 | 👗 Achado de Moda",
@@ -885,5 +871,20 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mut79wwusni9fa",
   "destaque": true,
   "criado": 1794785672
+ },
+ {
+  "id": "23102216708-1794832298",
+  "nicho": "ferramentas",
+  "titulo": "🔧 Achado Ferramentas & Carro",
+  "nome": "Kit C/20 Protetores De Quina Canto Silicone Redondo Protetor De Canto De Mesa",
+  "preco": 15.99,
+  "desconto": 60,
+  "nota": 4.9,
+  "vendas": 518,
+  "link": "https://s.shopee.com.br/9pfvnBLUxy",
+  "link_site": "https://s.shopee.com.br/1W0nrrvU66",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-22100-78qr557c84ivc1",
+  "destaque": true,
+  "criado": 1794832299
  }
 ]
