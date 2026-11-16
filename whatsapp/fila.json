@@ -1,19 +1,5 @@
 [
  {
-  "id": "49251023267-1794596640",
-  "nicho": "ferramentas",
-  "titulo": "🔧 Achado Ferramentas & Carro",
-  "nome": "Lâmpada Farol Xenon Projetor Led H4 Super Branca 6500k Chip Led Moto Carro Super Forte Plug And Play",
-  "preco": 29.9,
-  "desconto": 38,
-  "nota": 4.9,
-  "vendas": 757,
-  "link": "https://s.shopee.com.br/9pfrRSDrdN",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mozrh42tpa0z03",
-  "destaque": true,
-  "criado": 1794596640
- },
- {
   "id": "42434453178-1794603871",
   "nicho": "games",
   "titulo": "🎮 Achado Gamer",
@@ -896,5 +882,20 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820ls-mmrem971p24k67",
   "destaque": true,
   "criado": 1794864759
+ },
+ {
+  "id": "58265154881-1794866539",
+  "nicho": "moda",
+  "titulo": "👗 Achado de Moda",
+  "nome": "Kit 10 Pares 20 Meias Soquete Adulto Com Saquinho 5 Temas Sortidos Tamanho 32 ao 38 Confortável",
+  "preco": 19.99,
+  "desconto": 50,
+  "nota": 4.8,
+  "vendas": 743,
+  "link": "https://s.shopee.com.br/6q2KqrNWj7",
+  "link_site": "https://s.shopee.com.br/8AXiRJMqln",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259n-mr7qgyi440lg6f",
+  "destaque": true,
+  "criado": 1794866540
  }
 ]
