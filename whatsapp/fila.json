@@ -1,34 +1,5 @@
 [
  {
-  "id": "42434453178-1794603871",
-  "nicho": "games",
-  "titulo": "🎮 Achado Gamer",
-  "nome": "Mouse Pad Gamer Trabalho Antiderrapante Alta Precisão Grande Desk Pad Base Emborrachada para Teclado e Mouse Estudo",
-  "preco": 14.8,
-  "desconto": 67,
-  "nota": 4.9,
-  "vendas": 462,
-  "link": "https://s.shopee.com.br/5fqIc4cV3b",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820le-mspn2kobgtfqcf",
-  "destaque": true,
-  "criado": 1794603871
- },
- {
-  "id": "22299698768-1794657726",
-  "nicho": "casa",
-  "titulo": "🏠 Achado pra Casa",
-  "nome": "Seladora Selador de embalagem Recarregável, Vedadora Portátil com Display para Fechar Sacos de Alimentos Plásticos",
-  "preco": 45.98,
-  "desconto": 71,
-  "nota": 4.8,
-  "vendas": 344,
-  "link": "https://s.shopee.com.br/8VAUyvIuo6",
-  "link_site": "https://s.shopee.com.br/2BGRRHh1fo",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259u-msfbgyri4kqqe5",
-  "destaque": true,
-  "criado": 1794657727
- },
- {
   "id": "41434241478-1794670327",
   "nicho": "moda",
   "titulo": "👗 Achado de Moda",
@@ -897,5 +868,35 @@
   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259n-mr7qgyi440lg6f",
   "destaque": true,
   "criado": 1794866540
+ },
+ {
+  "id": "23799429553-1794871896",
+  "nicho": "ferramentas",
+  "titulo": "🔧 Achado Ferramentas & Carro",
+  "nome": "Corrente Cadeado Segurança Bicicleta C/ Senha Segredo 8mm x 1100mm Bike",
+  "preco": 15.56,
+  "desconto": 61,
+  "nota": 4.9,
+  "vendas": 356,
+  "link": "https://s.shopee.com.br/2VtLn1nS06",
+  "link_site": "https://s.shopee.com.br/5LDXAEga9z",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-81ztp-mmv1lkokg9hk97",
+  "destaque": true,
+  "criado": 1794871897
+ },
+ {
+  "id": "58268395873-1794871933",
+  "nicho": "moda",
+  "titulo": "👗 Achado de Moda",
+  "nome": "Kit 2 Shorts Masculino Duplo Dryfit Camada Interna de Compressão Bolso Ibutido Para Celular",
+  "preco": 39.95,
+  "desconto": 60,
+  "nota": 4.8,
+  "vendas": 1430,
+  "link": "https://s.shopee.com.br/4LKzyRNWSR",
+  "link_site": "https://s.shopee.com.br/1W0obEchzA",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m4-mt9kqxhuf0u9ef",
+  "destaque": true,
+  "criado": 1794871935
  }
 ]
