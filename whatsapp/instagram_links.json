@@ -1,5 +1,16 @@
 [
  {
+  "id": "18040994705847630",
+  "quando": 1794942747,
+  "itens": [
+   {
+    "nome": "Lip Tint",
+    "preco": 15.21,
+    "link": "https://s.shopee.com.br/AAIoED8cLs"
+   }
+  ]
+ },
+ {
   "id": "18097436558176694",
   "quando": 1794928309,
   "itens": [
@@ -575,17 +586,6 @@
     "nome": "KIT 72",
     "preco": 10.0,
     "link": "https://s.shopee.com.br/1LgyBOdNgE"
-   }
-  ]
- },
- {
-  "id": "18168307714470236",
-  "quando": 1793401597,
-  "itens": [
-   {
-    "nome": "Kit Fonte + Cabo Carregador Lightning Usb-C Tipo",
-    "preco": 8.99,
-    "link": "https://s.shopee.com.br/8VA7mq5v53"
    }
   ]
  }
