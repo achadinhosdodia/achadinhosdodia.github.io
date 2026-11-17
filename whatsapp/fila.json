@@ -1,20 +1,5 @@
 [
  {
-  "id": "58266565437-1794690280",
-  "nicho": "eletronicos",
-  "titulo": "🎧 Achado Eletrônico",
-  "nome": "Extensão Elétrica Com Cabo 3 Tomadas Régua 3 USB 1 tipo-c",
-  "preco": 44.9,
-  "desconto": 36,
-  "nota": 4.9,
-  "vendas": 2987,
-  "link": "https://s.shopee.com.br/1LhL30ohV2",
-  "link_site": "https://s.shopee.com.br/1LhL30ohV2",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258d-ms3zkrzdkpoke5",
-  "destaque": true,
-  "criado": 1794690280
- },
- {
   "id": "20599901849-1794690306",
   "nicho": "beleza",
   "titulo": "💄 Achado de Beleza",
@@ -898,5 +883,20 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7u9q01o2ibmbf",
   "destaque": true,
   "criado": 1794920636
+ },
+ {
+  "id": "9478115936-1794922356",
+  "nicho": "games",
+  "titulo": "🎮 Achado Gamer",
+  "nome": "Suporte Porta Controle Videogame Gamer Para Ps4 Xbox Ps5",
+  "preco": 19.85,
+  "desconto": 60,
+  "nota": 4.7,
+  "vendas": 636,
+  "link": "https://s.shopee.com.br/7KycTfIp3d",
+  "link_site": "https://s.shopee.com.br/5LDY5zUlbH",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lr-mqz526mtnlzb5f",
+  "destaque": true,
+  "criado": 1794922357
  }
 ]
