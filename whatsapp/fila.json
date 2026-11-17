@@ -1,20 +1,5 @@
 [
  {
-  "id": "22199057789-1794677512",
-  "nicho": "casa",
-  "titulo": "🏠 Achado pra Casa",
-  "nome": "Tesoura de Cozinha Multifuncional Aço Inox com Capa Corta Carne Frango Peixe Legumes",
-  "preco": 15.6,
-  "desconto": 66,
-  "nota": 4.9,
-  "vendas": 1811,
-  "link": "https://s.shopee.com.br/3B8yzliS6s",
-  "link_site": "https://s.shopee.com.br/9fMSjiJhvX",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-825a9-mqwat7e9ou8ca0",
-  "destaque": true,
-  "criado": 1794677513
- },
- {
   "id": "23293978804-1794682924",
   "nicho": "moda",
   "titulo": "👗 Achado de Moda",
@@ -898,5 +883,20 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820mb-mqo88pve6q6bd7",
   "destaque": true,
   "criado": 1794917096
+ },
+ {
+  "id": "58268712668-1794918748",
+  "nicho": "games",
+  "titulo": "🎮 Achado Gamer",
+  "nome": "Fone Q71 Bluetooth Sem Fio para Gamer e Esporte, Baixa Latência e Fixação Segura, Android e iOS.",
+  "preco": 33.9,
+  "desconto": 32,
+  "nota": 4.8,
+  "vendas": 423,
+  "link": "https://s.shopee.com.br/4fxrEdQirF",
+  "link_site": "https://s.shopee.com.br/7fbSo9JhYY",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-82580-mtf3ycawim1601",
+  "destaque": true,
+  "criado": 1794918749
  }
 ]
