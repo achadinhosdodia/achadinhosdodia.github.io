@@ -1,35 +1,5 @@
 [
  {
-  "id": "22998472345-1794834172",
-  "nicho": "casa",
-  "titulo": "🏠 Achado pra Casa",
-  "nome": "Kit 3 Potes De Vidro Herméticos com Trava para Alimentos Refratário",
-  "preco": 39.99,
-  "desconto": 35,
-  "nota": 4.9,
-  "vendas": 1707,
-  "link": "https://s.shopee.com.br/5VWwfMaaLY",
-  "link_site": "https://s.shopee.com.br/906opnS0Kd",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m3-mslhek4c1mh35a",
-  "destaque": true,
-  "criado": 1794834173
- },
- {
-  "id": "18399253901-1794841294",
-  "nicho": "casa",
-  "titulo": "🏠 Achado pra Casa",
-  "nome": "Esfregao Rodo Limpeza Triangulo Mop Giratorio 360° Rodo",
-  "preco": 23.95,
-  "desconto": 59,
-  "nota": 4.7,
-  "vendas": 2276,
-  "link": "https://s.shopee.com.br/2gClQJEuGi",
-  "link_site": "https://s.shopee.com.br/3LSSDXCMvp",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-luo8xv38p46d17",
-  "destaque": true,
-  "criado": 1794841295
- },
- {
   "id": "58258453576-1794841410",
   "nicho": "eletronicos",
   "titulo": "🎧 Achado Eletrônico",
@@ -898,5 +868,35 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-mu3sumfeuio007",
   "destaque": true,
   "criado": 1795007184
+ },
+ {
+  "id": "22197552648-1795008730",
+  "nicho": "ferramentas",
+  "titulo": "🔧 Achado Ferramentas & Carro",
+  "nome": "Bomba de Ar Digital Mini Calibrador Compressor de Pneus Carro Moto Bike Com Lanterna Led Portátil",
+  "preco": 59.99,
+  "desconto": 70,
+  "nota": 4.9,
+  "vendas": 1156,
+  "link": "https://s.shopee.com.br/LotjfAdPI",
+  "link_site": "https://s.shopee.com.br/9AQIFtdULn",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rd5f-lvnc6hevqo1j99",
+  "destaque": true,
+  "criado": 1795008731
+ },
+ {
+  "id": "58206134079-1795008866",
+  "nicho": "eletronicos",
+  "titulo": "🎧 Achado Eletrônico",
+  "nome": "K12 Caixa de som sem fio com microfone Karaokê, Mini Alto-falante Bluetooth portátil 1Microfones/2 Microfones",
+  "preco": 28.99,
+  "desconto": 55,
+  "nota": 4.8,
+  "vendas": 2657,
+  "link": "https://s.shopee.com.br/114aX2mwJD",
+  "link_site": "https://s.shopee.com.br/1W0r7xky51",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-82634-mld8h5494ikk5c",
+  "destaque": true,
+  "criado": 1795008867
  }
 ]
