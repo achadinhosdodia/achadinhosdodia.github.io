@@ -1,20 +1,5 @@
 [
  {
-  "id": "58260826086-1794927971",
-  "nicho": "casa",
-  "titulo": "🏠 Achado pra Casa",
-  "nome": "H'Maston FR11 Descascador De Legumes Profissional Descascador De Verduras E Legumes 7em 1 Descascador De Batata",
-  "preco": 14.99,
-  "desconto": 50,
-  "nota": 4.9,
-  "vendas": 320,
-  "link": "https://s.shopee.com.br/30pdQ81jfk",
-  "link_site": "https://s.shopee.com.br/6fivmrnhyw",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-mrpbp6teuww6fb",
-  "destaque": true,
-  "criado": 1794927971
- },
- {
   "id": "19265978607-1794934899",
   "nicho": "beleza",
   "titulo": "💄 Achado de Beleza",
@@ -898,5 +883,20 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mlzs9u5qiqdic1",
   "destaque": true,
   "criado": 1795043078
+ },
+ {
+  "id": "58268141849-1795044757",
+  "nicho": "games",
+  "titulo": "🎮 Achado Gamer",
+  "nome": "Organizador de Mesa Para Cabos e Fios Multiuso Armazenamento de Tomadas Caixa Organizadora de Fios",
+  "preco": 37.9,
+  "desconto": 76,
+  "nota": 4.9,
+  "vendas": 539,
+  "link": "https://s.shopee.com.br/2BGYaGei4F",
+  "link_site": "https://s.shopee.com.br/8VAc7uGfT3",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mtfb7yyyi8748d",
+  "destaque": true,
+  "criado": 1795044758
  }
 ]
