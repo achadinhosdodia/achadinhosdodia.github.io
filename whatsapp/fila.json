@@ -1,20 +1,5 @@
 [
  {
-  "id": "21198184141-1794857582",
-  "nicho": "moda",
-  "titulo": "👗 Achado de Moda",
-  "nome": "Sapatilha Sola Dividida Lona Ballet N 24 AO 43, Sapatilha de Ballet meia ponta, Sapatilha Ballet, N",
-  "preco": 23.76,
-  "desconto": 45,
-  "nota": 4.8,
-  "vendas": 670,
-  "link": "https://s.shopee.com.br/gRhLH4Ofu",
-  "link_site": "https://s.shopee.com.br/gRhLH4Ofu",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rfgt-m9whz1n0ztcp3b",
-  "destaque": true,
-  "criado": 1794857582
- },
- {
   "id": "20899442612-1794862897",
   "nicho": "ferramentas",
   "titulo": "🔧 Achado Ferramentas & Carro",
@@ -898,5 +883,20 @@
   "imagem": "https://cf.shopee.com.br/file/sg-11134201-823pf-mou2kf5epczkb6",
   "destaque": true,
   "criado": 1795014441
+ },
+ {
+  "id": "58212781638-1795015976",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "Escova para Vaso Sanitário Silicone 2 em 1 com Suporte Escova Sanitária Limpeza Profunda Sem Arranhar",
+  "preco": 13.88,
+  "desconto": 60,
+  "nota": 4.8,
+  "vendas": 483,
+  "link": "https://s.shopee.com.br/4VeSpc7Xe4",
+  "link_site": "https://s.shopee.com.br/7fbUbQvYWp",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mrbs9l7ldpmtf2",
+  "destaque": true,
+  "criado": 1795015977
  }
 ]
