@@ -1,20 +1,5 @@
 [
  {
-  "id": "58203288339-1794920574",
-  "nicho": "eletronicos",
-  "titulo": "🎧 Achado Eletrônico",
-  "nome": "Kit 2 em 1 Power Bank Portátil   Pack MagSafe + Cabo de iphone Rápido 20W USB-C para Lightning 1m",
-  "preco": 48.89,
-  "desconto": 56,
-  "nota": 4.7,
-  "vendas": 2002,
-  "link": "https://s.shopee.com.br/9zzNcWklwf",
-  "link_site": "https://s.shopee.com.br/3Vltsa92Jx",
-  "imagem": "https://cf.shopee.com.br/file/br-11134211-820lc-mucv7fk5r7k28f",
-  "destaque": true,
-  "criado": 1794920575
- },
- {
   "id": "18697093514-1794920592",
   "nicho": "beleza",
   "titulo": "💄 Achado de Beleza",
@@ -898,5 +883,20 @@
   "imagem": "https://cf.shopee.com.br/file/sg-11134201-825a1-mr958bwldjbbfc",
   "destaque": true,
   "criado": 1795036005
+ },
+ {
+  "id": "20897683919-1795037658",
+  "nicho": "games",
+  "titulo": "🎮 Achado Gamer",
+  "nome": "Projetor HY300 Mini Projetor Portátil LED WiFi Bluetooth Cinema em Casa Controle Remoto",
+  "preco": 189.99,
+  "desconto": 76,
+  "nota": 4.8,
+  "vendas": 1875,
+  "link": "https://s.shopee.com.br/6VPXc6YDMv",
+  "link_site": "https://s.shopee.com.br/1gKHrDqXxK",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260x-ml835vsd81s3d3",
+  "destaque": true,
+  "criado": 1795037658
  }
 ]
