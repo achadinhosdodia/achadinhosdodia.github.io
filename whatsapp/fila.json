@@ -1,20 +1,5 @@
 [
  {
-  "id": "58253866047-1795003316",
-  "nicho": "casa",
-  "titulo": "🏠 Achado pra Casa",
-  "nome": "Ventilador De Ar Portátil Para Escritório Umidificador Com Led e Reservatório De Água",
-  "preco": 21.48,
-  "desconto": 59,
-  "nota": 4.6,
-  "vendas": 717,
-  "link": "https://s.shopee.com.br/qlAENwerT",
-  "link_site": "https://s.shopee.com.br/1qdhQDtKef",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mu44eeyq94aqe6",
-  "destaque": true,
-  "criado": 1795003317
- },
- {
   "id": "58255609431-1795003417",
   "nicho": "beleza",
   "titulo": "💄 Achado de Beleza",
@@ -898,5 +883,20 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-mt49g1693f2dfe",
   "destaque": true,
   "criado": 1795115208
+ },
+ {
+  "id": "58207038453-1795116698",
+  "nicho": "ferramentas",
+  "titulo": "🔧 Achado Ferramentas & Carro",
+  "nome": "Lixeira Automotiva Couro Premium Personalizada com Logo do Carro Universal Resistente Não Vaza Luxo Carro",
+  "preco": 9.0,
+  "desconto": 10,
+  "nota": 4.9,
+  "vendas": 752,
+  "link": "https://s.shopee.com.br/W8LvXqlmf",
+  "link_site": "https://s.shopee.com.br/114cWSonVc",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820la-mmsfatzvulms81",
+  "destaque": true,
+  "criado": 1795116698
  }
 ]
