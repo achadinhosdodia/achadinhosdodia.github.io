@@ -1,20 +1,5 @@
 [
  {
-  "id": "58220132865-1794935162",
-  "nicho": "eletronicos",
-  "titulo": "🎧 Achado Eletrônico",
-  "nome": "OPL Pendrive 32 ou 64gb + Memory Card GAMEFLIX | Compatível PS2 Slim e Fat",
-  "preco": 27.99,
-  "desconto": 73,
-  "nota": 4.9,
-  "vendas": 372,
-  "link": "https://s.shopee.com.br/LosNSU7dl",
-  "link_site": "https://s.shopee.com.br/6fivv6654j",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-muc4lp3wqwow48",
-  "destaque": true,
-  "criado": 1794935163
- },
- {
   "id": "58214893945-1794942331",
   "nicho": "casa",
   "titulo": "🏠 Achado pra Casa",
@@ -898,5 +883,20 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgrb52qpsglh3d",
   "destaque": true,
   "criado": 1795089975
+ },
+ {
+  "id": "54657435999-1795091597",
+  "nicho": "ferramentas",
+  "titulo": "🔧 Achado Ferramentas & Carro",
+  "nome": "Suporte Para Espelho Kit 2 + Silicone Suporte De Parede Suporte Para Quadro com Parafusos + Buchas",
+  "preco": 22.9,
+  "desconto": 67,
+  "nota": 4.7,
+  "vendas": 339,
+  "link": "https://s.shopee.com.br/4fxuQTLW61",
+  "link_site": "https://s.shopee.com.br/6AmiDEJrVV",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lc-mm0o74cbso3rd6",
+  "destaque": true,
+  "criado": 1795091598
  }
 ]
