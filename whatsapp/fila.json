@@ -1,20 +1,5 @@
 [
  {
-  "id": "58258562285-1795021576",
-  "nicho": "casa",
-  "titulo": "🏠 Achado pra Casa",
-  "nome": "Suporte Organizador De Ovos Dispenser Para Geladeira Prático Anti-Queda Utensílios De Cozinha Original",
-  "preco": 4.99,
-  "desconto": 75,
-  "nota": 4.9,
-  "vendas": 8134,
-  "link": "https://s.shopee.com.br/qlAZHb7ft",
-  "link_site": "https://s.shopee.com.br/qlAZHb7ft",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zvu-mmvetjba5xq9cb",
-  "destaque": true,
-  "criado": 1795021576
- },
- {
   "id": "22999650289-1795021617",
   "nicho": "eletronicos",
   "titulo": "🎧 Achado Eletrônico",
@@ -898,5 +883,20 @@
   "imagem": "https://cf.shopee.com.br/file/sg-11134201-7req6-m8dk5gglfv7k20",
   "destaque": true,
   "criado": 1795129585
+ },
+ {
+  "id": "23799367356-1795131199",
+  "nicho": "moda",
+  "titulo": "👗 Achado de Moda",
+  "nome": "Kit 2 Shorts Linho Masculino Mauricinho Old Money Style Luxo Tendência 2026 Novas Cores",
+  "preco": 54.99,
+  "desconto": 48,
+  "nota": 4.7,
+  "vendas": 2187,
+  "link": "https://s.shopee.com.br/8AXnKEPxn1",
+  "link_site": "https://s.shopee.com.br/6AmiwYbuMS",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lz-mmu8tpqwsop001",
+  "destaque": true,
+  "criado": 1795131200
  }
 ]
