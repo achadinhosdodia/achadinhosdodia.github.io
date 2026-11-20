@@ -1,35 +1,5 @@
 [
  {
-  "id": "10898393830-1795095236",
-  "nicho": "eletronicos",
-  "titulo": "🎧 Achado Eletrônico",
-  "nome": "Mouse Pad Grande Couro Preto Feltro Costurado Básico",
-  "preco": 19.9,
-  "desconto": 50,
-  "nota": 4.8,
-  "vendas": 1205,
-  "link": "https://s.shopee.com.br/5LDbHrXgqC",
-  "link_site": "https://s.shopee.com.br/qlBvaokjf",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-22100-k1feuhysb5iv97",
-  "destaque": true,
-  "criado": 1795095237
- },
- {
-  "id": "29272224489-1795095254",
-  "nicho": "ferramentas",
-  "titulo": "🔧 Achado Ferramentas & Carro",
-  "nome": "10 Unidades De Adesivos Refletivos Super Brilhantes-Fita De Reflexão De Pára-Choque De Caminhão De Carro-Faixa De Aviso ",
-  "preco": 5.49,
-  "desconto": 80,
-  "nota": 4.9,
-  "vendas": 326,
-  "link": "https://s.shopee.com.br/9V3AFXYszn",
-  "link_site": "https://s.shopee.com.br/AUvhRNZXxS",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdvr-lzsugjsa99dj16",
-  "destaque": true,
-  "criado": 1795095255
- },
- {
   "id": "23297612465-1795100530",
   "nicho": "ferramentas",
   "titulo": "🔧 Achado Ferramentas & Carro",
@@ -898,5 +868,35 @@
   "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mi2p7t5gh536ee",
   "destaque": true,
   "criado": 1795208714
+ },
+ {
+  "id": "58265349938-1795212292",
+  "nicho": "moda",
+  "titulo": "👗 Achado de Moda",
+  "nome": "Papete Feminina Melzinha Duas Fivelas Solado Alto Tratorado Casual Confortável Moda Verão",
+  "preco": 29.9,
+  "desconto": 50,
+  "nota": 4.7,
+  "vendas": 3483,
+  "link": "https://s.shopee.com.br/1BO4UBWrgJ",
+  "link_site": "https://s.shopee.com.br/BVXILb9Zo",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-82587-mrbm8jriy13bea",
+  "destaque": true,
+  "criado": 1795212293
+ },
+ {
+  "id": "21697982542-1795212435",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "Saco Organizador 180L com Alça, à Prova de Poeira, Grande Capacidade para Colchas e Roupas Domésticas",
+  "preco": 24.44,
+  "desconto": 55,
+  "nota": 4.8,
+  "vendas": 829,
+  "link": "https://s.shopee.com.br/906vok8DVp",
+  "link_site": "https://s.shopee.com.br/4qHMr5S48q",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mmia0aqc09hi8f",
+  "destaque": true,
+  "criado": 1795212436
  }
 ]
