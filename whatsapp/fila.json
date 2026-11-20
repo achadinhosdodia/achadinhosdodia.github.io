@@ -1,20 +1,5 @@
 [
  {
-  "id": "58267312790-1795039524",
-  "nicho": "moda",
-  "titulo": "👗 Achado de Moda",
-  "nome": "Body Suplex Feminino Plissado Elegante Nova tendecia 2026",
-  "preco": 19.99,
-  "desconto": 50,
-  "nota": 4.9,
-  "vendas": 773,
-  "link": "https://s.shopee.com.br/4fxtSs500k",
-  "link_site": "https://s.shopee.com.br/2qWFHVGNW3",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-mtsrz3tp845c34",
-  "destaque": true,
-  "criado": 1795039525
- },
- {
   "id": "58251517799-1795042910",
   "nicho": "casa",
   "titulo": "🏠 Achado pra Casa",
@@ -898,5 +883,20 @@
   "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mhxbh6zu4c1t60",
   "destaque": true,
   "criado": 1795187166
+ },
+ {
+  "id": "58265715992-1795188716",
+  "nicho": "eletronicos",
+  "titulo": "🎧 Achado Eletrônico",
+  "nome": "Cabo USB-C para USB-C 240W PD 3.1 1,5m Nylon Trançado Reforçado com Suporte Dobrável 2 em 1",
+  "preco": 23.98,
+  "desconto": 52,
+  "nota": 4.8,
+  "vendas": 711,
+  "link": "https://s.shopee.com.br/gRnSHT1su",
+  "link_site": "https://s.shopee.com.br/BVWrMZOve",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820ln-ms2wrgl6ibd00d",
+  "destaque": true,
+  "criado": 1795188717
  }
 ]
