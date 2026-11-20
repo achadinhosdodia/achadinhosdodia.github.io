@@ -1,20 +1,5 @@
 [
  {
-  "id": "41278843530-1795089803",
-  "nicho": "moda",
-  "titulo": "👗 Achado de Moda",
-  "nome": "Boné Masculino Five Panel Bordado Malha para Masculino Feminino Praia Corrida Ciclismo Estilo Moda Uso Diário Chapéu",
-  "preco": 30.5,
-  "desconto": 67,
-  "nota": 4.9,
-  "vendas": 2122,
-  "link": "https://s.shopee.com.br/4LL3zo3gyO",
-  "link_site": "https://s.shopee.com.br/906tYNpyxZ",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260i-ml307tm5a5ms48",
-  "destaque": true,
-  "criado": 1795089804
- },
- {
   "id": "18873684638-1795089975",
   "nicho": "casa",
   "titulo": "🏠 Achado pra Casa",
@@ -898,5 +883,20 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-mudltdr28zk213",
   "destaque": true,
   "criado": 1795201535
+ },
+ {
+  "id": "58250774935-1795203141",
+  "nicho": "eletronicos",
+  "titulo": "🎧 Achado Eletrônico",
+  "nome": "SPOETRY Capa de Proteção para tablets iPad/Air Design Transparente Resistente a Quedas e Suporte Tri-Fold Dobrável",
+  "preco": 23.9,
+  "desconto": 63,
+  "nota": 4.9,
+  "vendas": 925,
+  "link": "https://s.shopee.com.br/80EOSGj1za",
+  "link_site": "https://s.shopee.com.br/7Kyhf2lZMp",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-mskzvvfo9b0k58",
+  "destaque": true,
+  "criado": 1795203142
  }
 ]
