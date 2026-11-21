@@ -1,20 +1,5 @@
 [
  {
-  "id": "18298549427-1795122445",
-  "nicho": "moda",
-  "titulo": "👗 Achado de Moda",
-  "nome": "Kit 2 ou 1 Tornozeleiras Ortopédica Compressão Estabilizadora Par Tornozeleira Ajustável Unissex",
-  "preco": 11.9,
-  "desconto": 85,
-  "nota": 4.9,
-  "vendas": 891,
-  "link": "https://s.shopee.com.br/2VtQPnU0MK",
-  "link_site": "https://s.shopee.com.br/2VtQPnU0MK",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-luqrss65efz9e3",
-  "destaque": true,
-  "criado": 1795122445
- },
- {
   "id": "41584717212-1795125717",
   "nicho": "casa",
   "titulo": "🏠 Achado pra Casa",
@@ -898,5 +883,20 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mqhklo0catj7ba",
   "destaque": true,
   "criado": 1795273708
+ },
+ {
+  "id": "58259704743-1795275146",
+  "nicho": "ferramentas",
+  "titulo": "🔧 Achado Ferramentas & Carro",
+  "nome": "Tapete de Papel Para Carro Premium Lava Rápido Lava Jato 110/220/330/440/550 Folhas Novas",
+  "preco": 21.9,
+  "desconto": 35,
+  "nota": 4.9,
+  "vendas": 334,
+  "link": "https://s.shopee.com.br/AUvklHDIEY",
+  "link_site": "https://s.shopee.com.br/qlFFVs0lK",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lr-mpxrhsgapybl87",
+  "destaque": true,
+  "criado": 1795275147
  }
 ]
