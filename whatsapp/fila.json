@@ -1,35 +1,5 @@
 [
  {
-  "id": "22098197301-1795179895",
-  "nicho": "casa",
-  "titulo": "🏠 Achado pra Casa",
-  "nome": "Tapete Antiderrapante Banheira Box Deck Piscina Premium Luxo IVALAR",
-  "preco": 43.2,
-  "desconto": 25,
-  "nota": 4.9,
-  "vendas": 464,
-  "link": "https://s.shopee.com.br/114dgnTmLA",
-  "link_site": "https://s.shopee.com.br/80EO1f7Wsq",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m5rxp05muj4gb8",
-  "destaque": true,
-  "criado": 1795179896
- },
- {
-  "id": "23292979767-1795179929",
-  "nicho": "eletronicos",
-  "titulo": "🎧 Achado Eletrônico",
-  "nome": "Balança Corporal Digital Banheiro Academia Crossfit Casa Suporta 180kg Vidro",
-  "preco": 38.8,
-  "desconto": 14,
-  "nota": 4.9,
-  "vendas": 1871,
-  "link": "https://s.shopee.com.br/AUvj0IJCeE",
-  "link_site": "https://s.shopee.com.br/7KyhETZnNJ",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lo-mty9uv0jhqmacc",
-  "destaque": true,
-  "criado": 1795179930
- },
- {
   "id": "42324757869-1795179984",
   "nicho": "beleza",
   "titulo": "💄 Achado de Beleza",
@@ -898,5 +868,35 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lz-mtymcpltukg38a",
   "destaque": true,
   "criado": 1795298654
+ },
+ {
+  "id": "23798221126-1795300297",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "6 Uni 8Mm Gancho De Parede Adesivo Multiuso Para Pendurar Quadros UtensíLios De Cozinha Banheiros Promoção",
+  "preco": 12.99,
+  "desconto": 43,
+  "nota": 4.8,
+  "vendas": 981,
+  "link": "https://s.shopee.com.br/30pkIHXPn3",
+  "link_site": "https://s.shopee.com.br/W8PJgh4OC",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj0ra3d88dtu00",
+  "destaque": true,
+  "criado": 1795300298
+ },
+ {
+  "id": "22194652188-1795300357",
+  "nicho": "eletronicos",
+  "titulo": "🎧 Achado Eletrônico",
+  "nome": "ORIGINAL - Caixa de som com Bluetooth, Led modelo Alexa DE UM APARELHO SUPER BASS",
+  "preco": 46.99,
+  "desconto": 76,
+  "nota": 4.7,
+  "vendas": 2173,
+  "link": "https://s.shopee.com.br/4fxyHPcJIT",
+  "link_site": "https://s.shopee.com.br/6q2SrOYwU6",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mga94n5gip6s74",
+  "destaque": true,
+  "criado": 1795300358
  }
 ]
