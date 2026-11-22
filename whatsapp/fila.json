@@ -1,35 +1,5 @@
 [
  {
-  "id": "58217778931-1795201534",
-  "nicho": "moda",
-  "titulo": "👗 Achado de Moda",
-  "nome": "Blusa Transpassada Feminina Plus Size com Ajuste Malha Fria do G1 ao G3 do 46 ao 56",
-  "preco": 34.99,
-  "desconto": 42,
-  "nota": 4.8,
-  "vendas": 3135,
-  "link": "https://s.shopee.com.br/1LhUUB295L",
-  "link_site": "https://s.shopee.com.br/1C6tjBU1y",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-mudltdr28zk213",
-  "destaque": true,
-  "criado": 1795201535
- },
- {
-  "id": "58250774935-1795203141",
-  "nicho": "eletronicos",
-  "titulo": "🎧 Achado Eletrônico",
-  "nome": "SPOETRY Capa de Proteção para tablets iPad/Air Design Transparente Resistente a Quedas e Suporte Tri-Fold Dobrável",
-  "preco": 23.9,
-  "desconto": 63,
-  "nota": 4.9,
-  "vendas": 925,
-  "link": "https://s.shopee.com.br/80EOSGj1za",
-  "link_site": "https://s.shopee.com.br/7Kyhf2lZMp",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-mskzvvfo9b0k58",
-  "destaque": true,
-  "criado": 1795203142
- },
- {
   "id": "58205032068-1795208537",
   "nicho": "casa",
   "titulo": "🏠 Achado pra Casa",
@@ -898,5 +868,35 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi1nykvl337m22",
   "destaque": true,
   "criado": 1795352781
+ },
+ {
+  "id": "51357135187-1795359738",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "Pano de Chão Microfibra 60x80cm Super Absorvente Não Solta Fiapos Seca Rápido KIT COM 3, 5 E 10!",
+  "preco": 30.9,
+  "desconto": 41,
+  "nota": 4.7,
+  "vendas": 3254,
+  "link": "https://s.shopee.com.br/AAIvvU91r4",
+  "link_site": "https://s.shopee.com.br/7KykYHOhCP",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lu-msoxkbd2c9ae53",
+  "destaque": true,
+  "criado": 1795359739
+ },
+ {
+  "id": "19997682897-1795359793",
+  "nicho": "eletronicos",
+  "titulo": "🎧 Achado Eletrônico",
+  "nome": "Tomada Dupla Usb De Parede Universal Bivolt 2.1a Celular 4x2 Cor Branco",
+  "preco": 19.9,
+  "desconto": 29,
+  "nota": 4.8,
+  "vendas": 883,
+  "link": "https://s.shopee.com.br/9V3F8K6250",
+  "link_site": "https://s.shopee.com.br/8pnYL6Cpee",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258b-mvn3edmkwbur64",
+  "destaque": true,
+  "criado": 1795359794
  }
 ]
