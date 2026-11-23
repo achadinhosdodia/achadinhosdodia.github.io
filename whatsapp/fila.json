@@ -1,20 +1,5 @@
 [
  {
-  "id": "58259704743-1795275146",
-  "nicho": "ferramentas",
-  "titulo": "🔧 Achado Ferramentas & Carro",
-  "nome": "Tapete de Papel Para Carro Premium Lava Rápido Lava Jato 110/220/330/440/550 Folhas Novas",
-  "preco": 21.9,
-  "desconto": 35,
-  "nota": 4.9,
-  "vendas": 334,
-  "link": "https://s.shopee.com.br/AUvklHDIEY",
-  "link_site": "https://s.shopee.com.br/qlFFVs0lK",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lr-mpxrhsgapybl87",
-  "destaque": true,
-  "criado": 1795275147
- },
- {
   "id": "41650193162-1795280529",
   "nicho": "casa",
   "titulo": "🏠 Achado pra Casa",
@@ -898,5 +883,20 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcd37d3fpfxcb2",
   "destaque": true,
   "criado": 1795435478
+ },
+ {
+  "id": "23598937208-1795437253",
+  "nicho": "moda",
+  "titulo": "👗 Achado de Moda",
+  "nome": "Kit 3 Bonés Liso Básico Adulto Aba Curva Masculino e Feminino Super Leve",
+  "preco": 28.99,
+  "desconto": 79,
+  "nota": 4.9,
+  "vendas": 1594,
+  "link": "https://s.shopee.com.br/9KjqMfz5YO",
+  "link_site": "https://s.shopee.com.br/40iK0sJWrT",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf648lnul7nrf5",
+  "destaque": true,
+  "criado": 1795437255
  }
 ]
