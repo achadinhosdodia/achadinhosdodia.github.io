@@ -1,20 +1,5 @@
 [
  {
-  "id": "58219196693-1795349138",
-  "nicho": "beleza",
-  "titulo": "💄 Achado de Beleza",
-  "nome": "Paleta de Maquiagem LOVÉ RAIN com Sombras Coloridas, Tons para o Rosto, Espelho e Aplicadores",
-  "preco": 44.99,
-  "desconto": 44,
-  "nota": 4.9,
-  "vendas": 717,
-  "link": "https://s.shopee.com.br/gRqPtWfF3",
-  "link_site": "https://s.shopee.com.br/9Kjojozffw",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lc-mtodwvxd3vnm4d",
-  "destaque": true,
-  "criado": 1795349139
- },
- {
   "id": "58262590034-1795349193",
   "nicho": "ferramentas",
   "titulo": "🔧 Achado Ferramentas & Carro",
@@ -898,5 +883,20 @@
   "imagem": "https://cf.shopee.com.br/file/sg-11134201-825aq-mth0cfdch4aq4c",
   "destaque": true,
   "criado": 1795471618
+ },
+ {
+  "id": "58267945593-1795473172",
+  "nicho": "beleza",
+  "titulo": "💄 Achado de Beleza",
+  "nome": "Espelho LED para Quebra-Sol de Carro 60 LEDs 3 Modos de Luz Recarregável Touch Branco Frio Quente",
+  "preco": 30.99,
+  "desconto": 61,
+  "nota": 4.9,
+  "vendas": 386,
+  "link": "https://s.shopee.com.br/W8SVYNmxs",
+  "link_site": "https://s.shopee.com.br/9zzXp0s9xQ",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259w-mszmwkzgbnk5b3",
+  "destaque": true,
+  "criado": 1795473173
  }
 ]
