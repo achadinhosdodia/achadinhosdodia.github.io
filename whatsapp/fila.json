@@ -1,20 +1,5 @@
 [
  {
-  "id": "58210080994-1795280719",
-  "nicho": "moda",
-  "titulo": "👗 Achado de Moda",
-  "nome": "Tênis Masculino Cadarço Elástico Sapatênis Meia Knit Couro Sintético Tecido",
-  "preco": 100.0,
-  "desconto": 50,
-  "nota": 4.6,
-  "vendas": 1775,
-  "link": "https://s.shopee.com.br/1qdmXjDuoS",
-  "link_site": "https://s.shopee.com.br/W8OxHNOFS",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lf-mnowkr27c54w02",
-  "destaque": true,
-  "criado": 1795280720
- },
- {
   "id": "22697063003-1795287731",
   "nicho": "casa",
   "titulo": "🏠 Achado pra Casa",
@@ -898,5 +883,20 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mtnxtahb632860",
   "destaque": true,
   "criado": 1795439172
+ },
+ {
+  "id": "22995004907-1795440737",
+  "nicho": "eletronicos",
+  "titulo": "🎧 Achado Eletrônico",
+  "nome": "Portátil Air Compressor 12v Power Bank Jump Starter Dispositivo De Partida Pneu Inflator Impulsionador De Emergência",
+  "preco": 161.99,
+  "desconto": 42,
+  "nota": 4.9,
+  "vendas": 1617,
+  "link": "https://s.shopee.com.br/9zzXDt6QNe",
+  "link_site": "https://s.shopee.com.br/8KrJEpHVqx",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-mpcoh85dnpxi1c",
+  "destaque": true,
+  "criado": 1795440738
  }
 ]
