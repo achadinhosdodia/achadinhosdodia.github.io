@@ -1,20 +1,5 @@
 [
  {
-  "id": "23497594302-1795287915",
-  "nicho": "moda",
-  "titulo": "👗 Achado de Moda",
-  "nome": "ROMANTIC CROWN Mochila de Viagem Expansível, Bolsa Executiva Notebook Masculina e Feminina Trabalho,Grande,Reforçada",
-  "preco": 99.98,
-  "desconto": 86,
-  "nota": 5.0,
-  "vendas": 3981,
-  "link": "https://s.shopee.com.br/70LspSYcHH",
-  "link_site": "https://s.shopee.com.br/7KyjE4bbr3",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820la-mu7g0m7pk9vl21",
-  "destaque": true,
-  "criado": 1795287916
- },
- {
   "id": "58204568514-1795294930",
   "nicho": "eletronicos",
   "titulo": "🎧 Achado Eletrônico",
@@ -898,5 +883,20 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820mb-msflyv48cmbo6c",
   "destaque": true,
   "criado": 1795446318
+ },
+ {
+  "id": "52852132925-1795448021",
+  "nicho": "eletronicos",
+  "titulo": "🎧 Achado Eletrônico",
+  "nome": "Fones De Ouvido De Condução Óssea Lenovo S106 E Fone Natação À Prova D'água IPX8 Com 32 Gb De Memória Bluetooth 6.0 plus",
+  "preco": 130.99,
+  "desconto": 61,
+  "nota": 4.9,
+  "vendas": 643,
+  "link": "https://s.shopee.com.br/7VICNd9trp",
+  "link_site": "https://s.shopee.com.br/Lp1qSfVv0",
+  "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mhk6dmrj4e8568",
+  "destaque": true,
+  "criado": 1795448022
  }
 ]
