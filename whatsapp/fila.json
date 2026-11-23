@@ -1,20 +1,5 @@
 [
  {
-  "id": "19104491895-1795302357",
-  "nicho": "eletronicos",
-  "titulo": "🎧 Achado Eletrônico",
-  "nome": "Mantenha A Organização Dos Fios Do Seu Escritório Com O Organizador De Cabos",
-  "preco": 7.37,
-  "desconto": 10,
-  "nota": 4.9,
-  "vendas": 823,
-  "link": "https://s.shopee.com.br/1gKMkBjVj5",
-  "link_site": "https://s.shopee.com.br/8VAgskJdMd",
-  "imagem": "https://cf.shopee.com.br/file/f300381984af2b2e85b29d18998d5556",
-  "destaque": true,
-  "criado": 1795302358
- },
- {
   "id": "23897884934-1795302376",
   "nicho": "beleza",
   "titulo": "💄 Achado de Beleza",
@@ -898,5 +883,20 @@
   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8261z-ml25b72c1ds21d",
   "destaque": true,
   "criado": 1795467970
+ },
+ {
+  "id": "58259607279-1795469674",
+  "nicho": "ferramentas",
+  "titulo": "🔧 Achado Ferramentas & Carro",
+  "nome": "Mangueira Mágica 3X Retrátil 15/30/45m TPE Anti-Vazamento com Esguicho 7 Modos para Jardim e Carro",
+  "preco": 49.99,
+  "desconto": 72,
+  "nota": 4.8,
+  "vendas": 321,
+  "link": "https://s.shopee.com.br/AKcO9cYCzw",
+  "link_site": "https://s.shopee.com.br/2gCx1X5rbx",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820ll-mniocwt34zk106",
+  "destaque": true,
+  "criado": 1795469675
  }
 ]
