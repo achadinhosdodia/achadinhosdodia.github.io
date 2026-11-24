@@ -1,35 +1,5 @@
 [
  {
-  "id": "13115907690-1795381293",
-  "nicho": "beleza",
-  "titulo": "💄 Achado de Beleza",
-  "nome": "Caneta Lapis Henna Efeito Microblading Sobrancelhas",
-  "preco": 10.99,
-  "desconto": 56,
-  "nota": 4.7,
-  "vendas": 563,
-  "link": "https://s.shopee.com.br/AKcMWSp3kf",
-  "link_site": "https://s.shopee.com.br/3qOsmWDny5",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lk-mr73sp9aheyvd0",
-  "destaque": true,
-  "criado": 1795381294
- },
- {
-  "id": "23592834117-1795381396",
-  "nicho": "moda",
-  "titulo": "👗 Achado de Moda",
-  "nome": "Kit 2 Joelheiras E Tornozeleira E Cotoveleira De Compressão Tensor Alívio De Dor No Joelho",
-  "preco": 21.98,
-  "desconto": 19,
-  "nota": 4.8,
-  "vendas": 1023,
-  "link": "https://s.shopee.com.br/9KjpKk7htJ",
-  "link_site": "https://s.shopee.com.br/AUvmit7Fic",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rcck-lrhrspn9jqwo4d",
-  "destaque": true,
-  "criado": 1795381397
- },
- {
   "id": "58220901761-1795381524",
   "nicho": "casa",
   "titulo": "🏠 Achado pra Casa",
@@ -898,5 +868,35 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134211-820lr-mt5p80nbve2uf0",
   "destaque": true,
   "criado": 1795532834
+ },
+ {
+  "id": "58250795411-1795534327",
+  "nicho": "premium",
+  "titulo": "💎 Oferta Premium",
+  "nome": "Controle para Xbox Sem Fio Carbon Black",
+  "preco": 355.99,
+  "desconto": 41,
+  "nota": 4.9,
+  "vendas": 556,
+  "link": "https://s.shopee.com.br/7VIDyPmIOc",
+  "link_site": "https://s.shopee.com.br/7Kynm6n03r",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8227k-mhbyfm4j0jygfb",
+  "destaque": true,
+  "criado": 1795534328
+ },
+ {
+  "id": "18066953673-1795534347",
+  "nicho": "beleza",
+  "titulo": "💄 Achado de Beleza",
+  "nome": "Xuxinhas 7cm Elástico De Cabelo Kit 2/6pçs Com Pompom Xuxinha Para Meninas",
+  "preco": 7.96,
+  "desconto": 33,
+  "nota": 4.9,
+  "vendas": 973,
+  "link": "https://s.shopee.com.br/5fqZn4Es34",
+  "link_site": "https://s.shopee.com.br/8KrKxy97M6",
+  "imagem": "https://cf.shopee.com.br/file/br-11134201-22120-s3yo21d20pkv1c",
+  "destaque": true,
+  "criado": 1795534348
  }
 ]
