@@ -1,20 +1,5 @@
 [
  {
-  "id": "23194899642-1795367099",
-  "nicho": "moda",
-  "titulo": "👗 Achado de Moda",
-  "nome": "Sandália Rasteirinha Papete Feminina com Brilho Estilizado Conforto Elegância Fabricação Própria Envio Em 24 Horas",
-  "preco": 29.94,
-  "desconto": 50,
-  "nota": 4.8,
-  "vendas": 1041,
-  "link": "https://s.shopee.com.br/3qOsWGtSoI",
-  "link_site": "https://s.shopee.com.br/4fxzVnv2Bg",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820md-mok0o12x8b9c1e",
-  "destaque": true,
-  "criado": 1795367100
- },
- {
   "id": "23297979513-1795374174",
   "nicho": "beleza",
   "titulo": "💄 Achado de Beleza",
@@ -898,5 +883,20 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lyd23xws1jhh1e",
   "destaque": true,
   "criado": 1795525535
+ },
+ {
+  "id": "22594976978-1795527123",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "Kit Organizador Com Bandeja MDF Luxo Efeito Palha Decoração Banheiro Casa Escritorio Multiuso",
+  "preco": 34.99,
+  "desconto": 30,
+  "nota": 4.8,
+  "vendas": 1939,
+  "link": "https://s.shopee.com.br/2VtXsynMWh",
+  "link_site": "https://s.shopee.com.br/7KyndrZQjZ",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820ld-mulgim5q6fwjb3",
+  "destaque": true,
+  "criado": 1795527124
  }
 ]
