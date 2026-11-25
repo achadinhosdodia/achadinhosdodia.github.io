@@ -1,35 +1,5 @@
 [
  {
-  "id": "58251774776-1795460799",
-  "nicho": "casa",
-  "titulo": "🏠 Achado pra Casa",
-  "nome": "Copo Térmico de Cafe 450 ml Inox com Display Digital Tampa Trava Mantém Bebidas Quentes ou Frias",
-  "preco": 23.98,
-  "desconto": 73,
-  "nota": 4.9,
-  "vendas": 2030,
-  "link": "https://s.shopee.com.br/6Amp1nvlDw",
-  "link_site": "https://s.shopee.com.br/6Amp1nvlDw",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi7iih3jc1z67e",
-  "destaque": true,
-  "criado": 1795460799
- },
- {
-  "id": "58267416442-1795467773",
-  "nicho": "moda",
-  "titulo": "👗 Achado de Moda",
-  "nome": "Regata Feminina Poá Suplex Alça Fina com Forro Franzida Justa Decote Reto Moda Verão",
-  "preco": 30.9,
-  "desconto": 23,
-  "nota": 4.8,
-  "vendas": 2277,
-  "link": "https://s.shopee.com.br/8VAjw4pnBd",
-  "link_site": "https://s.shopee.com.br/7VICkEt7PB",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-mte6e1h80qv506",
-  "destaque": true,
-  "criado": 1795467774
- },
- {
   "id": "23793087872-1795467915",
   "nicho": "casa",
   "titulo": "🏠 Achado pra Casa",
@@ -898,5 +868,35 @@
   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259k-mv6p2y94whdx2e",
   "destaque": true,
   "criado": 1795613659
+ },
+ {
+  "id": "22299321807-1795619087",
+  "nicho": "moda",
+  "titulo": "👗 Achado de Moda",
+  "nome": "Kit com 24 Meias Vários Modelos Econômico Algodão",
+  "preco": 30.55,
+  "desconto": 44,
+  "nota": 4.7,
+  "vendas": 5719,
+  "link": "https://s.shopee.com.br/AKcQudIwsA",
+  "link_site": "https://s.shopee.com.br/AKcQudIwsA",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcbj0hdid3ajec",
+  "destaque": true,
+  "criado": 1795619087
+ },
+ {
+  "id": "18011117779-1795619230",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "Suporte Porta Papel Higiênico Preto Duplo Acoplada Aço Preto",
+  "preco": 10.79,
+  "desconto": 17,
+  "nota": 4.7,
+  "vendas": 1021,
+  "link": "https://s.shopee.com.br/4fy4ANnc0q",
+  "link_site": "https://s.shopee.com.br/4fy4ANnc0q",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1g50st5alsh7f",
+  "destaque": true,
+  "criado": 1795619230
  }
 ]
