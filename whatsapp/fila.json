@@ -1,20 +1,5 @@
 [
  {
-  "id": "48359011949-1795471538",
-  "nicho": "eletronicos",
-  "titulo": "🎧 Achado Eletrônico",
-  "nome": "Carregador Portátil grande 50000mah/30000mah/2000mah/10000mah Turbo 22,5W PD carregamento ultrarrápido",
-  "preco": 54.99,
-  "desconto": 68,
-  "nota": 4.9,
-  "vendas": 1208,
-  "link": "https://s.shopee.com.br/5VX8Qs2s33",
-  "link_site": "https://s.shopee.com.br/5VX8Qs2s33",
-  "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mtezaucha6f849",
-  "destaque": true,
-  "criado": 1795471538
- },
- {
   "id": "58218182939-1795471618",
   "nicho": "ferramentas",
   "titulo": "🔧 Achado Ferramentas & Carro",
@@ -898,5 +883,20 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-ltdvpz5dy0an19",
   "destaque": true,
   "criado": 1795626262
+ },
+ {
+  "id": "48954595405-1795627924",
+  "nicho": "beleza",
+  "titulo": "💄 Achado de Beleza",
+  "nome": "Paleta de Sombras Dear Diary linha Blow - Ruby Rose",
+  "preco": 54.98,
+  "desconto": 30,
+  "nota": 4.9,
+  "vendas": 304,
+  "link": "https://s.shopee.com.br/2qWQ8y07uS",
+  "link_site": "https://s.shopee.com.br/8VAmtNey4V",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8262p-mjelxrze17ur9c",
+  "destaque": true,
+  "criado": 1795627925
  }
 ]
