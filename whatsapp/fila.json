@@ -1,20 +1,5 @@
 [
  {
-  "id": "25973790429-1795475068",
-  "nicho": "eletronicos",
-  "titulo": "🎧 Achado Eletrônico",
-  "nome": "Kingston 16GB 32GB 64GB Micro SDHC 80MB/s TF Tela Selecione Cartão De Memória Classe 10",
-  "preco": 25.09,
-  "desconto": 81,
-  "nota": 4.7,
-  "vendas": 772,
-  "link": "https://s.shopee.com.br/3LSduvkWWz",
-  "link_site": "https://s.shopee.com.br/BVc971K2b",
-  "imagem": "https://cf.shopee.com.br/file/39656fbfcaf08c6935a33390267d951f",
-  "destaque": true,
-  "criado": 1795475069
- },
- {
   "id": "58208330525-1795475087",
   "nicho": "beleza",
   "titulo": "💄 Achado de Beleza",
@@ -898,5 +883,20 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lc-mqxnk0y6lptz40",
   "destaque": true,
   "criado": 1795633553
+ },
+ {
+  "id": "23094699741-1795635219",
+  "nicho": "eletronicos",
+  "titulo": "🎧 Achado Eletrônico",
+  "nome": "Câmera Segurança Lâmpada Wifi Full HD Sem Fio 360 Icsee/Yoosee Visão Noturna 8177 EKS",
+  "preco": 58.99,
+  "desconto": 41,
+  "nota": 4.9,
+  "vendas": 2576,
+  "link": "https://s.shopee.com.br/5VXBSDRvnn",
+  "link_site": "https://s.shopee.com.br/1LhcUYlmRp",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8227r-mhhsrii405j733",
+  "destaque": true,
+  "criado": 1795635220
  }
 ]
