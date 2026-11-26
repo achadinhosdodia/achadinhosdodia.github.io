@@ -1,20 +1,5 @@
 [
  {
-  "id": "23892580736-1795608179",
-  "nicho": "eletronicos",
-  "titulo": "🎧 Achado Eletrônico",
-  "nome": "Campainha Residencial, Sem Fio, Design Elegante",
-  "preco": 19.99,
-  "desconto": 60,
-  "nota": 4.8,
-  "vendas": 1334,
-  "link": "https://s.shopee.com.br/80EVvrRct6",
-  "link_site": "https://s.shopee.com.br/20xImptLeM",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lsvdpxb3xdzh49",
-  "destaque": true,
-  "criado": 1795608180
- },
- {
   "id": "45469547141-1795608234",
   "nicho": "beleza",
   "titulo": "💄 Achado de Beleza",
@@ -898,5 +883,20 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mny4570pewaq9d",
   "destaque": true,
   "criado": 1795732474
+ },
+ {
+  "id": "15251140668-1795734411",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "Mochila Térmica Delivery 45L com Isopor Laminado Motoboy Pizza Marmita Bag Aplicativo Entrega Food App",
+  "preco": 139.99,
+  "desconto": 18,
+  "nota": 4.9,
+  "vendas": 636,
+  "link": "https://s.shopee.com.br/4fy6IDTWRr",
+  "link_site": "https://s.shopee.com.br/9075SBHQPo",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-moq8wn66qmth85",
+  "destaque": true,
+  "criado": 1795734412
  }
 ]
