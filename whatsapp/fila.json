@@ -1,35 +1,5 @@
 [
  {
-  "id": "45469547141-1795608234",
-  "nicho": "beleza",
-  "titulo": "💄 Achado de Beleza",
-  "nome": "Bastão Iluminador SACE LADY Textura Gelada Brilho Radiante Longa Duração Maquiagem",
-  "preco": 58.99,
-  "desconto": 54,
-  "nota": 4.9,
-  "vendas": 369,
-  "link": "https://s.shopee.com.br/40iNAZbJpo",
-  "link_site": "https://s.shopee.com.br/80EVvvQLx7",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820l7-mv5gkgvkan7lad",
-  "destaque": true,
-  "criado": 1795608235
- },
- {
-  "id": "22094069643-1795608339",
-  "nicho": "moda",
-  "titulo": "👗 Achado de Moda",
-  "nome": "Vestido Midi 100%  Algodão com bolsos - Confortável, Casual, Dia a Dia, Versátil.",
-  "preco": 36.99,
-  "desconto": 75,
-  "nota": 4.8,
-  "vendas": 2563,
-  "link": "https://s.shopee.com.br/70LykCrry4",
-  "link_site": "https://s.shopee.com.br/5qA1M40dmn",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mabc3ibg01vd7b",
-  "destaque": true,
-  "criado": 1795608340
- },
- {
   "id": "53460970428-1795611741",
   "nicho": "beleza",
   "titulo": "💄 Achado de Beleza",
@@ -898,5 +868,35 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-moq8wn66qmth85",
   "destaque": true,
   "criado": 1795734412
+ },
+ {
+  "id": "22598961963-1795735900",
+  "nicho": "beleza",
+  "titulo": "💄 Achado de Beleza",
+  "nome": "Rolo Gelo Massageador Facial Refrescante Contra Inchaço, Olheiras Rosto Pescoço Limpos Beleza Skincare",
+  "preco": 8.1,
+  "desconto": 87,
+  "nota": 4.8,
+  "vendas": 314,
+  "link": "https://s.shopee.com.br/1CGlLVLgC",
+  "link_site": "https://s.shopee.com.br/9V3M4nv2uK",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-moskq7573h1i3b",
+  "destaque": true,
+  "criado": 1795735901
+ },
+ {
+  "id": "51608508182-1795736019",
+  "nicho": "moda",
+  "titulo": "👗 Achado de Moda",
+  "nome": "Macacão Feminino Longo Regata Pantalona Com Bolsos Social Luxo",
+  "preco": 58.9,
+  "desconto": 71,
+  "nota": 4.9,
+  "vendas": 2760,
+  "link": "https://s.shopee.com.br/8pnfHiKt7Z",
+  "link_site": "https://s.shopee.com.br/9AQVgKJ8eI",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lr-mn04hnv8ag3odb",
+  "destaque": true,
+  "criado": 1795736020
  }
 ]
