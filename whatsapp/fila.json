@@ -1,35 +1,5 @@
 [
  {
-  "id": "58263826125-1795561553",
-  "nicho": "ferramentas",
-  "titulo": "🔧 Achado Ferramentas & Carro",
-  "nome": "Suporte p/ celular guidão Moto com Viseira Solar para Motocicletas e Bicicletas Proteção contra Sol e Chuva",
-  "preco": 34.99,
-  "desconto": 56,
-  "nota": 4.8,
-  "vendas": 479,
-  "link": "https://s.shopee.com.br/5fqaICmr6S",
-  "link_site": "https://s.shopee.com.br/5fqaICmr6S",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820la-mqddxkdndnnn28",
-  "destaque": true,
-  "criado": 1795561553
- },
- {
-  "id": "53064516146-1795561612",
-  "nicho": "moda",
-  "titulo": "👗 Achado de Moda",
-  "nome": "Tênis De Corrida Masculino Qiaodan TG 2.0 SE Almofada Rocker Grossa Leve Treinamento De Longa Distância LEILI",
-  "preco": 328.0,
-  "desconto": 47,
-  "nota": 5.0,
-  "vendas": 1190,
-  "link": "https://s.shopee.com.br/2BGi7qC6gA",
-  "link_site": "https://s.shopee.com.br/2BGi7qC6gA",
-  "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mvlg06wm60w3ec",
-  "destaque": true,
-  "criado": 1795561612
- },
- {
   "id": "23892379352-1795608121",
   "nicho": "casa",
   "titulo": "🏠 Achado pra Casa",
@@ -898,5 +868,35 @@
   "imagem": "https://cf.shopee.com.br/file/sg-11134253-8258p-mqe2o5tp7kelac",
   "destaque": true,
   "criado": 1795727150
+ },
+ {
+  "id": "8317450563-1795730649",
+  "nicho": "beleza",
+  "titulo": "💄 Achado de Beleza",
+  "nome": "Kit Todo Em Cetim anti frizz +Toca Dormir +Difusora +Fronha +brinde",
+  "preco": 20.0,
+  "desconto": 50,
+  "nota": 4.7,
+  "vendas": 529,
+  "link": "https://s.shopee.com.br/5LDn18PG2n",
+  "link_site": "https://s.shopee.com.br/5LDn18PG2n",
+  "imagem": "https://cf.shopee.com.br/file/42c17f9407cb5a727ea9cfd8f2cf2990",
+  "destaque": true,
+  "criado": 1795730649
+ },
+ {
+  "id": "45168654240-1795730745",
+  "nicho": "moda",
+  "titulo": "👗 Achado de Moda",
+  "nome": "Kit 4 Pulseiras Folheadas a Prata | Riviera, Laminada, Coração e Bolinha Cristal | Delicadas e Ajustáveis",
+  "preco": 18.99,
+  "desconto": 24,
+  "nota": 4.9,
+  "vendas": 1020,
+  "link": "https://s.shopee.com.br/40iPQnN6eM",
+  "link_site": "https://s.shopee.com.br/40iPQnN6eM",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lk-mtrid5h6ccg130",
+  "destaque": true,
+  "criado": 1795730745
  }
 ]
