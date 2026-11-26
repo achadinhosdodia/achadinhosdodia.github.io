@@ -1,35 +1,5 @@
 [
  {
-  "id": "23997602354-1795557861",
-  "nicho": "eletronicos",
-  "titulo": "🎧 Achado Eletrônico",
-  "nome": "Pilha Recarregável AA Pequena Duracell Com 4 Unidades",
-  "preco": 109.9,
-  "desconto": 40,
-  "nota": 4.9,
-  "vendas": 528,
-  "link": "https://s.shopee.com.br/114kfP9GHj",
-  "link_site": "https://s.shopee.com.br/3qOw2c3Huu",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf9safvn4kjqe7",
-  "destaque": true,
-  "criado": 1795557862
- },
- {
-  "id": "28719742294-1795557897",
-  "nicho": "beleza",
-  "titulo": "💄 Achado de Beleza",
-  "nome": "【Compre 3 e Ganhe 3 Grátis】1Pcs Adesivos De Unhas 3d De Borboleta, Acessórios De Decoração De Unhas Diy",
-  "preco": 1.98,
-  "desconto": 88,
-  "nota": 4.9,
-  "vendas": 2793,
-  "link": "https://s.shopee.com.br/114kfRhzmi",
-  "link_site": "https://s.shopee.com.br/6fj7PrQxaE",
-  "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mqts82essjyn96",
-  "destaque": true,
-  "criado": 1795557898
- },
- {
   "id": "58213430682-1795558004",
   "nicho": "moda",
   "titulo": "👗 Achado de Moda",
@@ -898,5 +868,35 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820l7-mtrl4s3ezvgia6",
   "destaque": true,
   "criado": 1795720069
+ },
+ {
+  "id": "58219781728-1795721596",
+  "nicho": "eletronicos",
+  "titulo": "🎧 Achado Eletrônico",
+  "nome": "Tomada Inteligente Wi-Fi 16A Tuya Smart Life Controle via App Timer Alexa Google Assistant",
+  "preco": 36.99,
+  "desconto": 67,
+  "nota": 4.9,
+  "vendas": 325,
+  "link": "https://s.shopee.com.br/5AuMeT7dDw",
+  "link_site": "https://s.shopee.com.br/6AmtqJ4Eml",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820ln-mty1jm8qzp4wcf",
+  "destaque": true,
+  "criado": 1795721597
+ },
+ {
+  "id": "58269806899-1795721641",
+  "nicho": "ferramentas",
+  "titulo": "🔧 Achado Ferramentas & Carro",
+  "nome": "Chaveiro Teste Identificador de Tomada Voltagem 110/220 Mini Testador Prático Seguro Eletrecidade",
+  "preco": 12.89,
+  "desconto": 35,
+  "nota": 4.9,
+  "vendas": 303,
+  "link": "https://s.shopee.com.br/1BODtAUrMX",
+  "link_site": "https://s.shopee.com.br/9V3LoU37dy",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lu-mtyc2akjifwj9c",
+  "destaque": true,
+  "criado": 1795721642
  }
 ]
