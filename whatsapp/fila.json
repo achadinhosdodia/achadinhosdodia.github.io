@@ -1,35 +1,5 @@
 [
  {
-  "id": "58217757456-1795539992",
-  "nicho": "casa",
-  "titulo": "🏠 Achado pra Casa",
-  "nome": "Kit 12/24/36/48 Laços Natalinos Vermelho ou Dourado Enfeite para Árvore Guirlanda Decoração de Natal",
-  "preco": 10.92,
-  "desconto": 48,
-  "nota": 4.9,
-  "vendas": 1764,
-  "link": "https://s.shopee.com.br/AKcPS6XAW2",
-  "link_site": "https://s.shopee.com.br/AKcPS6XAW2",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-825av-msvri1mxrk7b59",
-  "destaque": true,
-  "criado": 1795539992
- },
- {
-  "id": "15164414822-1795540047",
-  "nicho": "eletronicos",
-  "titulo": "🎧 Achado Eletrônico",
-  "nome": "Receptor Bluetooth P2 para Som Automotivo USB (3,5mm)",
-  "preco": 11.99,
-  "desconto": 29,
-  "nota": 4.7,
-  "vendas": 471,
-  "link": "https://s.shopee.com.br/8pnbfPSoAU",
-  "link_site": "https://s.shopee.com.br/8pnbfPSoAU",
-  "imagem": "https://cf.shopee.com.br/file/a98e556ee128ef5b4859ac69a7b64113",
-  "destaque": true,
-  "criado": 1795540047
- },
- {
   "id": "54950256628-1795546991",
   "nicho": "moda",
   "titulo": "👗 Achado de Moda",
@@ -898,5 +868,35 @@
   "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rd4v-m7abqt56avkoa2",
   "destaque": true,
   "criado": 1795698417
+ },
+ {
+  "id": "20998322759-1795705378",
+  "nicho": "moda",
+  "titulo": "👗 Achado de Moda",
+  "nome": "Bolsa Primeiro Socorros Pochete de Cinto Acloplável 800D Mochila De Nylon Para Exterior",
+  "preco": 29.96,
+  "desconto": 70,
+  "nota": 4.9,
+  "vendas": 759,
+  "link": "https://s.shopee.com.br/2VtbB0L6M8",
+  "link_site": "https://s.shopee.com.br/6fjA8f9m9C",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfo3hg00jc3r8e",
+  "destaque": true,
+  "criado": 1795705379
+ },
+ {
+  "id": "58254601572-1795705515",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "Garrafa Modus Térmica 1000ml Aço Inoxidável Com Alça Paracord Garrafa Térmica Café",
+  "preco": 59.99,
+  "desconto": 67,
+  "nota": 5.0,
+  "vendas": 2458,
+  "link": "https://s.shopee.com.br/4B1pAE1z9O",
+  "link_site": "https://s.shopee.com.br/2BGkmY9fXC",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6ryvmadhah3fb",
+  "destaque": true,
+  "criado": 1795705516
  }
 ]
