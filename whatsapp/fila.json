@@ -1,35 +1,5 @@
 [
  {
-  "id": "23194697110-1795647696",
-  "nicho": "casa",
-  "titulo": "🏠 Achado pra Casa",
-  "nome": "Kit 5/10/20 Ganchos Adesivos Parede Universais Autocolante Cozinha Quarto Banheiro Multi Organizador",
-  "preco": 13.99,
-  "desconto": 39,
-  "nota": 4.8,
-  "vendas": 2357,
-  "link": "https://s.shopee.com.br/gRvvcDwZU",
-  "link_site": "https://s.shopee.com.br/1qdtJl99vd",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-825av-mtlpwxho5jwj07",
-  "destaque": true,
-  "criado": 1795647697
- },
- {
-  "id": "25634365902-1795647804",
-  "nicho": "beleza",
-  "titulo": "💄 Achado de Beleza",
-  "nome": "Corretivo De Três Cores : Cobre Poros , Manchas E Olheiras",
-  "preco": 12.68,
-  "desconto": 18,
-  "nota": 4.8,
-  "vendas": 1697,
-  "link": "https://s.shopee.com.br/Lp5X7q7WX",
-  "link_site": "https://s.shopee.com.br/9pgAqaKHkD",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-823ot-mp4n78bwykgdb0",
-  "destaque": true,
-  "criado": 1795647805
- },
- {
   "id": "58219031208-1795647913",
   "nicho": "moda",
   "titulo": "👗 Achado de Moda",
@@ -898,5 +868,35 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820m4-mpm90m0mxfr468",
   "destaque": true,
   "criado": 1795817261
+ },
+ {
+  "id": "20299192099-1795818849",
+  "nicho": "eletronicos",
+  "titulo": "🎧 Achado Eletrônico",
+  "nome": "Kit 2 Pilhas Aa Recarregável 750mwh Genai Tipo C 1.5v 5v",
+  "preco": 39.03,
+  "desconto": 14,
+  "nota": 4.9,
+  "vendas": 432,
+  "link": "https://s.shopee.com.br/7AfSpSOHEu",
+  "link_site": "https://s.shopee.com.br/8fUGcDIUwN",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rce5-lqt5w4kj9u471d",
+  "destaque": true,
+  "criado": 1795818850
+ },
+ {
+  "id": "58208436902-1795818904",
+  "nicho": "ferramentas",
+  "titulo": "🔧 Achado Ferramentas & Carro",
+  "nome": "Chave inglesa 8 em 1 para canos de água, chave para pia e torneira, ferramentas de reparo",
+  "preco": 15.88,
+  "desconto": 47,
+  "nota": 4.9,
+  "vendas": 375,
+  "link": "https://s.shopee.com.br/40iR3hPqfT",
+  "link_site": "https://s.shopee.com.br/W8YtGhZZl",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zv3-mmt0el8duqrl14",
+  "destaque": true,
+  "criado": 1795818905
  }
 ]
