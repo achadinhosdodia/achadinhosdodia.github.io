@@ -1,20 +1,5 @@
 [
  {
-  "id": "53007685189-1795694551",
-  "nicho": "beleza",
-  "titulo": "💄 Achado de Beleza",
-  "nome": "TOYADENT® Pasta de dente iluminadora óptica ultravioleta 90g | Certo triplo da segurança da proteção da goma do fluoreto",
-  "preco": 19.9,
-  "desconto": 60,
-  "nota": 4.8,
-  "vendas": 1356,
-  "link": "https://s.shopee.com.br/6fj9wGptNW",
-  "link_site": "https://s.shopee.com.br/1BODOAApY2",
-  "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mm9x0jrjopvza8",
-  "destaque": true,
-  "criado": 1795694552
- },
- {
   "id": "49018546471-1795694605",
   "nicho": "ferramentas",
   "titulo": "🔧 Achado Ferramentas & Carro",
@@ -898,5 +883,20 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-mtdyn13q445cbb",
   "destaque": true,
   "criado": 1795820782
+ },
+ {
+  "id": "22694704494-1795822365",
+  "nicho": "eletronicos",
+  "titulo": "🎧 Achado Eletrônico",
+  "nome": "Controle Remoto Universal Para Tv Box 4K BOA-3025",
+  "preco": 11.99,
+  "desconto": 43,
+  "nota": 4.9,
+  "vendas": 991,
+  "link": "https://s.shopee.com.br/1LhfwlBM8T",
+  "link_site": "https://s.shopee.com.br/7Kyt5moAh6",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh97fy3hzuv419",
+  "destaque": true,
+  "criado": 1795822366
  }
 ]
