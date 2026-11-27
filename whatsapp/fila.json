@@ -1,35 +1,5 @@
 [
  {
-  "id": "18011117779-1795619230",
-  "nicho": "casa",
-  "titulo": "🏠 Achado pra Casa",
-  "nome": "Suporte Porta Papel Higiênico Preto Duplo Acoplada Aço Preto",
-  "preco": 10.79,
-  "desconto": 17,
-  "nota": 4.7,
-  "vendas": 1021,
-  "link": "https://s.shopee.com.br/4fy4ANnc0q",
-  "link_site": "https://s.shopee.com.br/4fy4ANnc0q",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1g50st5alsh7f",
-  "destaque": true,
-  "criado": 1795619230
- },
- {
-  "id": "58262721299-1795620761",
-  "nicho": "beleza",
-  "titulo": "💄 Achado de Beleza",
-  "nome": "Leave-In L'Oréal Paris Elseve Reparação Total 5 Cicatri Renov 100ml",
-  "preco": 31.9,
-  "desconto": 26,
-  "nota": 4.9,
-  "vendas": 790,
-  "link": "https://s.shopee.com.br/3Vm6nza0ck",
-  "link_site": "https://s.shopee.com.br/4B1nbDcDLy",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mpl9vzb89tz781",
-  "destaque": true,
-  "criado": 1795620762
- },
- {
   "id": "23994614519-1795620805",
   "nicho": "ferramentas",
   "titulo": "🔧 Achado Ferramentas & Carro",
@@ -898,5 +868,35 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m14cqof2tpqobc",
   "destaque": true,
   "criado": 1795784875
+ },
+ {
+  "id": "19044723152-1795791702",
+  "nicho": "moda",
+  "titulo": "👗 Achado de Moda",
+  "nome": "Sapato Social Masculino Confortável Elegante com Carteira Cinto e Relógio DIRETO DA FÁBRICA",
+  "preco": 59.9,
+  "desconto": 48,
+  "nota": 4.8,
+  "vendas": 2020,
+  "link": "https://s.shopee.com.br/20xMAtGnkb",
+  "link_site": "https://s.shopee.com.br/9KjwuMoP03",
+  "imagem": "https://cf.shopee.com.br/file/f9ef4adba7d0bcfcfa9f6fd7e2d48af2",
+  "destaque": true,
+  "criado": 1795791703
+ },
+ {
+  "id": "20598032089-1795791918",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "Kit Toalhas de Banho Estampada Grande 140x70cm Felpuda Macia Alta Qualidade Bordada Sortida",
+  "preco": 39.9,
+  "desconto": 51,
+  "nota": 4.9,
+  "vendas": 5201,
+  "link": "https://s.shopee.com.br/5LDo9GFVsC",
+  "link_site": "https://s.shopee.com.br/5LDo9GFVsC",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rd5n-m6prf8yc7moi8e",
+  "destaque": true,
+  "criado": 1795791918
  }
 ]
