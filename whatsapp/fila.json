@@ -1,20 +1,5 @@
 [
  {
-  "id": "23094699741-1795635219",
-  "nicho": "eletronicos",
-  "titulo": "🎧 Achado Eletrônico",
-  "nome": "Câmera Segurança Lâmpada Wifi Full HD Sem Fio 360 Icsee/Yoosee Visão Noturna 8177 EKS",
-  "preco": 58.99,
-  "desconto": 41,
-  "nota": 4.9,
-  "vendas": 2576,
-  "link": "https://s.shopee.com.br/5VXBSDRvnn",
-  "link_site": "https://s.shopee.com.br/1LhcUYlmRp",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8227r-mhhsrii405j733",
-  "destaque": true,
-  "criado": 1795635220
- },
- {
   "id": "19697980846-1795640669",
   "nicho": "casa",
   "titulo": "🏠 Achado pra Casa",
@@ -898,5 +883,20 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lr0qjehmneod42",
   "destaque": true,
   "criado": 1795806356
+ },
+ {
+  "id": "47516598879-1795807920",
+  "nicho": "beleza",
+  "titulo": "💄 Achado de Beleza",
+  "nome": "Difusor de Porcelana Via Aroma + Pastilhas Aromáticas Wax Melts Aromáticos",
+  "preco": 48.69,
+  "desconto": 41,
+  "nota": 4.9,
+  "vendas": 741,
+  "link": "https://s.shopee.com.br/5qA52UqR3C",
+  "link_site": "https://s.shopee.com.br/7pv9QAn9W2",
+  "imagem": "https://cf.shopee.com.br/file/br-11134201-820la-mv52j09daadfb1",
+  "destaque": true,
+  "criado": 1795807921
  }
 ]
