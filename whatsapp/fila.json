@@ -1,35 +1,5 @@
 [
  {
-  "id": "23399440017-1795633448",
-  "nicho": "casa",
-  "titulo": "🏠 Achado pra Casa",
-  "nome": "Kit 2PCS Faca de Frutas Faca Cutelo Churrasco Carne de Cozinha Faca para Cortar Churrasco Com Bainha",
-  "preco": 11.96,
-  "desconto": 63,
-  "nota": 4.8,
-  "vendas": 11710,
-  "link": "https://s.shopee.com.br/4LLE22qP23",
-  "link_site": "https://s.shopee.com.br/W8VT09ObG",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mndemjg286bl5b",
-  "destaque": true,
-  "criado": 1795633449
- },
- {
-  "id": "23891397035-1795633552",
-  "nicho": "beleza",
-  "titulo": "💄 Achado de Beleza",
-  "nome": "Esmalte Gel Liner Art  Kit com 2 e 4 unidades ( dourado/prata/preto/branco)  PARA UNHAS",
-  "preco": 23.99,
-  "desconto": 10,
-  "nota": 4.9,
-  "vendas": 1655,
-  "link": "https://s.shopee.com.br/7pv6Cb0ibC",
-  "link_site": "https://s.shopee.com.br/6fj8oS4kOM",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lc-mqxnk0y6lptz40",
-  "destaque": true,
-  "criado": 1795633553
- },
- {
   "id": "23094699741-1795635219",
   "nicho": "eletronicos",
   "titulo": "🎧 Achado Eletrônico",
@@ -898,5 +868,35 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lc-msevj20xfzt0d8",
   "destaque": true,
   "criado": 1795799192
+ },
+ {
+  "id": "23999661569-1795806140",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "Kit Dosador Creatina 3g 4g 5g 6g Com Nivelador Colher Medidora Precisão Scoop Suplemento Fitness",
+  "preco": 12.37,
+  "desconto": 75,
+  "nota": 4.9,
+  "vendas": 310,
+  "link": "https://s.shopee.com.br/8KrPz3MwGs",
+  "link_site": "https://s.shopee.com.br/AAJ4AQKltW",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m1-mt1906u3x24k1c",
+  "destaque": true,
+  "criado": 1795806141
+ },
+ {
+  "id": "19597616878-1795806355",
+  "nicho": "moda",
+  "titulo": "👗 Achado de Moda",
+  "nome": "Kit 12 Pares de Brincos Pequeno Feminino lolibiju",
+  "preco": 10.0,
+  "desconto": 33,
+  "nota": 4.6,
+  "vendas": 1860,
+  "link": "https://s.shopee.com.br/7KysnSlZ7c",
+  "link_site": "https://s.shopee.com.br/9pgDm3bZEk",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lr0qjehmneod42",
+  "destaque": true,
+  "criado": 1795806356
  }
 ]
